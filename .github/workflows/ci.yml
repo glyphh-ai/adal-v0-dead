@@ -1,0 +1,35 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+      # The Ada kernel is the private ada-private repo, read with its read-only deploy key (the ADA_DEPLOY_KEY
+      # secret), as the server's CI does.
+      - name: The kernel's deploy key
+        env:
+          ADA_DEPLOY_KEY: ${{ secrets.ADA_DEPLOY_KEY }}
+        run: |
+          mkdir -p .secrets
+          printf '%s\n' "$ADA_DEPLOY_KEY" > .secrets/ada_deploy_key
+          chmod 600 .secrets/ada_deploy_key
+          git config --global url."ssh://git@github.com/glyphh-ai/ada-private".insteadOf "https://github.com/glyphh-ai/ada-private"
+          echo "GIT_SSH_COMMAND=ssh -i $PWD/.secrets/ada_deploy_key -o StrictHostKeyChecking=accept-new" >> "$GITHUB_ENV"
+      - run: uv sync --frozen
+      - run: uv run ruff check . && uv run ruff format --check .
+      # The unit tests: a scripted model, no weights. The model tests (pytest -m model) run on a machine with one.
+      - run: uv run pytest
