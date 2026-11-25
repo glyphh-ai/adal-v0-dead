@@ -1,0 +1,63 @@
+{
+ "model": "claude-sonnet-5-5",
+ "today": {
+  "recall": 100,
+  "corrected_strict": 0,
+  "corrected_new_said": 50,
+  "corrected_old_said": 50,
+  "unknown_clean": 8,
+  "unknown_value_said": 5,
+  "unrelated_value_said": 0,
+  "corrected_strict_is_now": 0,
+  "corrected_strict_value_first": 0,
+  "lines_recall": 7.7,
+  "lines_corrected": 8.0,
+  "lines_unknown": 6.5,
+  "lines_unrelated": 4.1
+ },
+ "today_forget": {
+  "recall": 100,
+  "corrected_strict": 50,
+  "corrected_new_said": 50,
+  "corrected_old_said": 0,
+  "unknown_clean": 6,
+  "unknown_value_said": 4,
+  "unrelated_value_said": 0,
+  "corrected_strict_is_now": 25,
+  "corrected_strict_value_first": 25,
+  "lines_recall": 7.6,
+  "lines_corrected": 8.0,
+  "lines_unknown": 6.5,
+  "lines_unrelated": 3.7
+ },
+ "new": {
+  "recall": 100,
+  "corrected_strict": 25,
+  "corrected_new_said": 50,
+  "corrected_old_said": 25,
+  "unknown_clean": 24,
+  "unknown_value_said": 1,
+  "unrelated_value_said": 0,
+  "corrected_strict_is_now": 25,
+  "corrected_strict_value_first": 0,
+  "lines_recall": 4.5,
+  "lines_corrected": 4.5,
+  "lines_unknown": 0.0,
+  "lines_unrelated": 0.0
+ },
+ "new_ingest": {
+  "recall": 100,
+  "corrected_strict": 50,
+  "corrected_new_said": 50,
+  "corrected_old_said": 0,
+  "unknown_clean": 24,
+  "unknown_value_said": 1,
+  "unrelated_value_said": 0,
+  "corrected_strict_is_now": 25,
+  "corrected_strict_value_first": 25,
+  "lines_recall": 4.0,
+  "lines_corrected": 4.0,
+  "lines_unknown": 0.0,
+  "lines_unrelated": 0.0
+ }
+}

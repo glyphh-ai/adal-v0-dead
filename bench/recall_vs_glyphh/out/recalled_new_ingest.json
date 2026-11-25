@@ -1,0 +1,954 @@
+{
+ "0": [
+  "Dagatu Bahipi's home town is Levi.",
+  "Dagatu Bahipi's account manager is Ruhuba.",
+  "Dagatu Bahipi's discount code is Suseho.",
+  "Dagatu Bahipi bought the Lona last spring."
+ ],
+ "1": [
+  "Dagatu Bahipi bought the Lona last spring.",
+  "Dagatu Bahipi's discount code is Suseho.",
+  "Dagatu Bahipi's account manager is Ruhuba.",
+  "Dagatu Bahipi's home town is Levi."
+ ],
+ "2": [
+  "Dagatu Bahipi's account manager is Ruhuba.",
+  "Dagatu Bahipi's discount code is Suseho.",
+  "Dagatu Bahipi's home town is Levi.",
+  "Dagatu Bahipi bought the Lona last spring."
+ ],
+ "3": [
+  "Zefebu Nemasi bought the Vepoge last spring.",
+  "Zefebu Nemasi's discount code is Sero.",
+  "Zefebu Nemasi's account manager is Kuto.",
+  "Zefebu Nemasi's home town is Dopi."
+ ],
+ "4": [
+  "Zefebu Nemasi's discount code is Sero.",
+  "Zefebu Nemasi bought the Vepoge last spring.",
+  "Zefebu Nemasi's account manager is Kuto.",
+  "Zefebu Nemasi's home town is Dopi."
+ ],
+ "5": [
+  "Zefebu Nemasi's account manager is Kuto.",
+  "Zefebu Nemasi bought the Vepoge last spring.",
+  "Zefebu Nemasi's discount code is Sero.",
+  "Zefebu Nemasi's home town is Dopi."
+ ],
+ "6": [
+  "Retu Zohu's discount code is Femike.",
+  "Retu Zohu bought the Roho last spring.",
+  "Retu Zohu's account manager is Pufo.",
+  "Retu Zohu's home town is Vika."
+ ],
+ "7": [
+  "Retu Zohu's home town is Vika.",
+  "Retu Zohu bought the Roho last spring.",
+  "Retu Zohu's account manager is Pufo.",
+  "Retu Zohu's discount code is Femike."
+ ],
+ "8": [
+  "Retu Zohu's account manager is Pufo.",
+  "Retu Zohu bought the Roho last spring.",
+  "Retu Zohu's discount code is Femike.",
+  "Retu Zohu's home town is Vika."
+ ],
+ "9": [
+  "Bofo Nuvi's home town is Zupupi.",
+  "Bofo Nuvi bought the Pokoza last spring.",
+  "Bofo Nuvi's account manager is Puma.",
+  "Bofo Nuvi's discount code is Kadefo."
+ ],
+ "10": [
+  "Bofo Nuvi bought the Pokoza last spring.",
+  "Bofo Nuvi's account manager is Puma.",
+  "Bofo Nuvi's discount code is Kadefo.",
+  "Bofo Nuvi's home town is Zupupi."
+ ],
+ "11": [
+  "Bofo Nuvi's account manager is Puma.",
+  "Bofo Nuvi bought the Pokoza last spring.",
+  "Bofo Nuvi's discount code is Kadefo.",
+  "Bofo Nuvi's home town is Zupupi."
+ ],
+ "12": [
+  "Hime Nuzobe bought the Rameno last spring.",
+  "Hime Nuzobe's account manager is Munosi.",
+  "Hime Nuzobe's discount code is Bipa.",
+  "Hime Nuzobe's home town is Pefido."
+ ],
+ "13": [
+  "Hime Nuzobe's discount code is Bipa.",
+  "Hime Nuzobe bought the Rameno last spring.",
+  "Hime Nuzobe's account manager is Munosi.",
+  "Hime Nuzobe's home town is Pefido."
+ ],
+ "14": [
+  "Hime Nuzobe's account manager is Munosi.",
+  "Hime Nuzobe bought the Rameno last spring.",
+  "Hime Nuzobe's discount code is Bipa.",
+  "Hime Nuzobe's home town is Pefido."
+ ],
+ "15": [
+  "Rapi Gaso's discount code is Navu.",
+  "Rapi Gaso bought the Miba last spring.",
+  "Rapi Gaso's account manager is Robubu.",
+  "Rapi Gaso's home town is Kako."
+ ],
+ "16": [
+  "Rapi Gaso's home town is Kako.",
+  "Rapi Gaso bought the Miba last spring.",
+  "Rapi Gaso's account manager is Robubu.",
+  "Rapi Gaso's discount code is Navu."
+ ],
+ "17": [
+  "Rapi Gaso's account manager is Robubu.",
+  "Rapi Gaso bought the Miba last spring.",
+  "Rapi Gaso's discount code is Navu.",
+  "Rapi Gaso's home town is Kako."
+ ],
+ "18": [
+  "Satuto Nive's home town is Nofi.",
+  "Satuto Nive bought the Doluke last spring.",
+  "Satuto Nive's account manager is Lupaha.",
+  "Satuto Nive's discount code is Vadaki."
+ ],
+ "19": [
+  "Satuto Nive bought the Doluke last spring.",
+  "Satuto Nive's discount code is Vadaki.",
+  "Satuto Nive's account manager is Lupaha.",
+  "Satuto Nive's home town is Nofi."
+ ],
+ "20": [
+  "Satuto Nive's account manager is Lupaha.",
+  "Satuto Nive bought the Doluke last spring.",
+  "Satuto Nive's discount code is Vadaki.",
+  "Satuto Nive's home town is Nofi."
+ ],
+ "21": [
+  "Tule Faheke bought the Vubapi last spring.",
+  "Tule Faheke's discount code is Vebu.",
+  "Tule Faheke's account manager is Bavovu.",
+  "Tule Faheke's home town is Dolura."
+ ],
+ "22": [
+  "Tule Faheke's discount code is Vebu.",
+  "Tule Faheke bought the Vubapi last spring.",
+  "Tule Faheke's account manager is Bavovu.",
+  "Tule Faheke's home town is Dolura."
+ ],
+ "23": [
+  "Tule Faheke's account manager is Bavovu.",
+  "Tule Faheke bought the Vubapi last spring.",
+  "Tule Faheke's discount code is Vebu.",
+  "Tule Faheke's home town is Dolura."
+ ],
+ "24": [
+  "Nebe Divu's discount code is Hinagi.",
+  "Nebe Divu bought the Kisima last spring.",
+  "Nebe Divu's account manager is Vena.",
+  "Nebe Divu's home town is Zone."
+ ],
+ "25": [
+  "Nebe Divu's home town is Zone.",
+  "Nebe Divu bought the Kisima last spring.",
+  "Nebe Divu's account manager is Vena.",
+  "Nebe Divu's discount code is Hinagi."
+ ],
+ "26": [
+  "Nebe Divu's account manager is Vena.",
+  "Nebe Divu bought the Kisima last spring.",
+  "Nebe Divu's discount code is Hinagi.",
+  "Nebe Divu's home town is Zone."
+ ],
+ "27": [
+  "Makego Ranipu's home town is Pihira.",
+  "Makego Ranipu bought the Koniba last spring.",
+  "Makego Ranipu's account manager is Kodefe.",
+  "Makego Ranipu's discount code is Nita."
+ ],
+ "28": [
+  "Makego Ranipu bought the Koniba last spring.",
+  "Makego Ranipu's account manager is Kodefe.",
+  "Makego Ranipu's discount code is Nita.",
+  "Makego Ranipu's home town is Pihira."
+ ],
+ "29": [
+  "Makego Ranipu's account manager is Kodefe.",
+  "Makego Ranipu bought the Koniba last spring.",
+  "Makego Ranipu's discount code is Nita.",
+  "Makego Ranipu's home town is Pihira."
+ ],
+ "30": [
+  "Rode Vudula bought the Fimi last spring.",
+  "Rode Vudula's account manager is Lili.",
+  "Rode Vudula's discount code is Donaru.",
+  "Rode Vudula's home town is Heso."
+ ],
+ "31": [
+  "Rode Vudula's discount code is Donaru.",
+  "Rode Vudula bought the Fimi last spring.",
+  "Rode Vudula's account manager is Lili.",
+  "Rode Vudula's home town is Heso."
+ ],
+ "32": [
+  "Rode Vudula's account manager is Lili.",
+  "Rode Vudula bought the Fimi last spring.",
+  "Rode Vudula's discount code is Donaru.",
+  "Rode Vudula's home town is Heso."
+ ],
+ "33": [
+  "Nedule Nefapo's discount code is Lape.",
+  "Nedule Nefapo bought the Nomo last spring.",
+  "Nedule Nefapo's account manager is Zesosi.",
+  "Nedule Nefapo's home town is Vugo."
+ ],
+ "34": [
+  "Nedule Nefapo's home town is Vugo.",
+  "Nedule Nefapo bought the Nomo last spring.",
+  "Nedule Nefapo's account manager is Zesosi.",
+  "Nedule Nefapo's discount code is Lape."
+ ],
+ "35": [
+  "Nedule Nefapo's account manager is Zesosi.",
+  "Nedule Nefapo bought the Nomo last spring.",
+  "Nedule Nefapo's discount code is Lape.",
+  "Nedule Nefapo's home town is Vugo."
+ ],
+ "36": [
+  "Remi Migu's home town is Gutebe.",
+  "Remi Migu bought the Fopo last spring.",
+  "Remi Migu's account manager is Viloto.",
+  "Remi Migu's discount code is Nune."
+ ],
+ "37": [
+  "Remi Migu bought the Fopo last spring.",
+  "Remi Migu's discount code is Nune.",
+  "Remi Migu's account manager is Viloto.",
+  "Remi Migu's home town is Gutebe."
+ ],
+ "38": [
+  "Remi Migu's account manager is Viloto.",
+  "Remi Migu bought the Fopo last spring.",
+  "Remi Migu's discount code is Nune.",
+  "Remi Migu's home town is Gutebe."
+ ],
+ "39": [
+  "Hubilo Nafime bought the Lobu last spring.",
+  "Hubilo Nafime's discount code is Mokoma.",
+  "Hubilo Nafime's account manager is Torade.",
+  "Hubilo Nafime's home town is Hufu."
+ ],
+ "40": [
+  "Hubilo Nafime's discount code is Mokoma.",
+  "Hubilo Nafime bought the Lobu last spring.",
+  "Hubilo Nafime's account manager is Torade.",
+  "Hubilo Nafime's home town is Hufu."
+ ],
+ "41": [
+  "Hubilo Nafime's account manager is Torade.",
+  "Hubilo Nafime bought the Lobu last spring.",
+  "Hubilo Nafime's discount code is Mokoma.",
+  "Hubilo Nafime's home town is Hufu."
+ ],
+ "42": [
+  "Vamu Sokodo's discount code is Refe.",
+  "Vamu Sokodo bought the Ravugo last spring.",
+  "Vamu Sokodo's account manager is Lolaza.",
+  "Vamu Sokodo's home town is Rura."
+ ],
+ "43": [
+  "Vamu Sokodo's home town is Rura.",
+  "Vamu Sokodo bought the Ravugo last spring.",
+  "Vamu Sokodo's account manager is Lolaza.",
+  "Vamu Sokodo's discount code is Refe."
+ ],
+ "44": [
+  "Vamu Sokodo's account manager is Lolaza.",
+  "Vamu Sokodo bought the Ravugo last spring.",
+  "Vamu Sokodo's discount code is Refe.",
+  "Vamu Sokodo's home town is Rura."
+ ],
+ "45": [
+  "Luma Zihara's home town is Pete.",
+  "Luma Zihara bought the Lipo last spring.",
+  "Luma Zihara's account manager is Reke.",
+  "Luma Zihara's discount code is Bito."
+ ],
+ "46": [
+  "Luma Zihara bought the Lipo last spring.",
+  "Luma Zihara's account manager is Reke.",
+  "Luma Zihara's discount code is Bito.",
+  "Luma Zihara's home town is Pete."
+ ],
+ "47": [
+  "Luma Zihara's account manager is Reke.",
+  "Luma Zihara bought the Lipo last spring.",
+  "Luma Zihara's discount code is Bito.",
+  "Luma Zihara's home town is Pete."
+ ],
+ "48": [
+  "Pabo Kege bought the Diga last spring.",
+  "Pabo Kege's account manager is Tazu.",
+  "Pabo Kege's discount code is Nohepe.",
+  "Pabo Kege's home town is Nozele."
+ ],
+ "49": [
+  "Pabo Kege's discount code is Nohepe.",
+  "Pabo Kege bought the Diga last spring.",
+  "Pabo Kege's account manager is Tazu.",
+  "Pabo Kege's home town is Nozele."
+ ],
+ "50": [
+  "Pabo Kege's account manager is Tazu.",
+  "Pabo Kege bought the Diga last spring.",
+  "Pabo Kege's discount code is Nohepe.",
+  "Pabo Kege's home town is Nozele."
+ ],
+ "51": [
+  "Salo Mali's discount code is Fugaru.",
+  "Salo Mali's account manager is Dugoro.",
+  "Salo Mali's home town is Zolomu.",
+  "Salo Mali bought the Lise last spring."
+ ],
+ "52": [
+  "Salo Mali's home town is Zolomu.",
+  "Salo Mali's account manager is Dugoro.",
+  "Salo Mali's discount code is Fugaru.",
+  "Salo Mali bought the Lise last spring."
+ ],
+ "53": [
+  "Salo Mali's account manager is Dugoro.",
+  "Salo Mali's discount code is Fugaru.",
+  "Salo Mali's home town is Zolomu.",
+  "Salo Mali bought the Lise last spring."
+ ],
+ "54": [
+  "Kasa Sabe's home town is Kofavu.",
+  "Kasa Sabe bought the Fovibi last spring.",
+  "Kasa Sabe's account manager is Zizo.",
+  "Kasa Sabe's discount code is Zomadi."
+ ],
+ "55": [
+  "Kasa Sabe bought the Fovibi last spring.",
+  "Kasa Sabe's discount code is Zomadi.",
+  "Kasa Sabe's account manager is Zizo.",
+  "Kasa Sabe's home town is Kofavu."
+ ],
+ "56": [
+  "Kasa Sabe's account manager is Zizo.",
+  "Kasa Sabe bought the Fovibi last spring.",
+  "Kasa Sabe's discount code is Zomadi.",
+  "Kasa Sabe's home town is Kofavu."
+ ],
+ "57": [
+  "Pese Neme bought the Keka last spring.",
+  "Pese Neme's discount code is Puvega.",
+  "Pese Neme's account manager is Muni.",
+  "Pese Neme's home town is Keso."
+ ],
+ "58": [
+  "Pese Neme's discount code is Puvega.",
+  "Pese Neme bought the Keka last spring.",
+  "Pese Neme's account manager is Muni.",
+  "Pese Neme's home town is Keso."
+ ],
+ "59": [
+  "Pese Neme's account manager is Muni.",
+  "Pese Neme bought the Keka last spring.",
+  "Pese Neme's discount code is Puvega.",
+  "Pese Neme's home town is Keso."
+ ],
+ "60": [
+  "Tilo Tigepu's discount code is Goba.",
+  "Tilo Tigepu's account manager is Suse.",
+  "Tilo Tigepu's home town is Dasi.",
+  "Tilo Tigepu bought the Riki last spring."
+ ],
+ "61": [
+  "Tilo Tigepu's home town is Dasi.",
+  "Tilo Tigepu's account manager is Suse.",
+  "Tilo Tigepu's discount code is Goba.",
+  "Tilo Tigepu bought the Riki last spring."
+ ],
+ "62": [
+  "Tilo Tigepu's account manager is Suse.",
+  "Tilo Tigepu's discount code is Goba.",
+  "Tilo Tigepu's home town is Dasi.",
+  "Tilo Tigepu bought the Riki last spring."
+ ],
+ "63": [
+  "Lagasu Zefine's home town is Vumare.",
+  "Lagasu Zefine bought the Baka last spring.",
+  "Lagasu Zefine's account manager is Tupa.",
+  "Lagasu Zefine's discount code is Bomima."
+ ],
+ "64": [
+  "Lagasu Zefine bought the Baka last spring.",
+  "Lagasu Zefine's account manager is Tupa.",
+  "Lagasu Zefine's discount code is Bomima.",
+  "Lagasu Zefine's home town is Vumare."
+ ],
+ "65": [
+  "Lagasu Zefine's account manager is Tupa.",
+  "Lagasu Zefine bought the Baka last spring.",
+  "Lagasu Zefine's discount code is Bomima.",
+  "Lagasu Zefine's home town is Vumare."
+ ],
+ "66": [
+  "Noda Fisubu's account manager is Guha.",
+  "Noda Fisubu bought the Done last spring.",
+  "Noda Fisubu's discount code is Fibo.",
+  "Noda Fisubu's home town is Nobu."
+ ],
+ "67": [
+  "Noda Fisubu's discount code is Fibo.",
+  "Noda Fisubu's account manager is Guha.",
+  "Noda Fisubu's home town is Nobu.",
+  "Noda Fisubu bought the Done last spring."
+ ],
+ "68": [
+  "Noda Fisubu's account manager is Guha.",
+  "Noda Fisubu's discount code is Fibo.",
+  "Noda Fisubu's home town is Nobu.",
+  "Noda Fisubu bought the Done last spring."
+ ],
+ "69": [
+  "Nuvara Loka's discount code is Nafato.",
+  "Nuvara Loka bought the Sezeko last spring.",
+  "Nuvara Loka's account manager is Bupa.",
+  "Nuvara Loka's home town is Kusode."
+ ],
+ "70": [
+  "Nuvara Loka's home town is Kusode.",
+  "Nuvara Loka bought the Sezeko last spring.",
+  "Nuvara Loka's account manager is Bupa.",
+  "Nuvara Loka's discount code is Nafato."
+ ],
+ "71": [
+  "Nuvara Loka's account manager is Bupa.",
+  "Nuvara Loka bought the Sezeko last spring.",
+  "Nuvara Loka's discount code is Nafato.",
+  "Nuvara Loka's home town is Kusode."
+ ],
+ "72": [
+  "Horo Zaki's home town is Sidehi.",
+  "Horo Zaki bought the Peko last spring.",
+  "Horo Zaki's account manager is Pugi.",
+  "Horo Zaki's discount code is Zezido."
+ ],
+ "73": [
+  "Horo Zaki bought the Peko last spring.",
+  "Horo Zaki's discount code is Zezido.",
+  "Horo Zaki's account manager is Pugi.",
+  "Horo Zaki's home town is Sidehi."
+ ],
+ "74": [
+  "Horo Zaki's account manager is Pugi.",
+  "Horo Zaki bought the Peko last spring.",
+  "Horo Zaki's discount code is Zezido.",
+  "Horo Zaki's home town is Sidehi."
+ ],
+ "75": [
+  "Kasiti Rira bought the Fipi last spring.",
+  "Kasiti Rira's discount code is Dabu.",
+  "Kasiti Rira's account manager is Fudemo.",
+  "Kasiti Rira's home town is Lune."
+ ],
+ "76": [
+  "Kasiti Rira's discount code is Dabu.",
+  "Kasiti Rira bought the Fipi last spring.",
+  "Kasiti Rira's account manager is Fudemo.",
+  "Kasiti Rira's home town is Lune."
+ ],
+ "77": [
+  "Kasiti Rira's account manager is Fudemo.",
+  "Kasiti Rira bought the Fipi last spring.",
+  "Kasiti Rira's discount code is Dabu.",
+  "Kasiti Rira's home town is Lune."
+ ],
+ "78": [
+  "Kora Bizema's discount code is Supuzu.",
+  "Kora Bizema bought the Pepomi last spring.",
+  "Kora Bizema's account manager is Mufu.",
+  "Kora Bizema's home town is Pubiba."
+ ],
+ "79": [
+  "Kora Bizema's home town is Pubiba.",
+  "Kora Bizema bought the Pepomi last spring.",
+  "Kora Bizema's account manager is Mufu.",
+  "Kora Bizema's discount code is Supuzu."
+ ],
+ "80": [
+  "Kora Bizema's account manager is Mufu.",
+  "Kora Bizema bought the Pepomi last spring.",
+  "Kora Bizema's discount code is Supuzu.",
+  "Kora Bizema's home town is Pubiba."
+ ],
+ "81": [
+  "Numa Roba's home town is Dalu.",
+  "Numa Roba bought the Vate last spring.",
+  "Numa Roba's account manager is Mira.",
+  "Numa Roba's discount code is Lodadu."
+ ],
+ "82": [
+  "Numa Roba bought the Vate last spring.",
+  "Numa Roba's account manager is Mira.",
+  "Numa Roba's discount code is Lodadu.",
+  "Numa Roba's home town is Dalu."
+ ],
+ "83": [
+  "Numa Roba's account manager is Mira.",
+  "Numa Roba bought the Vate last spring.",
+  "Numa Roba's discount code is Lodadu.",
+  "Numa Roba's home town is Dalu."
+ ],
+ "84": [
+  "Boka Zari bought the Gali last spring.",
+  "Boka Zari's account manager is Dotiza.",
+  "Boka Zari's discount code is Bibaho.",
+  "Boka Zari's home town is Dihi."
+ ],
+ "85": [
+  "Boka Zari's discount code is Bibaho.",
+  "Boka Zari bought the Gali last spring.",
+  "Boka Zari's account manager is Dotiza.",
+  "Boka Zari's home town is Dihi."
+ ],
+ "86": [
+  "Boka Zari's account manager is Dotiza.",
+  "Boka Zari bought the Gali last spring.",
+  "Boka Zari's discount code is Bibaho.",
+  "Boka Zari's home town is Dihi."
+ ],
+ "87": [
+  "Luhizu Titiha's discount code is Lalani.",
+  "Luhizu Titiha's account manager is Kile.",
+  "Luhizu Titiha's home town is Bemifi.",
+  "Luhizu Titiha bought the Papa last spring."
+ ],
+ "88": [
+  "Luhizu Titiha's home town is Bemifi.",
+  "Luhizu Titiha's account manager is Kile.",
+  "Luhizu Titiha's discount code is Lalani.",
+  "Luhizu Titiha bought the Papa last spring."
+ ],
+ "89": [
+  "Luhizu Titiha's account manager is Kile.",
+  "Luhizu Titiha's discount code is Lalani.",
+  "Luhizu Titiha's home town is Bemifi.",
+  "Luhizu Titiha bought the Papa last spring."
+ ],
+ "90": [
+  "Dalera Bozo's home town is Nedi.",
+  "Dalera Bozo bought the Zalo last spring.",
+  "Dalera Bozo's account manager is Kadame.",
+  "Dalera Bozo's discount code is Rehe."
+ ],
+ "91": [
+  "Dalera Bozo bought the Zalo last spring.",
+  "Dalera Bozo's discount code is Rehe.",
+  "Dalera Bozo's account manager is Kadame.",
+  "Dalera Bozo's home town is Nedi."
+ ],
+ "92": [
+  "Dalera Bozo's account manager is Kadame.",
+  "Dalera Bozo bought the Zalo last spring.",
+  "Dalera Bozo's discount code is Rehe.",
+  "Dalera Bozo's home town is Nedi."
+ ],
+ "93": [
+  "Rizo Hamida bought the Vufa last spring.",
+  "Rizo Hamida's discount code is Guzega.",
+  "Rizo Hamida's account manager is Filugo.",
+  "Rizo Hamida's home town is Safu."
+ ],
+ "94": [
+  "Rizo Hamida's discount code is Guzega.",
+  "Rizo Hamida bought the Vufa last spring.",
+  "Rizo Hamida's account manager is Filugo.",
+  "Rizo Hamida's home town is Safu."
+ ],
+ "95": [
+  "Rizo Hamida's account manager is Filugo.",
+  "Rizo Hamida bought the Vufa last spring.",
+  "Rizo Hamida's home town is Safu.",
+  "Rizo Hamida's discount code is Guzega."
+ ],
+ "96": [
+  "Nemu Bavo's discount code is Damotu.",
+  "Nemu Bavo bought the Ditete last spring.",
+  "Nemu Bavo's account manager is Hibufu.",
+  "Nemu Bavo's home town is Zofigu."
+ ],
+ "97": [
+  "Nemu Bavo's home town is Zofigu.",
+  "Nemu Bavo bought the Ditete last spring.",
+  "Nemu Bavo's account manager is Hibufu.",
+  "Nemu Bavo's discount code is Damotu."
+ ],
+ "98": [
+  "Nemu Bavo's account manager is Hibufu.",
+  "Nemu Bavo bought the Ditete last spring.",
+  "Nemu Bavo's discount code is Damotu.",
+  "Nemu Bavo's home town is Zofigu."
+ ],
+ "99": [
+  "Hedeti Torudi's home town is Falara.",
+  "Hedeti Torudi bought the Mopumu last spring.",
+  "Hedeti Torudi's account manager is Medodo.",
+  "Hedeti Torudi's discount code is Zopoto."
+ ],
+ "100": [
+  "Hedeti Torudi bought the Mopumu last spring.",
+  "Hedeti Torudi's account manager is Medodo.",
+  "Hedeti Torudi's discount code is Zopoto.",
+  "Hedeti Torudi's home town is Falara."
+ ],
+ "101": [
+  "Hedeti Torudi's account manager is Medodo.",
+  "Hedeti Torudi bought the Mopumu last spring.",
+  "Hedeti Torudi's discount code is Zopoto.",
+  "Hedeti Torudi's home town is Falara."
+ ],
+ "102": [
+  "Hemiro Nago bought the Vapo last spring.",
+  "Hemiro Nago's account manager is Rogo.",
+  "Hemiro Nago's discount code is Hivo.",
+  "Hemiro Nago's home town is Rado."
+ ],
+ "103": [
+  "Hemiro Nago's discount code is Hivo.",
+  "Hemiro Nago bought the Vapo last spring.",
+  "Hemiro Nago's account manager is Rogo.",
+  "Hemiro Nago's home town is Rado."
+ ],
+ "104": [
+  "Hemiro Nago's account manager is Rogo.",
+  "Hemiro Nago bought the Vapo last spring.",
+  "Hemiro Nago's discount code is Hivo.",
+  "Hemiro Nago's home town is Rado."
+ ],
+ "105": [
+  "Zare Zipare's discount code is Foze.",
+  "Zare Zipare bought the Zode last spring.",
+  "Zare Zipare's account manager is Lekido.",
+  "Zare Zipare's home town is Vote."
+ ],
+ "106": [
+  "Zare Zipare's home town is Vote.",
+  "Zare Zipare bought the Zode last spring.",
+  "Zare Zipare's account manager is Lekido.",
+  "Zare Zipare's discount code is Foze."
+ ],
+ "107": [
+  "Zare Zipare's account manager is Lekido.",
+  "Zare Zipare bought the Zode last spring.",
+  "Zare Zipare's discount code is Foze.",
+  "Zare Zipare's home town is Vote."
+ ],
+ "108": [
+  "Zumo Haru's home town is Zahu.",
+  "Zumo Haru bought the Voduga last spring.",
+  "Zumo Haru's account manager is Masuvi.",
+  "Zumo Haru's discount code is Zuvoge."
+ ],
+ "109": [
+  "Zumo Haru bought the Voduga last spring.",
+  "Zumo Haru's discount code is Zuvoge.",
+  "Zumo Haru's account manager is Masuvi.",
+  "Zumo Haru's home town is Zahu."
+ ],
+ "110": [
+  "Zumo Haru's account manager is Masuvi.",
+  "Zumo Haru bought the Voduga last spring.",
+  "Zumo Haru's discount code is Zuvoge.",
+  "Zumo Haru's home town is Zahu."
+ ],
+ "111": [
+  "Soso Vuga bought the Zeko last spring.",
+  "Soso Vuga's discount code is Biko.",
+  "Soso Vuga's account manager is Vonole.",
+  "Soso Vuga's home town is Vahoko."
+ ],
+ "112": [
+  "Soso Vuga's discount code is Biko.",
+  "Soso Vuga bought the Zeko last spring.",
+  "Soso Vuga's account manager is Vonole.",
+  "Soso Vuga's home town is Vahoko."
+ ],
+ "113": [
+  "Soso Vuga's account manager is Vonole.",
+  "Soso Vuga bought the Zeko last spring.",
+  "Soso Vuga's discount code is Biko.",
+  "Soso Vuga's home town is Vahoko."
+ ],
+ "114": [
+  "Mofo Diha's discount code is Lukizu.",
+  "Mofo Diha bought the Bereno last spring.",
+  "Mofo Diha's account manager is Pamemu.",
+  "Mofo Diha's home town is Gemuga."
+ ],
+ "115": [
+  "Mofo Diha's home town is Gemuga.",
+  "Mofo Diha bought the Bereno last spring.",
+  "Mofo Diha's account manager is Pamemu.",
+  "Mofo Diha's discount code is Lukizu."
+ ],
+ "116": [
+  "Mofo Diha's account manager is Pamemu.",
+  "Mofo Diha bought the Bereno last spring.",
+  "Mofo Diha's discount code is Lukizu.",
+  "Mofo Diha's home town is Gemuga."
+ ],
+ "117": [
+  "Netiki Pebope's home town is Nonepa.",
+  "Netiki Pebope bought the Vezo last spring.",
+  "Netiki Pebope's account manager is Gisogu.",
+  "Netiki Pebope's discount code is Latu."
+ ],
+ "118": [
+  "Netiki Pebope bought the Vezo last spring.",
+  "Netiki Pebope's account manager is Gisogu.",
+  "Netiki Pebope's home town is Nonepa.",
+  "Netiki Pebope's discount code is Latu."
+ ],
+ "119": [
+  "Netiki Pebope's account manager is Gisogu.",
+  "Netiki Pebope bought the Vezo last spring.",
+  "Netiki Pebope's discount code is Latu.",
+  "Netiki Pebope's home town is Nonepa."
+ ],
+ "120": [
+  "Badadi Lavu bought the Luhome last spring.",
+  "Badadi Lavu's account manager is Zine.",
+  "Badadi Lavu's discount code is Zafu.",
+  "Badadi Lavu's home town is Pege."
+ ],
+ "121": [
+  "Badadi Lavu's discount code is Zafu.",
+  "Badadi Lavu bought the Luhome last spring.",
+  "Badadi Lavu's account manager is Zine.",
+  "Badadi Lavu's home town is Pege."
+ ],
+ "122": [
+  "Badadi Lavu's account manager is Zine.",
+  "Badadi Lavu bought the Luhome last spring.",
+  "Badadi Lavu's discount code is Zafu.",
+  "Badadi Lavu's home town is Pege."
+ ],
+ "123": [
+  "Kume Kogi's discount code is Guzovi.",
+  "Kume Kogi bought the Sazubu last spring.",
+  "Kume Kogi's account manager is Rafiho.",
+  "Kume Kogi's home town is Lokere."
+ ],
+ "124": [
+  "Kume Kogi's home town is Lokere.",
+  "Kume Kogi bought the Sazubu last spring.",
+  "Kume Kogi's account manager is Rafiho.",
+  "Kume Kogi's discount code is Guzovi."
+ ],
+ "125": [
+  "Kume Kogi's account manager is Rafiho.",
+  "Kume Kogi bought the Sazubu last spring.",
+  "Kume Kogi's discount code is Guzovi.",
+  "Kume Kogi's home town is Lokere."
+ ],
+ "126": [
+  "Nebusi Veke's home town is Gazene.",
+  "Nebusi Veke bought the Lukivo last spring.",
+  "Nebusi Veke's account manager is Zokodo.",
+  "Nebusi Veke's discount code is Puge."
+ ],
+ "127": [
+  "Nebusi Veke bought the Lukivo last spring.",
+  "Nebusi Veke's discount code is Puge.",
+  "Nebusi Veke's account manager is Zokodo.",
+  "Nebusi Veke's home town is Gazene."
+ ],
+ "128": [
+  "Nebusi Veke's account manager is Zokodo.",
+  "Nebusi Veke bought the Lukivo last spring.",
+  "Nebusi Veke's discount code is Puge.",
+  "Nebusi Veke's home town is Gazene."
+ ],
+ "129": [
+  "Tamoku Gahene bought the Bedomo last spring.",
+  "Tamoku Gahene's discount code is Podibo.",
+  "Tamoku Gahene's account manager is Faki.",
+  "Tamoku Gahene's home town is Tefavo."
+ ],
+ "130": [
+  "Tamoku Gahene's discount code is Podibo.",
+  "Tamoku Gahene bought the Bedomo last spring.",
+  "Tamoku Gahene's account manager is Faki.",
+  "Tamoku Gahene's home town is Tefavo."
+ ],
+ "131": [
+  "Tamoku Gahene's account manager is Faki.",
+  "Tamoku Gahene bought the Bedomo last spring.",
+  "Tamoku Gahene's discount code is Podibo.",
+  "Tamoku Gahene's home town is Tefavo."
+ ],
+ "132": [
+  "Sano Silira's discount code is Podesa.",
+  "Sano Silira bought the Mesibe last spring.",
+  "Sano Silira's account manager is Rubeki.",
+  "Sano Silira's home town is Kufazo."
+ ],
+ "133": [
+  "Sano Silira's home town is Kufazo.",
+  "Sano Silira bought the Mesibe last spring.",
+  "Sano Silira's account manager is Rubeki.",
+  "Sano Silira's discount code is Podesa."
+ ],
+ "134": [
+  "Sano Silira's account manager is Rubeki.",
+  "Sano Silira bought the Mesibe last spring.",
+  "Sano Silira's discount code is Podesa.",
+  "Sano Silira's home town is Kufazo."
+ ],
+ "135": [
+  "Vele Pore's home town is Nasu.",
+  "Vele Pore bought the Silugo last spring.",
+  "Vele Pore's account manager is Pume.",
+  "Vele Pore's discount code is Kimapu."
+ ],
+ "136": [
+  "Vele Pore bought the Silugo last spring.",
+  "Vele Pore's account manager is Pume.",
+  "Vele Pore's discount code is Kimapu.",
+  "Vele Pore's home town is Nasu."
+ ],
+ "137": [
+  "Vele Pore's account manager is Pume.",
+  "Vele Pore bought the Silugo last spring.",
+  "Vele Pore's discount code is Kimapu.",
+  "Vele Pore's home town is Nasu."
+ ],
+ "138": [
+  "Poteta Lobofi bought the Desuvu last spring.",
+  "Poteta Lobofi's account manager is Nemo.",
+  "Poteta Lobofi's discount code is Disena.",
+  "Poteta Lobofi's home town is Zimevu."
+ ],
+ "139": [
+  "Poteta Lobofi's discount code is Disena.",
+  "Poteta Lobofi bought the Desuvu last spring.",
+  "Poteta Lobofi's account manager is Nemo.",
+  "Poteta Lobofi's home town is Zimevu."
+ ],
+ "140": [
+  "Poteta Lobofi's account manager is Nemo.",
+  "Poteta Lobofi bought the Desuvu last spring.",
+  "Poteta Lobofi's discount code is Disena.",
+  "Poteta Lobofi's home town is Zimevu."
+ ],
+ "141": [
+  "Fapa Giratu's discount code is Dine.",
+  "Fapa Giratu bought the Voli last spring.",
+  "Fapa Giratu's account manager is Zohavo.",
+  "Fapa Giratu's home town is Fone."
+ ],
+ "142": [
+  "Fapa Giratu's home town is Fone.",
+  "Fapa Giratu bought the Voli last spring.",
+  "Fapa Giratu's account manager is Zohavo.",
+  "Fapa Giratu's discount code is Dine."
+ ],
+ "143": [
+  "Fapa Giratu's account manager is Zohavo.",
+  "Fapa Giratu bought the Voli last spring.",
+  "Fapa Giratu's discount code is Dine.",
+  "Fapa Giratu's home town is Fone."
+ ],
+ "144": [
+  "Tane Supula's home town is Sekari.",
+  "Tane Supula bought the Fibabe last spring.",
+  "Tane Supula's account manager is Menunu.",
+  "Tane Supula's discount code is Godale."
+ ],
+ "145": [
+  "Tane Supula bought the Fibabe last spring.",
+  "Tane Supula's discount code is Godale.",
+  "Tane Supula's account manager is Menunu.",
+  "Tane Supula's home town is Sekari."
+ ],
+ "146": [
+  "Tane Supula's account manager is Menunu.",
+  "Tane Supula bought the Fibabe last spring.",
+  "Tane Supula's discount code is Godale.",
+  "Tane Supula's home town is Sekari."
+ ],
+ "147": [
+  "Susuhe Dahaga bought the Tine last spring.",
+  "Susuhe Dahaga's discount code is Bami.",
+  "Susuhe Dahaga's account manager is Tatipa.",
+  "Susuhe Dahaga's home town is Hedi."
+ ],
+ "148": [
+  "Susuhe Dahaga's discount code is Bami.",
+  "Susuhe Dahaga's account manager is Tatipa.",
+  "Susuhe Dahaga's home town is Hedi.",
+  "Susuhe Dahaga bought the Tine last spring."
+ ],
+ "149": [
+  "Susuhe Dahaga's account manager is Tatipa.",
+  "Susuhe Dahaga's discount code is Bami.",
+  "Susuhe Dahaga's home town is Hedi.",
+  "Susuhe Dahaga bought the Tine last spring."
+ ],
+ "150": [],
+ "151": [],
+ "152": [],
+ "153": [],
+ "154": [],
+ "155": [],
+ "156": [],
+ "157": [],
+ "158": [],
+ "159": [],
+ "160": [],
+ "161": [],
+ "162": [],
+ "163": [],
+ "164": [
+  "Hubilo Nafime bought the Lobu last spring."
+ ],
+ "165": [],
+ "166": [],
+ "167": [],
+ "168": [],
+ "169": [],
+ "170": [],
+ "171": [],
+ "172": [],
+ "173": [],
+ "174": [],
+ "175": [],
+ "176": [],
+ "177": [],
+ "178": [],
+ "179": [],
+ "180": [],
+ "181": [],
+ "182": [],
+ "183": [],
+ "184": [],
+ "185": [],
+ "186": [],
+ "187": [],
+ "188": [],
+ "189": [],
+ "190": [],
+ "191": [],
+ "192": [],
+ "193": [],
+ "194": [],
+ "195": [],
+ "196": [],
+ "197": [],
+ "198": [],
+ "199": []
+}

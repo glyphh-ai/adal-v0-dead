@@ -1,0 +1,8 @@
+Today's glyphh recall
+   recall 100/100 | corrected: new said and old not 0/50 (is-now 0/25, value-first 0/25; new said 50, old said 50) | unknown people: clean 8/25, a stored value said 5 | lines put in view: recall 7.7, unknown 6.5, unrelated 4.1
+Today's, if Claude always forgets the old memory first
+   recall 100/100 | corrected: new said and old not 50/50 (is-now 25/25, value-first 25/25; new said 50, old said 0) | unknown people: clean 6/25, a stored value said 4 | lines put in view: recall 7.6, unknown 6.5, unrelated 3.7
+New engine, as told
+   recall 100/100 | corrected: new said and old not 25/50 (is-now 25/25, value-first 0/25; new said 50, old said 25) | unknown people: clean 24/25, a stored value said 1 | lines put in view: recall 4.5, unknown 0.0, unrelated 0.0
+New engine, updates through ingest
+   recall 100/100 | corrected: new said and old not 50/50 (is-now 25/25, value-first 25/25; new said 50, old said 0) | unknown people: clean 24/25, a stored value said 1 | lines put in view: recall 4.0, unknown 0.0, unrelated 0.0

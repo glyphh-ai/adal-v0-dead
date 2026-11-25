@@ -1,0 +1,3258 @@
+[
+ {
+  "kind": "recall",
+  "q": "Which town does Dagatu Bahipi live in?",
+  "want": "Levi",
+  "id": 0,
+  "recalled": [
+   "Dagatu Bahipi's home town is Levi.",
+   "Dagatu Bahipi bought the Lona last spring.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Zumo Haru's home town is Zahu.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Soso Vuga's home town is Vahoko.",
+   "Hedeti Torudi's home town is Falara."
+  ],
+  "reply": "According to your glyphh memory, Dagatu Bahipi's home town is Levi."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Dagatu Bahipi purchase last spring?",
+  "want": "Lona",
+  "id": 1,
+  "recalled": [
+   "Dagatu Bahipi bought the Lona last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Tilo Tigepu bought the Riki last spring.",
+   "Sano Silira bought the Mesibe last spring.",
+   "Fapa Giratu bought the Voli last spring."
+  ],
+  "reply": "Dagatu Bahipi bought the **Lona** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Dagatu Bahipi?",
+  "want": "Ruhuba",
+  "old": "Fosa",
+  "update": 0,
+  "id": 2,
+  "recalled": [
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Rode Vudula's account manager is now Lili.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Poteta Lobofi's account manager is now Nemo."
+  ],
+  "reply": "Dagatu Bahipi's account manager is now Ruhuba, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Zefebu Nemasi purchase last spring?",
+  "want": "Vepoge",
+  "id": 3,
+  "recalled": [
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Pese Neme bought the Keka last spring.",
+   "Vele Pore bought the Silugo last spring.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Pabo Kege bought the Diga last spring."
+  ],
+  "reply": "Zefebu Nemasi purchased the **Vepoge** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Zefebu Nemasi get?",
+  "want": "Sero",
+  "id": 4,
+  "recalled": [
+   "Zefebu Nemasi's discount code is Sero.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Soso Vuga's discount code is Biko.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Horo Zaki's discount code is Zezido.",
+   "Boka Zari's discount code is Bibaho.",
+   "Rapi Gaso's discount code is Navu."
+  ],
+  "reply": "Zefebu Nemasi's discount code is **Sero**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Zefebu Nemasi's account?",
+  "want": "Kuto",
+  "old": "Gome",
+  "update": 1,
+  "id": 5,
+  "recalled": [
+   "Update: Kuto has taken over as Zefebu Nemasi's account manager.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Pabo Kege's account manager is now Tazu."
+  ],
+  "reply": "Kuto is now Zefebu Nemasi's account manager, according to the most recent update in your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Retu Zohu get?",
+  "want": "Femike",
+  "id": 6,
+  "recalled": [
+   "Retu Zohu's discount code is Femike.",
+   "Soso Vuga's discount code is Biko.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Boka Zari's discount code is Bibaho.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Pese Neme's discount code is Puvega."
+  ],
+  "reply": "Retu Zohu's discount code is **Femike**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Retu Zohu's home town?",
+  "want": "Vika",
+  "id": 7,
+  "recalled": [
+   "Retu Zohu's home town is Vika.",
+   "Retu Zohu's discount code is Femike.",
+   "Zumo Haru's home town is Zahu.",
+   "Nebusi Veke's home town is Gazene.",
+   "Nuvara Loka's home town is Kusode.",
+   "Hime Nuzobe's home town is Pefido.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Kasiti Rira's home town is Lune."
+  ],
+  "reply": "Retu Zohu's home town is Vika."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Retu Zohu?",
+  "want": "Pufo",
+  "old": "Dito",
+  "update": 0,
+  "id": 8,
+  "recalled": [
+   "Retu Zohu's account manager is now Pufo.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Pabo Kege's account manager is now Tazu.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Vamu Sokodo's account manager is now Lolaza."
+  ],
+  "reply": "Retu Zohu's account manager is now Pufo, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Bofo Nuvi's home town?",
+  "want": "Zupupi",
+  "id": 9,
+  "recalled": [
+   "Bofo Nuvi's home town is Zupupi.",
+   "Soso Vuga's home town is Vahoko.",
+   "Nuvara Loka's home town is Kusode.",
+   "Nebe Divu's home town is Zone.",
+   "Dalera Bozo's home town is Nedi.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Vamu Sokodo's home town is Rura.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "Bofo Nuvi's home town is Zupupi."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Bofo Nuvi buy?",
+  "want": "Pokoza",
+  "id": 10,
+  "recalled": [
+   "Bofo Nuvi bought the Pokoza last spring.",
+   "Bofo Nuvi's home town is Zupupi.",
+   "Bofo Nuvi's discount code is Kadefo.",
+   "Update: Puma has taken over as Bofo Nuvi's account manager."
+  ],
+  "reply": "Bofo Nuvi bought the **Pokoza** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Bofo Nuvi's account?",
+  "want": "Puma",
+  "old": "Guna",
+  "update": 1,
+  "id": 11,
+  "recalled": [
+   "Update: Puma has taken over as Bofo Nuvi's account manager.",
+   "Bofo Nuvi's home town is Zupupi.",
+   "Bofo Nuvi's discount code is Kadefo.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Nebe Divu's account manager is now Vena.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Dagatu Bahipi's account manager is now Ruhuba."
+  ],
+  "reply": "Puma manages Bofo Nuvi's account, having taken over as the account manager according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Hime Nuzobe buy?",
+  "want": "Rameno",
+  "id": 12,
+  "recalled": [
+   "Hime Nuzobe bought the Rameno last spring.",
+   "Hime Nuzobe's home town is Pefido.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Hime Nuzobe's account manager is now Munosi.",
+   "Hime Nuzobe's discount code is Bipa.",
+   "Tane Supula's account manager is now Menunu.",
+   "Tane Supula bought the Fibabe last spring.",
+   "Pese Neme bought the Keka last spring."
+  ],
+  "reply": "Hime Nuzobe bought the Rameno last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Hime Nuzobe use?",
+  "want": "Bipa",
+  "id": 13,
+  "recalled": [
+   "Hime Nuzobe's discount code is Bipa.",
+   "Soso Vuga's discount code is Biko.",
+   "Pese Neme's discount code is Puvega.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Boka Zari's discount code is Bibaho.",
+   "Rapi Gaso's discount code is Navu.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Dagatu Bahipi's discount code is Suseho."
+  ],
+  "reply": "Hime Nuzobe can use the discount code **Bipa**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Hime Nuzobe?",
+  "want": "Munosi",
+  "old": "Nurube",
+  "update": 0,
+  "id": 14,
+  "recalled": [
+   "Hime Nuzobe's account manager is now Munosi.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Rode Vudula's account manager is now Lili.",
+   "Zumo Haru's account manager is now Masuvi."
+  ],
+  "reply": "Hime Nuzobe's account manager is now Munosi."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Rapi Gaso use?",
+  "want": "Navu",
+  "id": 15,
+  "recalled": [
+   "Rapi Gaso's discount code is Navu.",
+   "Horo Zaki's discount code is Zezido.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Salo Mali's discount code is Fugaru.",
+   "Boka Zari's discount code is Bibaho.",
+   "Rizo Hamida's discount code is Guzega."
+  ],
+  "reply": "Rapi Gaso can use the discount code **Navu**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Rapi Gaso live in?",
+  "want": "Kako",
+  "id": 16,
+  "recalled": [
+   "Rapi Gaso's home town is Kako.",
+   "Rapi Gaso bought the Miba last spring.",
+   "Hedeti Torudi's home town is Falara.",
+   "Nebe Divu's home town is Zone.",
+   "Rapi Gaso's discount code is Navu.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Dagatu Bahipi's home town is Levi.",
+   "Kora Bizema's home town is Pubiba."
+  ],
+  "reply": "According to your glyphh memory, Rapi Gaso's home town is Kako."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Rapi Gaso's account?",
+  "want": "Robubu",
+  "old": "Zehu",
+  "update": 1,
+  "id": 17,
+  "recalled": [
+   "Update: Robubu has taken over as Rapi Gaso's account manager.",
+   "Rapi Gaso's discount code is Navu.",
+   "Rapi Gaso's home town is Kako.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Dalera Bozo's account manager is now Kadame."
+  ],
+  "reply": "Robubu is now Rapi Gaso's account manager, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Satuto Nive live in?",
+  "want": "Nofi",
+  "id": 18,
+  "recalled": [
+   "Satuto Nive's home town is Nofi.",
+   "Satuto Nive bought the Doluke last spring.",
+   "Hedeti Torudi's home town is Falara.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Makego Ranipu's home town is Pihira.",
+   "Soso Vuga's home town is Vahoko.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Tane Supula's home town is Sekari."
+  ],
+  "reply": "Satuto Nive's home town is Nofi, according to your glyphh memory. It doesn't say where they currently live, so Nofi is the closest answer available."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Satuto Nive purchase last spring?",
+  "want": "Doluke",
+  "id": 19,
+  "recalled": [
+   "Satuto Nive bought the Doluke last spring.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Sano Silira bought the Mesibe last spring.",
+   "Bofo Nuvi bought the Pokoza last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Retu Zohu bought the Roho last spring."
+  ],
+  "reply": "Satuto Nive bought the **Doluke** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Satuto Nive?",
+  "want": "Lupaha",
+  "old": "Gini",
+  "update": 0,
+  "id": 20,
+  "recalled": [
+   "Satuto Nive's account manager is now Lupaha.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Remi Migu's account manager is now Viloto.",
+   "Sano Silira's account manager is now Rubeki.",
+   "Poteta Lobofi's account manager is now Nemo."
+  ],
+  "reply": "Satuto Nive's account manager is now Lupaha, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Tule Faheke purchase last spring?",
+  "want": "Vubapi",
+  "id": 21,
+  "recalled": [
+   "Tule Faheke bought the Vubapi last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Pabo Kege bought the Diga last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Remi Migu bought the Fopo last spring.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Hemiro Nago bought the Vapo last spring."
+  ],
+  "reply": "Tule Faheke bought the **Vubapi** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Tule Faheke get?",
+  "want": "Vebu",
+  "id": 22,
+  "recalled": [
+   "Tule Faheke's discount code is Vebu.",
+   "Soso Vuga's discount code is Biko.",
+   "Tule Faheke bought the Vubapi last spring.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Boka Zari's discount code is Bibaho.",
+   "Retu Zohu's discount code is Femike."
+  ],
+  "reply": "Tule Faheke's discount code is **Vebu**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Tule Faheke's account?",
+  "want": "Bavovu",
+  "old": "Pipu",
+  "update": 1,
+  "id": 23,
+  "recalled": [
+   "Update: Bavovu has taken over as Tule Faheke's account manager.",
+   "Tule Faheke's discount code is Vebu.",
+   "Tule Faheke's home town is Dolura.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Nebe Divu's account manager is now Vena.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Pabo Kege's account manager is now Tazu.",
+   "Update: Reke has taken over as Luma Zihara's account manager."
+  ],
+  "reply": "Bavovu manages Tule Faheke's account, having taken it over according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Nebe Divu get?",
+  "want": "Hinagi",
+  "id": 24,
+  "recalled": [
+   "Nebe Divu's discount code is Hinagi.",
+   "Boka Zari's discount code is Bibaho.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Horo Zaki's discount code is Zezido.",
+   "Poteta Lobofi's discount code is Disena.",
+   "Pese Neme's discount code is Puvega.",
+   "Retu Zohu's discount code is Femike.",
+   "Nuvara Loka's discount code is Nafato."
+  ],
+  "reply": "Nebe Divu's discount code is **Hinagi**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Nebe Divu's home town?",
+  "want": "Zone",
+  "id": 25,
+  "recalled": [
+   "Nebe Divu's home town is Zone.",
+   "Kora Bizema's home town is Pubiba.",
+   "Kasiti Rira's home town is Lune.",
+   "Nebe Divu's account manager is now Vena.",
+   "Rizo Hamida's home town is Safu.",
+   "Nuvara Loka's home town is Kusode.",
+   "Zare Zipare's home town is Vote.",
+   "Tane Supula's home town is Sekari."
+  ],
+  "reply": "Nebe Divu's home town is Zone."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Nebe Divu?",
+  "want": "Vena",
+  "old": "Garola",
+  "update": 0,
+  "id": 26,
+  "recalled": [
+   "Nebe Divu's account manager is now Vena.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Zumo Haru's account manager is now Masuvi."
+  ],
+  "reply": "Nebe Divu's account manager is now Vena, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Makego Ranipu's home town?",
+  "want": "Pihira",
+  "id": 27,
+  "recalled": [
+   "Makego Ranipu's home town is Pihira.",
+   "Kasiti Rira's home town is Lune.",
+   "Nuvara Loka's home town is Kusode.",
+   "Kora Bizema's home town is Pubiba.",
+   "Hubilo Nafime's home town is Hufu.",
+   "Badadi Lavu's home town is Pege.",
+   "Netiki Pebope's home town is Nonepa.",
+   "Vamu Sokodo's home town is Rura."
+  ],
+  "reply": "Makego Ranipu's home town is Pihira."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Makego Ranipu buy?",
+  "want": "Koniba",
+  "id": 28,
+  "recalled": [
+   "Makego Ranipu bought the Koniba last spring.",
+   "Makego Ranipu's discount code is Nita.",
+   "Makego Ranipu's home town is Pihira.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Update: Kodefe has taken over as Makego Ranipu's account manager."
+  ],
+  "reply": "Makego Ranipu bought the Koniba last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Makego Ranipu's account?",
+  "want": "Kodefe",
+  "old": "Tolifi",
+  "update": 1,
+  "id": 29,
+  "recalled": [
+   "Update: Kodefe has taken over as Makego Ranipu's account manager.",
+   "Makego Ranipu's discount code is Nita.",
+   "Makego Ranipu's home town is Pihira.",
+   "Nebe Divu's account manager is now Vena.",
+   "Update: Bavovu has taken over as Tule Faheke's account manager.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Remi Migu's account manager is now Viloto."
+  ],
+  "reply": "Kodefe is Makego Ranipu's account manager, according to your glyphh memory, which notes that Kodefe recently took over the account."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Rode Vudula buy?",
+  "want": "Fimi",
+  "id": 30,
+  "recalled": [
+   "Rode Vudula bought the Fimi last spring.",
+   "Rode Vudula's account manager is now Lili.",
+   "Rode Vudula's discount code is Donaru.",
+   "Rode Vudula's home town is Heso."
+  ],
+  "reply": "Rode Vudula bought the Fimi last spring, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Rode Vudula use?",
+  "want": "Donaru",
+  "id": 31,
+  "recalled": [
+   "Rode Vudula's discount code is Donaru.",
+   "Horo Zaki's discount code is Zezido.",
+   "Soso Vuga's discount code is Biko.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Boka Zari's discount code is Bibaho.",
+   "Luma Zihara's discount code is Bito.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Remi Migu's discount code is Nune."
+  ],
+  "reply": "Rode Vudula can use the discount code **Donaru**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Rode Vudula?",
+  "want": "Lili",
+  "old": "Davalu",
+  "update": 0,
+  "id": 32,
+  "recalled": [
+   "Rode Vudula's account manager is now Lili.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Remi Migu's account manager is now Viloto.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Noda Fisubu's account manager is now Guha."
+  ],
+  "reply": "Rode Vudula's account manager is now Lili, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Nedule Nefapo use?",
+  "want": "Lape",
+  "id": 33,
+  "recalled": [
+   "Nedule Nefapo's discount code is Lape.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Rapi Gaso's discount code is Navu.",
+   "Rode Vudula's discount code is Donaru.",
+   "Salo Mali's discount code is Fugaru.",
+   "Zefebu Nemasi's discount code is Sero."
+  ],
+  "reply": "Nedule Nefapo can use the discount code **Lape**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Nedule Nefapo live in?",
+  "want": "Vugo",
+  "id": 34,
+  "recalled": [
+   "Nedule Nefapo's home town is Vugo.",
+   "Nedule Nefapo bought the Nomo last spring.",
+   "Rapi Gaso's home town is Kako.",
+   "Hedeti Torudi's home town is Falara.",
+   "Luhizu Titiha's home town is Bemifi.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Tane Supula's home town is Sekari.",
+   "Satuto Nive's home town is Nofi."
+  ],
+  "reply": "Your glyphh lists Nedule Nefapo's home town as Vugo, so that's the best indication of where they live. It doesn't say where they currently live, though, so if they've moved since, Vugo may not be right."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Nedule Nefapo's account?",
+  "want": "Zesosi",
+  "old": "Zubano",
+  "update": 1,
+  "id": 35,
+  "recalled": [
+   "Update: Zesosi has taken over as Nedule Nefapo's account manager.",
+   "Nedule Nefapo's discount code is Lape.",
+   "Nedule Nefapo's home town is Vugo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Nebe Divu's account manager is now Vena.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Horo Zaki's account manager is now Pugi."
+  ],
+  "reply": "Zesosi manages Nedule Nefapo's account, having taken over as the account manager according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Remi Migu live in?",
+  "want": "Gutebe",
+  "id": 36,
+  "recalled": [
+   "Remi Migu's home town is Gutebe.",
+   "Remi Migu bought the Fopo last spring.",
+   "Badadi Lavu's home town is Pege.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Hedeti Torudi's home town is Falara.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Zare Zipare's home town is Vote.",
+   "Remi Migu's discount code is Nune."
+  ],
+  "reply": "Your memory lists Remi Migu's home town as Gutebe, though it doesn't say outright where Remi currently lives. If \"lives in\" means the home town, the answer is Gutebe."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Remi Migu purchase last spring?",
+  "want": "Fopo",
+  "id": 37,
+  "recalled": [
+   "Remi Migu bought the Fopo last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Nebusi Veke bought the Lukivo last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Netiki Pebope bought the Vezo last spring.",
+   "Kasiti Rira bought the Fipi last spring."
+  ],
+  "reply": "Remi Migu bought the Fopo last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Remi Migu?",
+  "want": "Viloto",
+  "old": "Fefabe",
+  "update": 0,
+  "id": 38,
+  "recalled": [
+   "Remi Migu's account manager is now Viloto.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Rode Vudula's account manager is now Lili.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Kasa Sabe's account manager is now Zizo."
+  ],
+  "reply": "Remi Migu's account manager is now Viloto, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Hubilo Nafime purchase last spring?",
+  "want": "Lobu",
+  "id": 39,
+  "recalled": [
+   "Hubilo Nafime bought the Lobu last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Kasa Sabe bought the Fovibi last spring.",
+   "Netiki Pebope bought the Vezo last spring.",
+   "Zumo Haru bought the Voduga last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Boka Zari bought the Gali last spring."
+  ],
+  "reply": "Hubilo Nafime bought the **Lobu** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Hubilo Nafime get?",
+  "want": "Mokoma",
+  "id": 40,
+  "recalled": [
+   "Hubilo Nafime's discount code is Mokoma.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Fapa Giratu's discount code is Dine.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Boka Zari's discount code is Bibaho.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Horo Zaki's discount code is Zezido."
+  ],
+  "reply": "Hubilo Nafime's discount code is **Mokoma**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Hubilo Nafime's account?",
+  "want": "Torade",
+  "old": "Fupako",
+  "update": 1,
+  "id": 41,
+  "recalled": [
+   "Update: Torade has taken over as Hubilo Nafime's account manager.",
+   "Hubilo Nafime's discount code is Mokoma.",
+   "Hubilo Nafime's home town is Hufu.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Nebe Divu's account manager is now Vena.",
+   "Remi Migu's account manager is now Viloto.",
+   "Pabo Kege's account manager is now Tazu.",
+   "Tane Supula's account manager is now Menunu."
+  ],
+  "reply": "Torade manages Hubilo Nafime's account, having recently taken over as the account manager according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Vamu Sokodo get?",
+  "want": "Refe",
+  "id": 42,
+  "recalled": [
+   "Vamu Sokodo's discount code is Refe.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Soso Vuga's discount code is Biko.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Boka Zari's discount code is Bibaho.",
+   "Kora Bizema's discount code is Supuzu.",
+   "Fapa Giratu's discount code is Dine.",
+   "Zefebu Nemasi's discount code is Sero."
+  ],
+  "reply": "Vamu Sokodo's discount code is **Refe**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Vamu Sokodo's home town?",
+  "want": "Rura",
+  "id": 43,
+  "recalled": [
+   "Vamu Sokodo's home town is Rura.",
+   "Rizo Hamida's home town is Safu.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Boka Zari's home town is Dihi.",
+   "Tane Supula's home town is Sekari.",
+   "Lagasu Zefine's home town is Vumare.",
+   "Noda Fisubu's home town is Nobu.",
+   "Sano Silira's home town is Kufazo."
+  ],
+  "reply": "Vamu Sokodo's home town is Rura."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Vamu Sokodo?",
+  "want": "Lolaza",
+  "old": "Nogu",
+  "update": 0,
+  "id": 44,
+  "recalled": [
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Nebusi Veke's account manager is now Zokodo."
+  ],
+  "reply": "Vamu Sokodo's account manager is now Lolaza, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Luma Zihara's home town?",
+  "want": "Pete",
+  "id": 45,
+  "recalled": [
+   "Luma Zihara's home town is Pete.",
+   "Zare Zipare's home town is Vote.",
+   "Kasiti Rira's home town is Lune.",
+   "Noda Fisubu's home town is Nobu.",
+   "Hedeti Torudi's home town is Falara.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Nuvara Loka's home town is Kusode.",
+   "Sano Silira's home town is Kufazo."
+  ],
+  "reply": "Luma Zihara's home town is Pete."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Luma Zihara buy?",
+  "want": "Lipo",
+  "id": 46,
+  "recalled": [
+   "Luma Zihara bought the Lipo last spring.",
+   "Luma Zihara's home town is Pete.",
+   "Update: Reke has taken over as Luma Zihara's account manager.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Luma Zihara's discount code is Bito."
+  ],
+  "reply": "Luma Zihara bought the Lipo last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Luma Zihara's account?",
+  "want": "Reke",
+  "old": "Ziko",
+  "update": 1,
+  "id": 47,
+  "recalled": [
+   "Update: Reke has taken over as Luma Zihara's account manager.",
+   "Luma Zihara's home town is Pete.",
+   "Luma Zihara's discount code is Bito.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Nebe Divu's account manager is now Vena.",
+   "Pabo Kege's account manager is now Tazu.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Luma Zihara bought the Lipo last spring."
+  ],
+  "reply": "Reke is now Luma Zihara's account manager, according to your glyphh memory update."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Pabo Kege buy?",
+  "want": "Diga",
+  "id": 48,
+  "recalled": [
+   "Pabo Kege bought the Diga last spring.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Pabo Kege's home town is Nozele.",
+   "Pabo Kege's account manager is now Tazu."
+  ],
+  "reply": "Pabo Kege bought the **Diga** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Pabo Kege use?",
+  "want": "Nohepe",
+  "id": 49,
+  "recalled": [
+   "Pabo Kege's discount code is Nohepe.",
+   "Horo Zaki's discount code is Zezido.",
+   "Boka Zari's discount code is Bibaho.",
+   "Soso Vuga's discount code is Biko.",
+   "Remi Migu's discount code is Nune.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Rode Vudula's discount code is Donaru."
+  ],
+  "reply": "Pabo Kege can use the discount code **Nohepe**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Pabo Kege?",
+  "want": "Tazu",
+  "old": "Rini",
+  "update": 0,
+  "id": 50,
+  "recalled": [
+   "Pabo Kege's account manager is now Tazu.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Remi Migu's account manager is now Viloto.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Zumo Haru's account manager is now Masuvi.",
+   "Kasa Sabe's account manager is now Zizo."
+  ],
+  "reply": "Pabo Kege's account manager is now Tazu, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Salo Mali use?",
+  "want": "Fugaru",
+  "id": 51,
+  "recalled": [
+   "Salo Mali's discount code is Fugaru.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Remi Migu's discount code is Nune.",
+   "Soso Vuga's discount code is Biko.",
+   "Rode Vudula's discount code is Donaru.",
+   "Tilo Tigepu's discount code is Goba."
+  ],
+  "reply": "Salo Mali can use the discount code **Fugaru**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Salo Mali live in?",
+  "want": "Zolomu",
+  "id": 52,
+  "recalled": [
+   "Salo Mali's home town is Zolomu.",
+   "Salo Mali bought the Lise last spring.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Badadi Lavu's home town is Pege.",
+   "Remi Migu's home town is Gutebe.",
+   "Hedeti Torudi's home town is Falara.",
+   "Zefebu Nemasi's home town is Dopi."
+  ],
+  "reply": "Your glyphh memory says Salo Mali's home town is Zolomu, but it doesn't say where Salo Mali currently lives. If you're asking about home town specifically, the answer is Zolomu."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Salo Mali's account?",
+  "want": "Dugoro",
+  "old": "Nomatu",
+  "update": 1,
+  "id": 53,
+  "recalled": [
+   "Salo Mali's discount code is Fugaru.",
+   "Update: Dugoro has taken over as Salo Mali's account manager.",
+   "Salo Mali's home town is Zolomu.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Mofo Diha's account manager is now Pamemu.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Nebe Divu's account manager is now Vena.",
+   "Nebusi Veke's account manager is now Zokodo."
+  ],
+  "reply": "Dugoro is Salo Mali's account manager, having taken over according to the latest update in your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Kasa Sabe live in?",
+  "want": "Kofavu",
+  "id": 54,
+  "recalled": [
+   "Kasa Sabe bought the Fovibi last spring.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Kasa Sabe's discount code is Zomadi.",
+   "Numa Roba's home town is Dalu.",
+   "Hedeti Torudi's home town is Falara.",
+   "Luhizu Titiha's home town is Bemifi.",
+   "Tule Faheke's home town is Dolura.",
+   "Rapi Gaso's home town is Kako."
+  ],
+  "reply": "According to your glyphh memory, Kasa Sabe's home town is Kofavu. It doesn't say explicitly where they currently live, so Kofavu is the closest answer available."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Kasa Sabe purchase last spring?",
+  "want": "Fovibi",
+  "id": 55,
+  "recalled": [
+   "Kasa Sabe bought the Fovibi last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Salo Mali bought the Lise last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Tilo Tigepu bought the Riki last spring.",
+   "Vele Pore bought the Silugo last spring.",
+   "Fapa Giratu bought the Voli last spring."
+  ],
+  "reply": "Kasa Sabe bought the Fovibi last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Kasa Sabe?",
+  "want": "Zizo",
+  "old": "Zuzo",
+  "update": 0,
+  "id": 56,
+  "recalled": [
+   "Kasa Sabe's account manager is now Zizo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Sano Silira's account manager is now Rubeki."
+  ],
+  "reply": "Kasa Sabe's account manager is now Zizo."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Pese Neme purchase last spring?",
+  "want": "Keka",
+  "id": 57,
+  "recalled": [
+   "Pese Neme bought the Keka last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Rizo Hamida bought the Vufa last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Pabo Kege bought the Diga last spring.",
+   "Horo Zaki bought the Peko last spring."
+  ],
+  "reply": "Pese Neme bought the Keka last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Pese Neme get?",
+  "want": "Puvega",
+  "id": 58,
+  "recalled": [
+   "Pese Neme's discount code is Puvega.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Boka Zari's discount code is Bibaho.",
+   "Rizo Hamida's discount code is Guzega.",
+   "Horo Zaki's discount code is Zezido.",
+   "Pese Neme bought the Keka last spring."
+  ],
+  "reply": "Pese Neme's discount code is **Puvega**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Pese Neme's account?",
+  "want": "Muni",
+  "old": "Kagate",
+  "update": 1,
+  "id": 59,
+  "recalled": [
+   "Update: Muni has taken over as Pese Neme's account manager.",
+   "Pese Neme's discount code is Puvega.",
+   "Pese Neme's home town is Keso.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Horo Zaki's account manager is now Pugi."
+  ],
+  "reply": "Muni is Pese Neme's account manager, according to your glyphh memory's latest update."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Tilo Tigepu get?",
+  "want": "Goba",
+  "id": 60,
+  "recalled": [
+   "Tilo Tigepu's discount code is Goba.",
+   "Soso Vuga's discount code is Biko.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Vamu Sokodo's discount code is Refe.",
+   "Boka Zari's discount code is Bibaho.",
+   "Retu Zohu's discount code is Femike.",
+   "Fapa Giratu's discount code is Dine."
+  ],
+  "reply": "Tilo Tigepu's discount code is **Goba**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Tilo Tigepu's home town?",
+  "want": "Dasi",
+  "id": 61,
+  "recalled": [
+   "Tilo Tigepu's home town is Dasi.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Nuvara Loka's home town is Kusode.",
+   "Kasiti Rira's home town is Lune.",
+   "Zare Zipare's home town is Vote.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Vamu Sokodo's home town is Rura.",
+   "Nemu Bavo's home town is Zofigu."
+  ],
+  "reply": "Tilo Tigepu's home town is Dasi."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Tilo Tigepu?",
+  "want": "Suse",
+  "old": "Tana",
+  "update": 0,
+  "id": 62,
+  "recalled": [
+   "Tilo Tigepu's account manager is now Suse.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Nebusi Veke's account manager is now Zokodo."
+  ],
+  "reply": "Tilo Tigepu's account manager is now Suse, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Lagasu Zefine's home town?",
+  "want": "Vumare",
+  "id": 63,
+  "recalled": [
+   "Lagasu Zefine's home town is Vumare.",
+   "Boka Zari's home town is Dihi.",
+   "Rizo Hamida's home town is Safu.",
+   "Netiki Pebope's home town is Nonepa.",
+   "Kora Bizema's home town is Pubiba.",
+   "Vamu Sokodo's home town is Rura.",
+   "Tilo Tigepu's home town is Dasi.",
+   "Kasiti Rira's home town is Lune."
+  ],
+  "reply": "Lagasu Zefine's home town is Vumare."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Lagasu Zefine buy?",
+  "want": "Baka",
+  "id": 64,
+  "recalled": [
+   "Lagasu Zefine bought the Baka last spring.",
+   "Lagasu Zefine's home town is Vumare.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Kora Bizema bought the Pepomi last spring.",
+   "Update: Tupa has taken over as Lagasu Zefine's account manager."
+  ],
+  "reply": "Lagasu Zefine bought the **Baka** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Lagasu Zefine's account?",
+  "want": "Tupa",
+  "old": "Nonuno",
+  "update": 1,
+  "id": 65,
+  "recalled": [
+   "Update: Tupa has taken over as Lagasu Zefine's account manager.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Lagasu Zefine's home town is Vumare.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Badadi Lavu's account manager is now Zine."
+  ],
+  "reply": "Tupa is Lagasu Zefine's account manager, according to your glyphh's most recent update."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Noda Fisubu buy?",
+  "want": "Done",
+  "id": 66,
+  "recalled": [
+   "Noda Fisubu bought the Done last spring.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Noda Fisubu's discount code is Fibo.",
+   "Noda Fisubu's home town is Nobu."
+  ],
+  "reply": "Noda Fisubu bought the **Done** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Noda Fisubu use?",
+  "want": "Fibo",
+  "id": 67,
+  "recalled": [
+   "Noda Fisubu's discount code is Fibo.",
+   "Horo Zaki's discount code is Zezido.",
+   "Soso Vuga's discount code is Biko.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Rode Vudula's discount code is Donaru."
+  ],
+  "reply": "Noda Fisubu can use the discount code **Fibo**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Noda Fisubu?",
+  "want": "Guha",
+  "old": "Bido",
+  "update": 0,
+  "id": 68,
+  "recalled": [
+   "Noda Fisubu's account manager is now Guha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Rode Vudula's account manager is now Lili.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Zumo Haru's account manager is now Masuvi.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Nebusi Veke's account manager is now Zokodo."
+  ],
+  "reply": "Noda Fisubu's account manager is now **Guha**, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Nuvara Loka use?",
+  "want": "Nafato",
+  "id": 69,
+  "recalled": [
+   "Nuvara Loka's discount code is Nafato.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Rapi Gaso's discount code is Navu.",
+   "Boka Zari's discount code is Bibaho.",
+   "Horo Zaki's discount code is Zezido.",
+   "Soso Vuga's discount code is Biko.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Dagatu Bahipi's discount code is Suseho."
+  ],
+  "reply": "Nuvara Loka can use the discount code **Nafato**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Nuvara Loka live in?",
+  "want": "Kusode",
+  "id": 70,
+  "recalled": [
+   "Nuvara Loka's home town is Kusode.",
+   "Nuvara Loka bought the Sezeko last spring.",
+   "Dagatu Bahipi's home town is Levi.",
+   "Rapi Gaso's home town is Kako.",
+   "Kora Bizema's home town is Pubiba.",
+   "Tane Supula's home town is Sekari.",
+   "Satuto Nive's home town is Nofi.",
+   "Netiki Pebope's home town is Nonepa."
+  ],
+  "reply": "Your glyphh memory only says that Nuvara Loka's **home town** is Kusode, not where she currently lives. So I can't say for certain which town she lives in now, though Kusode is the only location on record for her."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Nuvara Loka's account?",
+  "want": "Bupa",
+  "old": "Migo",
+  "update": 1,
+  "id": 71,
+  "recalled": [
+   "Update: Bupa has taken over as Nuvara Loka's account manager.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Nuvara Loka's home town is Kusode.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Tane Supula's account manager is now Menunu.",
+   "Dalera Bozo's account manager is now Kadame."
+  ],
+  "reply": "Bupa manages Nuvara Loka's account, according to your glyphh memory, which notes Bupa recently took over as account manager."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Horo Zaki live in?",
+  "want": "Sidehi",
+  "id": 72,
+  "recalled": [
+   "Horo Zaki bought the Peko last spring.",
+   "Horo Zaki's home town is Sidehi.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Mofo Diha's home town is Gemuga.",
+   "Tane Supula's home town is Sekari.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Horo Zaki's discount code is Zezido.",
+   "Susuhe Dahaga's home town is Hedi."
+  ],
+  "reply": "Horo Zaki's home town is Sidehi, according to your glyphh memory. (Strictly, that's the home town rather than confirmed current residence, but it's the closest match available.)"
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Horo Zaki purchase last spring?",
+  "want": "Peko",
+  "id": 73,
+  "recalled": [
+   "Horo Zaki bought the Peko last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Bofo Nuvi bought the Pokoza last spring.",
+   "Tilo Tigepu bought the Riki last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Zare Zipare bought the Zode last spring.",
+   "Salo Mali bought the Lise last spring.",
+   "Tane Supula bought the Fibabe last spring."
+  ],
+  "reply": "Horo Zaki bought the **Peko** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Horo Zaki?",
+  "want": "Pugi",
+  "old": "Heno",
+  "update": 0,
+  "id": 74,
+  "recalled": [
+   "Horo Zaki's account manager is now Pugi.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Hime Nuzobe's account manager is now Munosi.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Tane Supula's account manager is now Menunu.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Kora Bizema's account manager is now Mufu."
+  ],
+  "reply": "Horo Zaki's account manager is now Pugi, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Kasiti Rira purchase last spring?",
+  "want": "Fipi",
+  "id": 75,
+  "recalled": [
+   "Kasiti Rira bought the Fipi last spring.",
+   "Vele Pore bought the Silugo last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Salo Mali bought the Lise last spring.",
+   "Boka Zari bought the Gali last spring."
+  ],
+  "reply": "Kasiti Rira bought the **Fipi** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Kasiti Rira get?",
+  "want": "Dabu",
+  "id": 76,
+  "recalled": [
+   "Kasiti Rira's discount code is Dabu.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Soso Vuga's discount code is Biko.",
+   "Boka Zari's discount code is Bibaho.",
+   "Retu Zohu's discount code is Femike.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tule Faheke's discount code is Vebu.",
+   "Fapa Giratu's discount code is Dine."
+  ],
+  "reply": "Kasiti Rira's discount code is **Dabu**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Kasiti Rira's account?",
+  "want": "Fudemo",
+  "old": "Fume",
+  "update": 1,
+  "id": 77,
+  "recalled": [
+   "Update: Fudemo has taken over as Kasiti Rira's account manager.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Kasiti Rira's home town is Lune.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Tane Supula's account manager is now Menunu.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Dalera Bozo's account manager is now Kadame."
+  ],
+  "reply": "Fudemo is now Kasiti Rira's account manager, according to the latest update in your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Kora Bizema get?",
+  "want": "Supuzu",
+  "id": 78,
+  "recalled": [
+   "Kora Bizema's discount code is Supuzu.",
+   "Luma Zihara's discount code is Bito.",
+   "Boka Zari's discount code is Bibaho.",
+   "Kora Bizema bought the Pepomi last spring.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Tule Faheke's discount code is Vebu.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tamoku Gahene's discount code is Podibo."
+  ],
+  "reply": "Kora Bizema's discount code is **Supuzu**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Kora Bizema's home town?",
+  "want": "Pubiba",
+  "id": 79,
+  "recalled": [
+   "Kora Bizema's home town is Pubiba.",
+   "Kasiti Rira's home town is Lune.",
+   "Sano Silira's home town is Kufazo.",
+   "Nuvara Loka's home town is Kusode.",
+   "Vamu Sokodo's home town is Rura.",
+   "Bofo Nuvi's home town is Zupupi.",
+   "Soso Vuga's home town is Vahoko.",
+   "Rizo Hamida's home town is Safu."
+  ],
+  "reply": "Kora Bizema's home town is Pubiba."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Kora Bizema?",
+  "want": "Mufu",
+  "old": "Lusona",
+  "update": 0,
+  "id": 80,
+  "recalled": [
+   "Kora Bizema's account manager is now Mufu.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Rode Vudula's account manager is now Lili.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Hime Nuzobe's account manager is now Munosi.",
+   "Vamu Sokodo's account manager is now Lolaza."
+  ],
+  "reply": "Kora Bizema's account manager is now Mufu, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Numa Roba's home town?",
+  "want": "Dalu",
+  "id": 81,
+  "recalled": [
+   "Numa Roba's home town is Dalu.",
+   "Kasiti Rira's home town is Lune.",
+   "Soso Vuga's home town is Vahoko.",
+   "Nuvara Loka's home town is Kusode.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Boka Zari's home town is Dihi.",
+   "Kora Bizema's home town is Pubiba.",
+   "Sano Silira's home town is Kufazo."
+  ],
+  "reply": "Numa Roba's home town is Dalu."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Numa Roba buy?",
+  "want": "Vate",
+  "id": 82,
+  "recalled": [
+   "Numa Roba bought the Vate last spring.",
+   "Numa Roba's discount code is Lodadu.",
+   "Numa Roba's home town is Dalu.",
+   "Remi Migu's account manager is now Viloto."
+  ],
+  "reply": "Numa Roba bought the Vate last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Numa Roba's account?",
+  "want": "Mira",
+  "old": "Lepuhi",
+  "update": 1,
+  "id": 83,
+  "recalled": [
+   "Numa Roba's home town is Dalu.",
+   "Numa Roba's discount code is Lodadu.",
+   "Update: Mira has taken over as Numa Roba's account manager.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Numa Roba bought the Vate last spring."
+  ],
+  "reply": "Mira manages Numa Roba's account, having taken over as the account manager according to your glyphh's latest update."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Boka Zari buy?",
+  "want": "Gali",
+  "id": 84,
+  "recalled": [
+   "Boka Zari bought the Gali last spring.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Boka Zari's discount code is Bibaho.",
+   "Boka Zari's home town is Dihi.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Rapi Gaso bought the Miba last spring.",
+   "Noda Fisubu bought the Done last spring."
+  ],
+  "reply": "Boka Zari bought the Gali last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Boka Zari use?",
+  "want": "Bibaho",
+  "id": 85,
+  "recalled": [
+   "Boka Zari's discount code is Bibaho.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Rode Vudula's discount code is Donaru.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Luma Zihara's discount code is Bito.",
+   "Salo Mali's discount code is Fugaru.",
+   "Remi Migu's discount code is Nune."
+  ],
+  "reply": "Boka Zari can use the discount code **Bibaho**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Boka Zari?",
+  "want": "Dotiza",
+  "old": "Fobefi",
+  "update": 0,
+  "id": 86,
+  "recalled": [
+   "Boka Zari's account manager is now Dotiza.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Boka Zari bought the Gali last spring."
+  ],
+  "reply": "Boka Zari's account manager is now Dotiza."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Luhizu Titiha use?",
+  "want": "Lalani",
+  "id": 87,
+  "recalled": [
+   "Luhizu Titiha's discount code is Lalani.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Nebe Divu's discount code is Hinagi.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Horo Zaki's discount code is Zezido.",
+   "Salo Mali's discount code is Fugaru.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Pese Neme's discount code is Puvega."
+  ],
+  "reply": "Luhizu Titiha can use the discount code **Lalani**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Luhizu Titiha live in?",
+  "want": "Bemifi",
+  "id": 88,
+  "recalled": [
+   "Luhizu Titiha bought the Papa last spring.",
+   "Luhizu Titiha's home town is Bemifi.",
+   "Hedeti Torudi's home town is Falara.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Nebe Divu's home town is Zone.",
+   "Tane Supula's home town is Sekari.",
+   "Hime Nuzobe's home town is Pefido."
+  ],
+  "reply": "Your glyphh lists Bemifi as Luhizu Titiha's home town, but it doesn't say where they currently live, so I can't confirm that's their current town."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Luhizu Titiha's account?",
+  "want": "Kile",
+  "old": "Taki",
+  "update": 1,
+  "id": 89,
+  "recalled": [
+   "Update: Kile has taken over as Luhizu Titiha's account manager.",
+   "Luhizu Titiha's discount code is Lalani.",
+   "Luhizu Titiha's home town is Bemifi.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Update: Torade has taken over as Hubilo Nafime's account manager.",
+   "Kasa Sabe's account manager is now Zizo."
+  ],
+  "reply": "Kile manages Luhizu Titiha's account, having taken it over according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Dalera Bozo live in?",
+  "want": "Nedi",
+  "id": 90,
+  "recalled": [
+   "Dalera Bozo bought the Zalo last spring.",
+   "Dalera Bozo's home town is Nedi.",
+   "Hedeti Torudi's home town is Falara.",
+   "Satuto Nive's home town is Nofi.",
+   "Rapi Gaso's home town is Kako.",
+   "Tane Supula's home town is Sekari.",
+   "Makego Ranipu's home town is Pihira.",
+   "Zefebu Nemasi's home town is Dopi."
+  ],
+  "reply": "Your memory only says that Dalera Bozo's home town is Nedi. It doesn't say where she currently lives, so I can't confirm her current town."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Dalera Bozo purchase last spring?",
+  "want": "Zalo",
+  "id": 91,
+  "recalled": [
+   "Dalera Bozo bought the Zalo last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Tilo Tigepu bought the Riki last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Retu Zohu bought the Roho last spring."
+  ],
+  "reply": "Dalera Bozo purchased the **Zalo** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Dalera Bozo?",
+  "want": "Kadame",
+  "old": "Bogi",
+  "update": 0,
+  "id": 92,
+  "recalled": [
+   "Dalera Bozo's account manager is now Kadame.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Dalera Bozo bought the Zalo last spring.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Rode Vudula's account manager is now Lili."
+  ],
+  "reply": "Dalera Bozo's account manager is now Kadame."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Rizo Hamida purchase last spring?",
+  "want": "Vufa",
+  "id": 93,
+  "recalled": [
+   "Rizo Hamida bought the Vufa last spring.",
+   "Boka Zari bought the Gali last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Pabo Kege bought the Diga last spring.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Sano Silira bought the Mesibe last spring.",
+   "Vamu Sokodo bought the Ravugo last spring."
+  ],
+  "reply": "Rizo Hamida bought the Vufa last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Rizo Hamida get?",
+  "want": "Guzega",
+  "id": 94,
+  "recalled": [
+   "Rizo Hamida's discount code is Guzega.",
+   "Soso Vuga's discount code is Biko.",
+   "Fapa Giratu's discount code is Dine.",
+   "Boka Zari's discount code is Bibaho.",
+   "Tamoku Gahene's discount code is Podibo.",
+   "Rizo Hamida bought the Vufa last spring.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Zefebu Nemasi's discount code is Sero."
+  ],
+  "reply": "Rizo Hamida's discount code is **Guzega**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Rizo Hamida's account?",
+  "want": "Filugo",
+  "old": "Tehi",
+  "update": 1,
+  "id": 95,
+  "recalled": [
+   "Update: Filugo has taken over as Rizo Hamida's account manager.",
+   "Rizo Hamida's discount code is Guzega.",
+   "Rizo Hamida's home town is Safu.",
+   "Nebe Divu's account manager is now Vena.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Hime Nuzobe's account manager is now Munosi."
+  ],
+  "reply": "Filugo manages Rizo Hamida's account, having taken over as the account manager according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Nemu Bavo get?",
+  "want": "Damotu",
+  "id": 96,
+  "recalled": [
+   "Nemu Bavo's discount code is Damotu.",
+   "Nemu Bavo bought the Ditete last spring.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Retu Zohu's discount code is Femike.",
+   "Boka Zari's discount code is Bibaho.",
+   "Soso Vuga's discount code is Biko.",
+   "Tamoku Gahene's discount code is Podibo."
+  ],
+  "reply": "Nemu Bavo's discount code is **Damotu**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Nemu Bavo's home town?",
+  "want": "Zofigu",
+  "id": 97,
+  "recalled": [
+   "Nemu Bavo's home town is Zofigu.",
+   "Kasiti Rira's home town is Lune.",
+   "Makego Ranipu's home town is Pihira.",
+   "Boka Zari's home town is Dihi.",
+   "Vele Pore's home town is Nasu.",
+   "Nuvara Loka's home town is Kusode.",
+   "Tule Faheke's home town is Dolura.",
+   "Hedeti Torudi's home town is Falara."
+  ],
+  "reply": "Nemu Bavo's home town is Zofigu."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Nemu Bavo?",
+  "want": "Hibufu",
+  "old": "Dozi",
+  "update": 0,
+  "id": 98,
+  "recalled": [
+   "Nemu Bavo's account manager is now Hibufu.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Tilo Tigepu's account manager is now Suse.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Mofo Diha's account manager is now Pamemu."
+  ],
+  "reply": "Nemu Bavo's account manager is now Hibufu, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Hedeti Torudi's home town?",
+  "want": "Falara",
+  "id": 99,
+  "recalled": [
+   "Hedeti Torudi's home town is Falara.",
+   "Kasiti Rira's home town is Lune.",
+   "Nuvara Loka's home town is Kusode.",
+   "Tule Faheke's home town is Dolura.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Boka Zari's home town is Dihi.",
+   "Soso Vuga's home town is Vahoko.",
+   "Kume Kogi's home town is Lokere."
+  ],
+  "reply": "Hedeti Torudi's home town is Falara."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Hedeti Torudi buy?",
+  "want": "Mopumu",
+  "id": 100,
+  "recalled": [
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Update: Medodo has taken over as Hedeti Torudi's account manager.",
+   "Hedeti Torudi's home town is Falara.",
+   "Hedeti Torudi's discount code is Zopoto.",
+   "Update: Dugoro has taken over as Salo Mali's account manager.",
+   "Update: Bupa has taken over as Nuvara Loka's account manager.",
+   "Update: Lekido has taken over as Zare Zipare's account manager.",
+   "Update: Faki has taken over as Tamoku Gahene's account manager."
+  ],
+  "reply": "Hedeti Torudi bought the **Mopumu** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Hedeti Torudi's account?",
+  "want": "Medodo",
+  "old": "Medeku",
+  "update": 1,
+  "id": 101,
+  "recalled": [
+   "Hedeti Torudi's discount code is Zopoto.",
+   "Update: Medodo has taken over as Hedeti Torudi's account manager.",
+   "Hedeti Torudi's home town is Falara.",
+   "Tane Supula's account manager is now Menunu.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Update: Kuto has taken over as Zefebu Nemasi's account manager.",
+   "Update: Torade has taken over as Hubilo Nafime's account manager.",
+   "Remi Migu's account manager is now Viloto."
+  ],
+  "reply": "Medodo manages Hedeti Torudi's account, having taken over as the account manager according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Hemiro Nago buy?",
+  "want": "Vapo",
+  "id": 102,
+  "recalled": [
+   "Hemiro Nago bought the Vapo last spring.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Hemiro Nago's home town is Rado.",
+   "Hemiro Nago's discount code is Hivo.",
+   "Badadi Lavu bought the Luhome last spring."
+  ],
+  "reply": "Hemiro Nago bought the Vapo last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Hemiro Nago use?",
+  "want": "Hivo",
+  "id": 103,
+  "recalled": [
+   "Hemiro Nago's discount code is Hivo.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Boka Zari's discount code is Bibaho.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Nemu Bavo's discount code is Damotu.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Soso Vuga's discount code is Biko."
+  ],
+  "reply": "Hemiro Nago can use the discount code **Hivo**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Hemiro Nago?",
+  "want": "Rogo",
+  "old": "Rano",
+  "update": 0,
+  "id": 104,
+  "recalled": [
+   "Hemiro Nago's account manager is now Rogo.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Tane Supula's account manager is now Menunu."
+  ],
+  "reply": "Hemiro Nago's account manager is now Rogo, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Zare Zipare use?",
+  "want": "Foze",
+  "id": 105,
+  "recalled": [
+   "Zare Zipare's discount code is Foze.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Horo Zaki's discount code is Zezido.",
+   "Pese Neme's discount code is Puvega.",
+   "Nemu Bavo's discount code is Damotu.",
+   "Rapi Gaso's discount code is Navu."
+  ],
+  "reply": "Zare Zipare can use the discount code **Foze**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Zare Zipare live in?",
+  "want": "Vote",
+  "id": 106,
+  "recalled": [
+   "Zare Zipare bought the Zode last spring.",
+   "Zare Zipare's home town is Vote.",
+   "Hedeti Torudi's home town is Falara.",
+   "Zare Zipare's discount code is Foze.",
+   "Rapi Gaso's home town is Kako.",
+   "Netiki Pebope's home town is Nonepa.",
+   "Nebe Divu's home town is Zone.",
+   "Hubilo Nafime's home town is Hufu."
+  ],
+  "reply": "According to your glyphh memory, Zare Zipare's home town is Vote."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Zare Zipare's account?",
+  "want": "Lekido",
+  "old": "Sokapi",
+  "update": 1,
+  "id": 107,
+  "recalled": [
+   "Update: Lekido has taken over as Zare Zipare's account manager.",
+   "Zare Zipare's home town is Vote.",
+   "Zare Zipare's discount code is Foze.",
+   "Zare Zipare bought the Zode last spring.",
+   "Tane Supula's account manager is now Menunu.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Pabo Kege's account manager is now Tazu.",
+   "Nebe Divu's account manager is now Vena."
+  ],
+  "reply": "Lekido is Zare Zipare's account manager, according to the most recent update in your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Zumo Haru live in?",
+  "want": "Zahu",
+  "id": 108,
+  "recalled": [
+   "Zumo Haru's home town is Zahu.",
+   "Zumo Haru bought the Voduga last spring.",
+   "Nebe Divu's home town is Zone.",
+   "Kora Bizema's home town is Pubiba.",
+   "Tule Faheke's home town is Dolura.",
+   "Hedeti Torudi's home town is Falara.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Hime Nuzobe's home town is Pefido."
+  ],
+  "reply": "Zumo Haru's home town is Zahu, according to your glyphh memory. It doesn't say where Zumo currently lives, though, so I can't confirm that beyond the home town."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Zumo Haru purchase last spring?",
+  "want": "Voduga",
+  "id": 109,
+  "recalled": [
+   "Zumo Haru bought the Voduga last spring.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Zare Zipare bought the Zode last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Pabo Kege bought the Diga last spring."
+  ],
+  "reply": "Zumo Haru bought the **Voduga** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Zumo Haru?",
+  "want": "Masuvi",
+  "old": "Lozaha",
+  "update": 0,
+  "id": 110,
+  "recalled": [
+   "Zumo Haru's account manager is now Masuvi.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Rode Vudula's account manager is now Lili.",
+   "Poteta Lobofi's account manager is now Nemo."
+  ],
+  "reply": "Zumo Haru's account manager is now Masuvi, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Soso Vuga purchase last spring?",
+  "want": "Zeko",
+  "id": 111,
+  "recalled": [
+   "Soso Vuga bought the Zeko last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Zare Zipare bought the Zode last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Boka Zari bought the Gali last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Fapa Giratu bought the Voli last spring."
+  ],
+  "reply": "Soso Vuga bought the **Zeko** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Soso Vuga get?",
+  "want": "Biko",
+  "id": 112,
+  "recalled": [
+   "Soso Vuga's discount code is Biko.",
+   "Boka Zari's discount code is Bibaho.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Fapa Giratu's discount code is Dine.",
+   "Kora Bizema's discount code is Supuzu.",
+   "Soso Vuga bought the Zeko last spring.",
+   "Rizo Hamida's discount code is Guzega."
+  ],
+  "reply": "Soso Vuga's discount code is **Biko**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Soso Vuga's account?",
+  "want": "Vonole",
+  "old": "Fulagu",
+  "update": 1,
+  "id": 113,
+  "recalled": [
+   "Update: Vonole has taken over as Soso Vuga's account manager.",
+   "Soso Vuga's discount code is Biko.",
+   "Soso Vuga's home town is Vahoko.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Tane Supula's account manager is now Menunu.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Rode Vudula's account manager is now Lili."
+  ],
+  "reply": "Vonole manages Soso Vuga's account, having recently taken over as account manager according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Mofo Diha get?",
+  "want": "Lukizu",
+  "id": 114,
+  "recalled": [
+   "Mofo Diha's discount code is Lukizu.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Nebe Divu's discount code is Hinagi.",
+   "Soso Vuga's discount code is Biko.",
+   "Kasa Sabe's discount code is Zomadi."
+  ],
+  "reply": "Mofo Diha's discount code is **Lukizu**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Mofo Diha's home town?",
+  "want": "Gemuga",
+  "id": 115,
+  "recalled": [
+   "Mofo Diha's home town is Gemuga.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Nuvara Loka's home town is Kusode.",
+   "Tule Faheke's home town is Dolura.",
+   "Hedeti Torudi's home town is Falara.",
+   "Sano Silira's home town is Kufazo.",
+   "Soso Vuga's home town is Vahoko.",
+   "Horo Zaki's home town is Sidehi."
+  ],
+  "reply": "Mofo Diha's home town is Gemuga."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Mofo Diha?",
+  "want": "Pamemu",
+  "old": "Pihe",
+  "update": 0,
+  "id": 116,
+  "recalled": [
+   "Mofo Diha's account manager is now Pamemu.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Rode Vudula's account manager is now Lili."
+  ],
+  "reply": "Mofo Diha's account manager is now Pamemu, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Netiki Pebope's home town?",
+  "want": "Nonepa",
+  "id": 117,
+  "recalled": [
+   "Netiki Pebope's home town is Nonepa.",
+   "Nuvara Loka's home town is Kusode.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Kasiti Rira's home town is Lune.",
+   "Pese Neme's home town is Keso.",
+   "Soso Vuga's home town is Vahoko.",
+   "Nedule Nefapo's home town is Vugo."
+  ],
+  "reply": "Netiki Pebope's home town is Nonepa."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Netiki Pebope buy?",
+  "want": "Vezo",
+  "id": 118,
+  "recalled": [
+   "Netiki Pebope bought the Vezo last spring.",
+   "Netiki Pebope's home town is Nonepa.",
+   "Update: Gisogu has taken over as Netiki Pebope's account manager.",
+   "Netiki Pebope's discount code is Latu.",
+   "Badadi Lavu's home town is Pege.",
+   "Boka Zari's account manager is now Dotiza."
+  ],
+  "reply": "Netiki Pebope bought the Vezo last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Netiki Pebope's account?",
+  "want": "Gisogu",
+  "old": "Beri",
+  "update": 1,
+  "id": 119,
+  "recalled": [
+   "Update: Gisogu has taken over as Netiki Pebope's account manager.",
+   "Netiki Pebope's discount code is Latu.",
+   "Netiki Pebope's home town is Nonepa.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Tane Supula's account manager is now Menunu."
+  ],
+  "reply": "Gisogu manages Netiki Pebope's account, having taken over as the account manager according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Badadi Lavu buy?",
+  "want": "Luhome",
+  "id": 120,
+  "recalled": [
+   "Badadi Lavu bought the Luhome last spring.",
+   "Badadi Lavu's home town is Pege.",
+   "Badadi Lavu's discount code is Zafu.",
+   "Badadi Lavu's account manager is now Zine."
+  ],
+  "reply": "Badadi Lavu bought the Luhome last spring, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Badadi Lavu use?",
+  "want": "Zafu",
+  "id": 121,
+  "recalled": [
+   "Badadi Lavu's discount code is Zafu.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Rapi Gaso's discount code is Navu.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Horo Zaki's discount code is Zezido.",
+   "Mofo Diha's discount code is Lukizu.",
+   "Salo Mali's discount code is Fugaru.",
+   "Dagatu Bahipi's discount code is Suseho."
+  ],
+  "reply": "Badadi Lavu can use the discount code **Zafu**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Badadi Lavu?",
+  "want": "Zine",
+  "old": "Fomove",
+  "update": 0,
+  "id": 122,
+  "recalled": [
+   "Badadi Lavu's account manager is now Zine.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Hime Nuzobe's account manager is now Munosi.",
+   "Remi Migu's account manager is now Viloto.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Badadi Lavu bought the Luhome last spring."
+  ],
+  "reply": "Badadi Lavu's account manager is now Zine."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Kume Kogi use?",
+  "want": "Guzovi",
+  "id": 123,
+  "recalled": [
+   "Kume Kogi's discount code is Guzovi.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Horo Zaki's discount code is Zezido.",
+   "Hedeti Torudi's discount code is Zopoto.",
+   "Boka Zari's discount code is Bibaho.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Zefebu Nemasi's discount code is Sero."
+  ],
+  "reply": "Kume Kogi can use the discount code **Guzovi**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Kume Kogi live in?",
+  "want": "Lokere",
+  "id": 124,
+  "recalled": [
+   "Kume Kogi bought the Sazubu last spring.",
+   "Kume Kogi's home town is Lokere.",
+   "Hedeti Torudi's home town is Falara.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Zumo Haru's home town is Zahu.",
+   "Kasiti Rira's home town is Lune.",
+   "Remi Migu's home town is Gutebe.",
+   "Satuto Nive's home town is Nofi."
+  ],
+  "reply": "According to your glyphh memory, Kume Kogi's home town is Lokere. It doesn't say where they currently live, so Lokere is the closest answer I can give."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Kume Kogi's account?",
+  "want": "Rafiho",
+  "old": "Nohehe",
+  "update": 1,
+  "id": 125,
+  "recalled": [
+   "Kume Kogi's discount code is Guzovi.",
+   "Kume Kogi's home town is Lokere.",
+   "Update: Rafiho has taken over as Kume Kogi's account manager.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Kume Kogi bought the Sazubu last spring.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Nebe Divu's account manager is now Vena.",
+   "Tane Supula's account manager is now Menunu."
+  ],
+  "reply": "Rafiho is Kume Kogi's account manager, according to your Glyphh memory, which notes that Rafiho took over that role."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Nebusi Veke live in?",
+  "want": "Gazene",
+  "id": 126,
+  "recalled": [
+   "Nebusi Veke bought the Lukivo last spring.",
+   "Nebusi Veke's home town is Gazene.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Satuto Nive's home town is Nofi.",
+   "Hedeti Torudi's home town is Falara.",
+   "Dagatu Bahipi's home town is Levi.",
+   "Kora Bizema's home town is Pubiba.",
+   "Tule Faheke's home town is Dolura."
+  ],
+  "reply": "Nebusi Veke's home town is Gazene, according to your glyphh memory. It doesn't say where they currently live, so Gazene is the closest answer available."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Nebusi Veke purchase last spring?",
+  "want": "Lukivo",
+  "id": 127,
+  "recalled": [
+   "Nebusi Veke bought the Lukivo last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Zumo Haru bought the Voduga last spring.",
+   "Pabo Kege bought the Diga last spring.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Netiki Pebope bought the Vezo last spring."
+  ],
+  "reply": "Nebusi Veke bought the **Lukivo** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Nebusi Veke?",
+  "want": "Zokodo",
+  "old": "Dekubi",
+  "update": 0,
+  "id": 128,
+  "recalled": [
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Vamu Sokodo's account manager is now Lolaza."
+  ],
+  "reply": "Nebusi Veke's account manager is now Zokodo, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Tamoku Gahene purchase last spring?",
+  "want": "Bedomo",
+  "id": 129,
+  "recalled": [
+   "Tamoku Gahene bought the Bedomo last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Tilo Tigepu bought the Riki last spring."
+  ],
+  "reply": "Tamoku Gahene purchased the **Bedomo** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Tamoku Gahene get?",
+  "want": "Podibo",
+  "id": 130,
+  "recalled": [
+   "Tamoku Gahene's discount code is Podibo.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Soso Vuga's discount code is Biko.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Horo Zaki's discount code is Zezido.",
+   "Rapi Gaso's discount code is Navu.",
+   "Luma Zihara's discount code is Bito.",
+   "Tilo Tigepu's discount code is Goba."
+  ],
+  "reply": "Tamoku Gahene's discount code is **Podibo**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Tamoku Gahene's account?",
+  "want": "Faki",
+  "old": "Dufizi",
+  "update": 1,
+  "id": 131,
+  "recalled": [
+   "Update: Faki has taken over as Tamoku Gahene's account manager.",
+   "Tamoku Gahene's discount code is Podibo.",
+   "Tamoku Gahene's home town is Tefavo.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Nebe Divu's account manager is now Vena.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Remi Migu's account manager is now Viloto."
+  ],
+  "reply": "Faki manages Tamoku Gahene's account, having recently taken over that role according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Sano Silira get?",
+  "want": "Podesa",
+  "id": 132,
+  "recalled": [
+   "Sano Silira's discount code is Podesa.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Retu Zohu's discount code is Femike.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Boka Zari's discount code is Bibaho.",
+   "Rapi Gaso's discount code is Navu.",
+   "Sano Silira bought the Mesibe last spring."
+  ],
+  "reply": "Sano Silira's discount code is **Podesa**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Sano Silira's home town?",
+  "want": "Kufazo",
+  "id": 133,
+  "recalled": [
+   "Sano Silira's home town is Kufazo.",
+   "Kasiti Rira's home town is Lune.",
+   "Soso Vuga's home town is Vahoko.",
+   "Vamu Sokodo's home town is Rura.",
+   "Hemiro Nago's home town is Rado.",
+   "Nuvara Loka's home town is Kusode.",
+   "Zare Zipare's home town is Vote.",
+   "Pabo Kege's home town is Nozele."
+  ],
+  "reply": "Sano Silira's home town is Kufazo."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Sano Silira?",
+  "want": "Rubeki",
+  "old": "Ziri",
+  "update": 0,
+  "id": 134,
+  "recalled": [
+   "Sano Silira's account manager is now Rubeki.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Remi Migu's account manager is now Viloto."
+  ],
+  "reply": "Sano Silira's account manager is now Rubeki."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Vele Pore's home town?",
+  "want": "Nasu",
+  "id": 135,
+  "recalled": [
+   "Vele Pore's home town is Nasu.",
+   "Rizo Hamida's home town is Safu.",
+   "Zumo Haru's home town is Zahu.",
+   "Boka Zari's home town is Dihi.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Kasiti Rira's home town is Lune.",
+   "Nedule Nefapo's home town is Vugo.",
+   "Vele Pore's discount code is Kimapu."
+  ],
+  "reply": "Vele Pore's home town is Nasu."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Vele Pore buy?",
+  "want": "Silugo",
+  "id": 136,
+  "recalled": [
+   "Vele Pore bought the Silugo last spring.",
+   "Update: Pume has taken over as Vele Pore's account manager.",
+   "Vele Pore's home town is Nasu.",
+   "Remi Migu's account manager is now Viloto.",
+   "Vele Pore's discount code is Kimapu.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Update: Gisogu has taken over as Netiki Pebope's account manager."
+  ],
+  "reply": "Vele Pore bought the Silugo last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Vele Pore's account?",
+  "want": "Pume",
+  "old": "Fivofo",
+  "update": 1,
+  "id": 137,
+  "recalled": [
+   "Update: Pume has taken over as Vele Pore's account manager.",
+   "Vele Pore's home town is Nasu.",
+   "Vele Pore's discount code is Kimapu.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Nebe Divu's account manager is now Vena."
+  ],
+  "reply": "Pume manages Vele Pore's account, having taken over as the account manager according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Poteta Lobofi buy?",
+  "want": "Desuvu",
+  "id": 138,
+  "recalled": [
+   "Poteta Lobofi bought the Desuvu last spring.",
+   "Poteta Lobofi's discount code is Disena.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Poteta Lobofi's home town is Zimevu."
+  ],
+  "reply": "Poteta Lobofi bought the Desuvu last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Poteta Lobofi use?",
+  "want": "Disena",
+  "id": 139,
+  "recalled": [
+   "Poteta Lobofi's discount code is Disena.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Boka Zari's discount code is Bibaho.",
+   "Horo Zaki's discount code is Zezido.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Luma Zihara's discount code is Bito.",
+   "Pabo Kege's discount code is Nohepe."
+  ],
+  "reply": "Poteta Lobofi can use the discount code **Disena**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Poteta Lobofi?",
+  "want": "Nemo",
+  "old": "Lovufe",
+  "update": 0,
+  "id": 140,
+  "recalled": [
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Remi Migu's account manager is now Viloto.",
+   "Mofo Diha's account manager is now Pamemu."
+  ],
+  "reply": "Poteta Lobofi's account manager is now Nemo."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Fapa Giratu use?",
+  "want": "Dine",
+  "id": 141,
+  "recalled": [
+   "Fapa Giratu's discount code is Dine.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Boka Zari's discount code is Bibaho.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Horo Zaki's discount code is Zezido.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Rapi Gaso's discount code is Navu."
+  ],
+  "reply": "Fapa Giratu can use the discount code **Dine**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Fapa Giratu live in?",
+  "want": "Fone",
+  "id": 142,
+  "recalled": [
+   "Fapa Giratu bought the Voli last spring.",
+   "Fapa Giratu's home town is Fone.",
+   "Dagatu Bahipi's home town is Levi.",
+   "Hedeti Torudi's home town is Falara.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Badadi Lavu's home town is Pege.",
+   "Zumo Haru's home town is Zahu.",
+   "Zefebu Nemasi's home town is Dopi."
+  ],
+  "reply": "Fapa Giratu's home town is Fone, according to your glyphh memory. It doesn't say where they currently live, so Fone is the closest answer I can give."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Fapa Giratu's account?",
+  "want": "Zohavo",
+  "old": "Nirupu",
+  "update": 1,
+  "id": 143,
+  "recalled": [
+   "Fapa Giratu's discount code is Dine.",
+   "Update: Zohavo has taken over as Fapa Giratu's account manager.",
+   "Fapa Giratu's home town is Fone.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Poteta Lobofi's account manager is now Nemo."
+  ],
+  "reply": "Zohavo is Fapa Giratu's account manager, based on the most recent update in your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Tane Supula live in?",
+  "want": "Sekari",
+  "id": 144,
+  "recalled": [
+   "Tane Supula's home town is Sekari.",
+   "Tane Supula bought the Fibabe last spring.",
+   "Satuto Nive's home town is Nofi.",
+   "Mofo Diha's home town is Gemuga.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Makego Ranipu's home town is Pihira.",
+   "Remi Migu's home town is Gutebe.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "Your glyphh only records that Tane Supula's **home town** is Sekari. It doesn't say where Tane currently lives, so I can't confirm that's their current town of residence, though Sekari is the closest match."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Tane Supula purchase last spring?",
+  "want": "Fibabe",
+  "id": 145,
+  "recalled": [
+   "Tane Supula bought the Fibabe last spring.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Retu Zohu bought the Roho last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Badadi Lavu bought the Luhome last spring."
+  ],
+  "reply": "Tane Supula bought the **Fibabe** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Tane Supula?",
+  "want": "Menunu",
+  "old": "Vule",
+  "update": 0,
+  "id": 146,
+  "recalled": [
+   "Tane Supula's account manager is now Menunu.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Remi Migu's account manager is now Viloto.",
+   "Rode Vudula's account manager is now Lili."
+  ],
+  "reply": "Tane Supula's account manager is now Menunu, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Susuhe Dahaga purchase last spring?",
+  "want": "Tine",
+  "id": 147,
+  "recalled": [
+   "Susuhe Dahaga bought the Tine last spring.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Nuvara Loka bought the Sezeko last spring.",
+   "Hemiro Nago bought the Vapo last spring."
+  ],
+  "reply": "Susuhe Dahaga bought the **Tine** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Susuhe Dahaga get?",
+  "want": "Bami",
+  "id": 148,
+  "recalled": [
+   "Susuhe Dahaga's discount code is Bami.",
+   "Hedeti Torudi's discount code is Zopoto.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Kume Kogi's discount code is Guzovi.",
+   "Fapa Giratu's discount code is Dine.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Badadi Lavu's discount code is Zafu.",
+   "Tane Supula's discount code is Godale."
+  ],
+  "reply": "Susuhe Dahaga's discount code is **Bami**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Susuhe Dahaga's account?",
+  "want": "Tatipa",
+  "old": "Hero",
+  "update": 1,
+  "id": 149,
+  "recalled": [
+   "Update: Tatipa has taken over as Susuhe Dahaga's account manager.",
+   "Susuhe Dahaga's discount code is Bami.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Nebe Divu's account manager is now Vena.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Nebusi Veke's account manager is now Zokodo."
+  ],
+  "reply": "Tatipa manages Susuhe Dahaga's account, having taken over from the previous account manager according to your glyphh memory."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Monamu Zohipe?",
+  "id": 150,
+  "recalled": [
+   "Satuto Nive's account manager is now Lupaha.",
+   "Tane Supula's account manager is now Menunu.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Nebusi Veke's account manager is now Zokodo."
+  ],
+  "reply": "Your glyphh memory doesn't have an account manager listed for Monamu Zohipe. It only covers Satuto Nive, Tane Supula, Dalera Bozo, Hemiro Nago, Badadi Lavu, Horo Zaki, Noda Fisubu, and Nebusi Veke, so you'd need to check your CRM or another source for that one."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Subi Puni's home town?",
+  "id": 151,
+  "recalled": [
+   "Fapa Giratu's home town is Fone.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Hemiro Nago's home town is Rado.",
+   "Dalera Bozo's home town is Nedi.",
+   "Horo Zaki's home town is Sidehi.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Rizo Hamida's home town is Safu.",
+   "Kasiti Rira's home town is Lune."
+  ],
+  "reply": "I don't see Subi Puni in your glyphh memory. The entries cover Fapa Giratu, Zefebu Nemasi, Hemiro Nago, Dalera Bozo, Horo Zaki, Susuhe Dahaga, Rizo Hamida, and Kasiti Rira, but not Subi Puni. If you tell me their home town, I can note it for this conversation."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Nese Mevumi buy?",
+  "id": 152,
+  "recalled": [
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Badadi Lavu bought the Luhome last spring."
+  ],
+  "reply": "Your glyphh memory doesn't have anything about Nese Mevumi. It only lists purchases by Zefebu Nemasi (the Vepoge) and Badadi Lavu (the Luhome), so I can't say which product Nese Mevumi bought."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Geke Rigana use?",
+  "id": 153,
+  "recalled": [
+   "Horo Zaki's discount code is Zezido.",
+   "Rapi Gaso's discount code is Navu.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Boka Zari's discount code is Bibaho.",
+   "Rode Vudula's discount code is Donaru.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Salo Mali's discount code is Fugaru."
+  ],
+  "reply": "Your glyphh memory doesn't have a discount code for Geke Rigana. It only lists codes for Horo Zaki, Rapi Gaso, Dagatu Bahipi, Zefebu Nemasi, Boka Zari, Rode Vudula, Pabo Kege, and Salo Mali. If you can share where Geke's code was issued, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Teli Busase?",
+  "id": 154,
+  "recalled": [
+   "Satuto Nive's account manager is now Lupaha.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Tane Supula's account manager is now Menunu."
+  ],
+  "reply": "Teli Busase isn't in the information your glyphh has on you. It lists account managers for Satuto Nive, Dagatu Bahipi, Poteta Lobofi, Noda Fisubu, Vamu Sokodo, Dalera Bozo, Badadi Lavu, and Tane Supula, but not Teli Busase. If you can check your CRM or another source, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Kome Rido's home town?",
+  "id": 155,
+  "recalled": [
+   "Vamu Sokodo's home town is Rura.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Pabo Kege's home town is Nozele.",
+   "Rizo Hamida's home town is Safu.",
+   "Zare Zipare's home town is Vote.",
+   "Badadi Lavu's home town is Pege.",
+   "Sano Silira's home town is Kufazo.",
+   "Noda Fisubu's home town is Nobu."
+  ],
+  "reply": "Your glyphh memory doesn't have any entry for Kome Rido, so I can't tell you their home town. It lists eight other people, but Kome Rido isn't among them. If you tell me where they're from, I can work with that."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Hipa Vani buy?",
+  "id": 156,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Hipa Vani or what product they may have bought. I don't have access to purchase records or personal data here, and nothing in our conversation mentions it. If you can share the relevant file, order data, or more context, I'm happy to help look into it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Karutu Vufi use?",
+  "id": 157,
+  "recalled": [
+   "Zefebu Nemasi's discount code is Sero.",
+   "Nemu Bavo's discount code is Damotu.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Salo Mali's discount code is Fugaru.",
+   "Horo Zaki's discount code is Zezido.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Boka Zari's discount code is Bibaho.",
+   "Soso Vuga's discount code is Biko."
+  ],
+  "reply": "I don't have a discount code for Karutu Vufi. The memory lists codes for Zefebu Nemasi, Nemu Bavo, Tilo Tigepu, Salo Mali, Horo Zaki, Lagasu Zefine, Boka Zari, and Soso Vuga, but Karutu Vufi isn't among them."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Pama Tole?",
+  "id": 158,
+  "recalled": [
+   "Satuto Nive's account manager is now Lupaha.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Retu Zohu's account manager is now Pufo.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Hime Nuzobe's account manager is now Munosi."
+  ],
+  "reply": "Pama Tole isn't in the information your glyphh has on you, so I can't say who their account manager is. The accounts it does list are Satuto Nive, Badadi Lavu, Dalera Bozo, Noda Fisubu, Hemiro Nago, Retu Zohu, Kasa Sabe, and Hime Nuzobe. If you can check your CRM or add Pama Tole's details, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Tifa Vesolo's home town?",
+  "id": 159,
+  "recalled": [
+   "Noda Fisubu's home town is Nobu.",
+   "Zumo Haru's home town is Zahu.",
+   "Tule Faheke's home town is Dolura.",
+   "Boka Zari's home town is Dihi.",
+   "Pabo Kege's home town is Nozele.",
+   "Hemiro Nago's home town is Rado.",
+   "Salo Mali's home town is Zolomu.",
+   "Tilo Tigepu's home town is Dasi."
+  ],
+  "reply": "Tifa Vesolo isn't in the information your glyphh has on you, so I can't tell you their home town. The memory lists eight people (Noda Fisubu, Zumo Haru, Tule Faheke, Boka Zari, Pabo Kege, Hemiro Nago, Salo Mali, and Tilo Tigepu), but Tifa Vesolo isn't one of them."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Hivefo Kaneho buy?",
+  "id": 160,
+  "recalled": [
+   "Badadi Lavu bought the Luhome last spring.",
+   "Horo Zaki's account manager is now Pugi."
+  ],
+  "reply": "I don't have any information about what Hivefo Kaneho bought. The context only says that Badadi Lavu bought the Luhome last spring, and that Horo Zaki's account manager is now Pugi. If you can share more details or point me to another source, I can help look further."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Komupa Dinite use?",
+  "id": 161,
+  "recalled": [
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Pese Neme's discount code is Puvega.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Salo Mali's discount code is Fugaru.",
+   "Nebe Divu's discount code is Hinagi.",
+   "Boka Zari's discount code is Bibaho.",
+   "Soso Vuga's discount code is Biko."
+  ],
+  "reply": "Your glyphh memory doesn't have a discount code for Komupa Dinite. It lists codes for Dagatu Bahipi, Tilo Tigepu, Pese Neme, Zefebu Nemasi, Salo Mali, Nebe Divu, Boka Zari, and Soso Vuga, but not that name. If you can share where Komupa's code was mentioned, I can help look further."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Viseza Rudo?",
+  "id": 162,
+  "recalled": [
+   "Dalera Bozo's account manager is now Kadame.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Tane Supula's account manager is now Menunu.",
+   "Rode Vudula's account manager is now Lili.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Poteta Lobofi's account manager is now Nemo."
+  ],
+  "reply": "I don't have a record of an account manager for Viseza Rudo. Your glyphh memory lists assignments for Dalera Bozo, Satuto Nive, Nebusi Veke, Badadi Lavu, Tane Supula, Rode Vudula, Horo Zaki, and Poteta Lobofi, but not Viseza Rudo. If you can check your CRM or another source, that would give you the answer."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Retoka Porovi's home town?",
+  "id": 163,
+  "recalled": [
+   "Nuvara Loka's home town is Kusode.",
+   "Boka Zari's home town is Dihi.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Kasiti Rira's home town is Lune.",
+   "Noda Fisubu's home town is Nobu.",
+   "Nebe Divu's home town is Zone.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Dagatu Bahipi's home town is Levi."
+  ],
+  "reply": "Retoka Porovi isn't in the memory you shared, so I can't tell you their home town. The list covers Nuvara Loka, Boka Zari, Zefebu Nemasi, Kasiti Rira, Noda Fisubu, Nebe Divu, Kasa Sabe, and Dagatu Bahipi, but not Retoka Porovi. If you can point me to another source or add that detail, I'm happy to help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Nafime Hevosi buy?",
+  "id": 164,
+  "recalled": [
+   "Hubilo Nafime bought the Lobu last spring.",
+   "Kora Bizema bought the Pepomi last spring."
+  ],
+  "reply": "Your memory has no entry for \"Nafime Hevosi.\" The closest match is Hubilo Nafime, who bought the Lobu last spring, but I can't confirm that's the same person. Kora Bizema is the one who bought the Pepomi."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Galeni Nelari use?",
+  "id": 165,
+  "recalled": [
+   "Boka Zari's discount code is Bibaho.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Rode Vudula's discount code is Donaru.",
+   "Salo Mali's discount code is Fugaru.",
+   "Horo Zaki's discount code is Zezido.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Remi Migu's discount code is Nune.",
+   "Vamu Sokodo's discount code is Refe."
+  ],
+  "reply": "Galeni Nelari isn't listed in your glyphh memory, so I don't have a discount code for them. The codes I do have are for Boka Zari, Lagasu Zefine, Rode Vudula, Salo Mali, Horo Zaki, Kasiti Rira, Remi Migu, and Vamu Sokodo. If you can check where Galeni's code might be recorded, I'm happy to help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Meguse Gutohi?",
+  "id": 166,
+  "recalled": [
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Tane Supula's account manager is now Menunu.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Boka Zari's account manager is now Dotiza."
+  ],
+  "reply": "I don't see Meguse Gutohi in what your glyphh has on you. It lists account managers for Poteta Lobofi, Satuto Nive, Horo Zaki, Kasa Sabe, Tane Supula, Badadi Lavu, Nebusi Veke, and Boka Zari, but not Meguse Gutohi. If you can point me to another source, like a CRM export or file, I can look there."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Ralini Nofemu's home town?",
+  "id": 167,
+  "recalled": [
+   "Vamu Sokodo's home town is Rura.",
+   "Boka Zari's home town is Dihi.",
+   "Kasa Sabe's home town is Kofavu.",
+   "Pabo Kege's home town is Nozele.",
+   "Rizo Hamida's home town is Safu.",
+   "Nuvara Loka's home town is Kusode.",
+   "Hubilo Nafime's home town is Hufu.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "I don't have Ralini Nofemu's home town in what your glyphh shared. The list covers Vamu Sokodo, Boka Zari, Kasa Sabe, Pabo Kege, Rizo Hamida, Nuvara Loka, Hubilo Nafime, and Hemiro Nago, but not Ralini Nofemu. If you can point me to where that's recorded, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Dorami Feni buy?",
+  "id": 168,
+  "recalled": [],
+  "reply": "I don't have any information about a person named Dorami Feni or what they bought, and nothing in my current context mentions it. If you can share the relevant records, such as an order file, a CRM export, or an email, I can look through them and find the answer."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Husaha Vusele use?",
+  "id": 169,
+  "recalled": [
+   "Rapi Gaso's discount code is Navu.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Salo Mali's discount code is Fugaru.",
+   "Nebe Divu's discount code is Hinagi.",
+   "Horo Zaki's discount code is Zezido.",
+   "Remi Migu's discount code is Nune.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Boka Zari's discount code is Bibaho."
+  ],
+  "reply": "I don't see Husaha Vusele in your glyphh memory, so I can't tell which discount code they can use. The names listed are Rapi Gaso, Dagatu Bahipi, Salo Mali, Nebe Divu, Horo Zaki, Remi Migu, Lagasu Zefine, and Boka Zari. If you can confirm the spelling or share their code, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Kiki Ruha?",
+  "id": 170,
+  "recalled": [
+   "Satuto Nive's account manager is now Lupaha.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Pabo Kege's account manager is now Tazu.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Kasa Sabe's account manager is now Zizo."
+  ],
+  "reply": "Your glyphh memory doesn't list an account manager for Kiki Ruha. It only covers Satuto Nive, Badadi Lavu, Nebusi Veke, Poteta Lobofi, Pabo Kege, Horo Zaki, Dagatu Bahipi, and Kasa Sabe. If you can check your CRM or another source, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Gufoze Fezita's home town?",
+  "id": 171,
+  "recalled": [
+   "Boka Zari's home town is Dihi.",
+   "Nuvara Loka's home town is Kusode.",
+   "Kasiti Rira's home town is Lune.",
+   "Noda Fisubu's home town is Nobu.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Badadi Lavu's home town is Pege.",
+   "Poteta Lobofi's home town is Zimevu.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "Your glyphh memory doesn't have an entry for Gufoze Fezita, so I can't tell you their home town. It only lists Boka Zari, Nuvara Loka, Kasiti Rira, Noda Fisubu, Zefebu Nemasi, Badadi Lavu, Poteta Lobofi, and Hemiro Nago. If you can tell me where they're from, I can take that as given."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Fimafu Dutabi buy?",
+  "id": 172,
+  "recalled": [
+   "Badadi Lavu bought the Luhome last spring.",
+   "Remi Migu's account manager is now Viloto.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Nebe Divu's account manager is now Vena."
+  ],
+  "reply": "Your glyphh memory doesn't mention Fimafu Dutabi, so I can't tell which product they bought. The only purchases it lists are Badadi Lavu (the Luhome) and Zefebu Nemasi (the Vepoge), both last spring."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Kase Tipo use?",
+  "id": 173,
+  "recalled": [
+   "Nuvara Loka's discount code is Nafato.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Boka Zari's discount code is Bibaho.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Horo Zaki's discount code is Zezido.",
+   "Nebe Divu's discount code is Hinagi.",
+   "Remi Migu's discount code is Nune.",
+   "Soso Vuga's discount code is Biko."
+  ],
+  "reply": "Your glyphh memory doesn't have a discount code for Kase Tipo. It lists codes for Nuvara Loka, Zefebu Nemasi, Boka Zari, Dagatu Bahipi, Horo Zaki, Nebe Divu, Remi Migu, and Soso Vuga, but not Kase Tipo. If you can share where Kase Tipo's code might be recorded, I can help look further."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Gone Dilu?",
+  "id": 174,
+  "recalled": [
+   "Noda Fisubu's account manager is now Guha.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Kora Bizema's account manager is now Mufu.",
+   "Sano Silira's account manager is now Rubeki.",
+   "Vamu Sokodo's account manager is now Lolaza.",
+   "Badadi Lavu's account manager is now Zine.",
+   "Hime Nuzobe's account manager is now Munosi."
+  ],
+  "reply": "Gone Dilu isn't in the information your glyphh has on you, so I can't tell you who their account manager is. The accounts I do see are Noda Fisubu, Satuto Nive, Horo Zaki, Kora Bizema, Sano Silira, Vamu Sokodo, Badadi Lavu, and Hime Nuzobe. If you can check another source or add Gone Dilu's record, I can help from there."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How long should I boil an egg?",
+  "id": 175,
+  "recalled": [],
+  "reply": "Place the egg in already boiling water and cook it for about 6\u20137 minutes for a soft, jammy yolk, or 10\u201312 minutes for a fully hard-boiled egg. Then move it to an ice bath right away to stop the cooking and make peeling easier."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What causes the seasons?",
+  "id": 176,
+  "recalled": [
+   "Luma Zihara bought the Lipo last spring.",
+   "Tane Supula bought the Fibabe last spring.",
+   "Rode Vudula bought the Fimi last spring.",
+   "Netiki Pebope bought the Vezo last spring.",
+   "Susuhe Dahaga bought the Tine last spring.",
+   "Satuto Nive bought the Doluke last spring.",
+   "Zare Zipare bought the Zode last spring.",
+   "Hubilo Nafime bought the Lobu last spring."
+  ],
+  "reply": "Seasons are caused by Earth's axial tilt of about 23.5\u00b0, not by its distance from the Sun. As Earth orbits, the tilt makes each hemisphere lean toward the Sun for part of the year (more direct sunlight and longer days, so summer) and away for another part (less direct sunlight and shorter days, so winter)."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is the capital of Australia?",
+  "id": 177,
+  "recalled": [
+   "Hemiro Nago's discount code is Hivo.",
+   "Dalera Bozo's discount code is Rehe.",
+   "Dalera Bozo's home town is Nedi.",
+   "Rizo Hamida's discount code is Guzega.",
+   "Horo Zaki's account manager is now Pugi.",
+   "Hubilo Nafime bought the Lobu last spring.",
+   "Satuto Nive bought the Doluke last spring.",
+   "Remi Migu's account manager is now Viloto."
+  ],
+  "reply": "The capital of Australia is Canberra."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I remove a coffee stain?",
+  "id": 178,
+  "recalled": [
+   "Dalera Bozo's discount code is Rehe.",
+   "Makego Ranipu's discount code is Nita."
+  ],
+  "reply": "Blot (don't rub) the stain with a clean cloth to soak up excess coffee, then rinse it with cool water from the back of the fabric. Apply a mix of liquid dish soap and a little white vinegar (about 1 tsp soap + 1 tbsp vinegar in 2 cups warm water), dab it until the stain lifts, then launder as usual and avoid the dryer until the stain is fully gone."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why is the ocean salty?",
+  "id": 179,
+  "recalled": [
+   "Horo Zaki's account manager is now Pugi.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Remi Migu's account manager is now Viloto.",
+   "Tamoku Gahene's home town is Tefavo.",
+   "Luhizu Titiha bought the Papa last spring.",
+   "Dagatu Bahipi's account manager is now Ruhuba."
+  ],
+  "reply": "The ocean is salty mainly because rain slowly erodes rocks on land, releasing mineral salts (like sodium and chloride) that rivers carry to the sea. Seafloor hydrothermal vents add more, and because water evaporates but salts stay behind, the salt has built up over billions of years."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is compound interest?",
+  "id": 180,
+  "recalled": [
+   "Tane Supula's account manager is now Menunu.",
+   "Badadi Lavu's discount code is Zafu.",
+   "Mofo Diha's discount code is Lukizu.",
+   "Zumo Haru's account manager is now Masuvi.",
+   "Rode Vudula's account manager is now Lili.",
+   "Nebusi Veke's discount code is Puge.",
+   "Boka Zari's account manager is now Dotiza.",
+   "Dalera Bozo's account manager is now Kadame."
+  ],
+  "reply": "Compound interest is interest calculated on both the original principal and the interest already accumulated, so your balance grows faster over time than with simple interest. The formula is A = P(1 + r/n)^(nt), where P is the principal, r is the annual rate, n is the number of compounding periods per year, and t is the number of years."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I fix a squeaky door?",
+  "id": 181,
+  "recalled": [
+   "Dagatu Bahipi's home town is Levi.",
+   "Dalera Bozo's discount code is Rehe."
+  ],
+  "reply": "Squeaky door hinges are usually fixed by lubricating them: lift the hinge pin out (tap it up with a nail and hammer), wipe it clean, coat it with white lithium grease, petroleum jelly, or silicone spray, then reinsert it. If you don't want to remove the pin, just spray or dab lubricant at the hinge joints and swing the door a few times to work it in."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why do cats purr?",
+  "id": 182,
+  "recalled": [],
+  "reply": "Cats purr mainly to communicate contentment, but also to self-soothe when stressed, hurt, or nursing. The vibrations (about 25\u2013150 Hz) are produced by rapid twitching of the laryngeal muscles, and may even help promote healing and pain relief."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I start running?",
+  "id": 183,
+  "recalled": [
+   "Makego Ranipu's home town is Pihira."
+  ],
+  "reply": "Start with a run/walk mix: 3 days a week, alternate 1 minute of jogging with 1\u20132 minutes of walking for about 20\u201330 minutes, at a pace where you can still hold a conversation. Gradually add more jogging each week, and rest a day between runs so your body adapts and you avoid injury."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is a black hole?",
+  "id": 184,
+  "recalled": [
+   "Nuvara Loka's home town is Kusode.",
+   "Badadi Lavu's discount code is Zafu.",
+   "Sano Silira's account manager is now Rubeki.",
+   "Dalera Bozo's discount code is Rehe.",
+   "Noda Fisubu's home town is Nobu.",
+   "Poteta Lobofi's account manager is now Nemo.",
+   "Noda Fisubu's discount code is Fibo.",
+   "Pabo Kege's discount code is Nohepe."
+  ],
+  "reply": "A black hole is a region of space where gravity is so strong that nothing, not even light, can escape once it crosses the boundary known as the event horizon. They typically form when massive stars collapse at the end of their lives, packing enormous mass into an extremely small volume."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I sharpen a kitchen knife?",
+  "id": 185,
+  "recalled": [
+   "Rizo Hamida bought the Vufa last spring.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Rapi Gaso bought the Miba last spring.",
+   "Nuvara Loka bought the Sezeko last spring.",
+   "Dalera Bozo's home town is Nedi.",
+   "Retu Zohu's discount code is Femike."
+  ],
+  "reply": "Use a whetstone: soak it if needed, then hold the knife at about 15\u201320\u00b0 to the stone and push or pull the edge across with light pressure, working from a coarser grit (~1000) to a finer one (~3000\u20136000). Do the same number of strokes on each side until you raise a slight burr, then finish with a few light strokes and hone/strop to refine the edge.\n\nFor a quick touch-up between sharpenings, a honing rod at the same angle will realign the edge."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What makes a good password?",
+  "id": 186,
+  "recalled": [],
+  "reply": "A good password is long (ideally 14+ characters), unique to each account, and hard to guess, such as a random string or a passphrase of several unrelated words. Use a password manager to generate and store them, avoid personal info or common patterns, and turn on multi-factor authentication wherever possible."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why do leaves change color?",
+  "id": 187,
+  "recalled": [
+   "Rode Vudula's home town is Heso."
+  ],
+  "reply": "Leaves change color in fall because shorter days and cooler temperatures cause trees to stop making chlorophyll, the green pigment, which unmasks yellow and orange carotenoids that were there all along. Some trees also produce red and purple anthocyanins from trapped sugars, which is why colors vary by species and weather."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I make cold brew coffee?",
+  "id": 188,
+  "recalled": [
+   "Dalera Bozo's discount code is Rehe.",
+   "Dalera Bozo's account manager is now Kadame.",
+   "Dalera Bozo's home town is Nedi.",
+   "Pese Neme's home town is Keso."
+  ],
+  "reply": "Combine 1 part coarsely ground coffee with 4\u20138 parts cold water (for example, 1 cup grounds to 4 cups water for a concentrate), stir, and steep covered at room temperature or in the fridge for 12\u201318 hours. Strain through a fine mesh sieve or coffee filter, then dilute with water or milk to taste and serve over ice."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is inflation?",
+  "id": 189,
+  "recalled": [
+   "Remi Migu's account manager is now Viloto.",
+   "Dagatu Bahipi's account manager is now Ruhuba.",
+   "Satuto Nive's account manager is now Lupaha.",
+   "Tane Supula's account manager is now Menunu.",
+   "Noda Fisubu's account manager is now Guha.",
+   "Rode Vudula's account manager is now Lili.",
+   "Hemiro Nago's account manager is now Rogo.",
+   "Boka Zari's account manager is now Dotiza."
+  ],
+  "reply": "Inflation is the rate at which the general level of prices for goods and services rises over time, which reduces the purchasing power of money. It's typically measured by indexes like the Consumer Price Index (CPI), and moderate inflation is normal in a growing economy, while high or rapid inflation can erode savings and living standards."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How often should I water a cactus?",
+  "id": 190,
+  "recalled": [
+   "Makego Ranipu's discount code is Nita."
+  ],
+  "reply": "Water a cactus about every 2\u20134 weeks in spring and summer, when it's actively growing, and only about once a month or less in fall and winter. Always let the soil dry out completely between waterings, since overwatering is the most common cause of cactus death."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why does bread go stale?",
+  "id": 191,
+  "recalled": [
+   "Nebusi Veke's account manager is now Zokodo.",
+   "Retu Zohu's discount code is Femike."
+  ],
+  "reply": "Bread goes stale mainly because of **starch retrogradation**: after baking, the starch molecules in the bread gradually recrystallize and push out water, making the crumb firm and dry. It's not simply moisture evaporating, which is why refrigerating bread (which speeds up retrogradation) makes it stale faster, while freezing slows the process down."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How can I sleep better?",
+  "id": 192,
+  "recalled": [
+   "Nuvara Loka's discount code is Nafato.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Boka Zari's account manager is now Dotiza."
+  ],
+  "reply": "Keep a consistent sleep and wake time (even on weekends), and wind down for 30\u201360 minutes before bed by dimming lights and avoiding screens. Also limit caffeine after midday, keep your bedroom cool, dark, and quiet, and get morning daylight to help anchor your body clock."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is a neutron star?",
+  "id": 193,
+  "recalled": [
+   "Nuvara Loka's home town is Kusode.",
+   "Pabo Kege's home town is Nozele.",
+   "Zefebu Nemasi's home town is Dopi.",
+   "Kasa Sabe's account manager is now Zizo.",
+   "Kasiti Rira's home town is Lune.",
+   "Rizo Hamida's discount code is Guzega.",
+   "Makego Ranipu's home town is Pihira.",
+   "Boka Zari's account manager is now Dotiza."
+  ],
+  "reply": "A neutron star is the collapsed core of a massive star left behind after a supernova, packing roughly 1.4 to 2 times the Sun's mass into a sphere only about 20 km across. It's made almost entirely of tightly packed neutrons, making it one of the densest objects in the universe (short of black holes)."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I iron a shirt?",
+  "id": 194,
+  "recalled": [
+   "Dalera Bozo's discount code is Rehe.",
+   "Tamoku Gahene's home town is Tefavo."
+  ],
+  "reply": "Set your iron to the right heat for the fabric (cotton can take high heat, synthetics need low), then iron the shirt slightly damp or with steam. Work in this order: collar (underside first), cuffs, sleeves, shoulders/yoke, then the body panels, pressing in smooth strokes and hanging the shirt right away to keep it wrinkle-free."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why do we yawn?",
+  "id": 195,
+  "recalled": [
+   "Dalera Bozo's discount code is Rehe.",
+   "Hime Nuzobe's discount code is Bipa."
+  ],
+  "reply": "Scientists aren't certain, but the leading theories are that yawning helps cool the brain by drawing in air and increasing blood flow, and that it helps regulate alertness when we're tired or bored. It's also socially contagious, likely tied to empathy and social bonding."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I descale a kettle?",
+  "id": 196,
+  "recalled": [
+   "Boka Zari's account manager is now Dotiza."
+  ],
+  "reply": "Fill the kettle halfway with equal parts white vinegar and water (or water plus a couple tablespoons of citric acid), bring it to a boil, then let it sit for 15\u201330 minutes. Pour it out, scrub any remaining scale, and rinse well by boiling and discarding fresh water once or twice to clear the taste."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is a mortgage?",
+  "id": 197,
+  "recalled": [
+   "Pabo Kege's home town is Nozele.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Nuvara Loka's home town is Kusode.",
+   "Noda Fisubu's home town is Nobu.",
+   "Bofo Nuvi's home town is Zupupi.",
+   "Hemiro Nago's discount code is Hivo.",
+   "Tane Supula's discount code is Godale.",
+   "Dagatu Bahipi's discount code is Suseho."
+  ],
+  "reply": "A mortgage is a loan used to buy real estate, where the property itself serves as collateral. You repay it over a set term (often 15 to 30 years) with interest, and if you fail to make payments, the lender can foreclose and take the property."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why does ice float?",
+  "id": 198,
+  "recalled": [],
+  "reply": "Ice floats because it's less dense than liquid water. As water freezes, its molecules form a rigid hexagonal lattice held together by hydrogen bonds, which spaces them farther apart than in liquid water, so ice takes up about 9% more volume for the same mass."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I get better at chess?",
+  "id": 199,
+  "recalled": [
+   "Nebe Divu's account manager is now Vena.",
+   "Dalera Bozo's home town is Nedi."
+  ],
+  "reply": "Focus on three things: solve tactics puzzles daily (15\u201330 minutes) to sharpen pattern recognition, review your own losses to find recurring mistakes, and learn a few core opening principles and basic endgames rather than memorizing long lines. Playing longer time controls (e.g., 15+10) also gives you room to think and apply what you learn."
+ }
+]

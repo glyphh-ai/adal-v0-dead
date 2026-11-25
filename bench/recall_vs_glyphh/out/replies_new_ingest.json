@@ -1,0 +1,2404 @@
+[
+ {
+  "kind": "recall",
+  "q": "Which town does Dagatu Bahipi live in?",
+  "want": "Levi",
+  "id": 0,
+  "recalled": [
+   "Dagatu Bahipi's home town is Levi.",
+   "Dagatu Bahipi's account manager is Ruhuba.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Dagatu Bahipi bought the Lona last spring."
+  ],
+  "reply": "According to your glyphh memory, Dagatu Bahipi's home town is Levi."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Dagatu Bahipi purchase last spring?",
+  "want": "Lona",
+  "id": 1,
+  "recalled": [
+   "Dagatu Bahipi bought the Lona last spring.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Dagatu Bahipi's account manager is Ruhuba.",
+   "Dagatu Bahipi's home town is Levi."
+  ],
+  "reply": "Dagatu Bahipi purchased the **Lona** last spring, according to the memory you shared."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Dagatu Bahipi?",
+  "want": "Ruhuba",
+  "old": "Fosa",
+  "update": 0,
+  "id": 2,
+  "recalled": [
+   "Dagatu Bahipi's account manager is Ruhuba.",
+   "Dagatu Bahipi's discount code is Suseho.",
+   "Dagatu Bahipi's home town is Levi.",
+   "Dagatu Bahipi bought the Lona last spring."
+  ],
+  "reply": "Dagatu Bahipi's account manager is Ruhuba."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Zefebu Nemasi purchase last spring?",
+  "want": "Vepoge",
+  "id": 3,
+  "recalled": [
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Zefebu Nemasi's account manager is Kuto.",
+   "Zefebu Nemasi's home town is Dopi."
+  ],
+  "reply": "Zefebu Nemasi purchased the **Vepoge** last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Zefebu Nemasi get?",
+  "want": "Sero",
+  "id": 4,
+  "recalled": [
+   "Zefebu Nemasi's discount code is Sero.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Zefebu Nemasi's account manager is Kuto.",
+   "Zefebu Nemasi's home town is Dopi."
+  ],
+  "reply": "Zefebu Nemasi's discount code is **Sero**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Zefebu Nemasi's account?",
+  "want": "Kuto",
+  "old": "Gome",
+  "update": 1,
+  "id": 5,
+  "recalled": [
+   "Zefebu Nemasi's account manager is Kuto.",
+   "Zefebu Nemasi bought the Vepoge last spring.",
+   "Zefebu Nemasi's discount code is Sero.",
+   "Zefebu Nemasi's home town is Dopi."
+  ],
+  "reply": "Zefebu Nemasi's account is managed by Kuto, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Retu Zohu get?",
+  "want": "Femike",
+  "id": 6,
+  "recalled": [
+   "Retu Zohu's discount code is Femike.",
+   "Retu Zohu bought the Roho last spring.",
+   "Retu Zohu's account manager is Pufo.",
+   "Retu Zohu's home town is Vika."
+  ],
+  "reply": "Retu Zohu's discount code is **Femike**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Retu Zohu's home town?",
+  "want": "Vika",
+  "id": 7,
+  "recalled": [
+   "Retu Zohu's home town is Vika.",
+   "Retu Zohu bought the Roho last spring.",
+   "Retu Zohu's account manager is Pufo.",
+   "Retu Zohu's discount code is Femike."
+  ],
+  "reply": "Retu Zohu's home town is Vika."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Retu Zohu?",
+  "want": "Pufo",
+  "old": "Dito",
+  "update": 0,
+  "id": 8,
+  "recalled": [
+   "Retu Zohu's account manager is Pufo.",
+   "Retu Zohu bought the Roho last spring.",
+   "Retu Zohu's discount code is Femike.",
+   "Retu Zohu's home town is Vika."
+  ],
+  "reply": "Retu Zohu's account manager is Pufo."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Bofo Nuvi's home town?",
+  "want": "Zupupi",
+  "id": 9,
+  "recalled": [
+   "Bofo Nuvi's home town is Zupupi.",
+   "Bofo Nuvi bought the Pokoza last spring.",
+   "Bofo Nuvi's account manager is Puma.",
+   "Bofo Nuvi's discount code is Kadefo."
+  ],
+  "reply": "Bofo Nuvi's home town is Zupupi."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Bofo Nuvi buy?",
+  "want": "Pokoza",
+  "id": 10,
+  "recalled": [
+   "Bofo Nuvi bought the Pokoza last spring.",
+   "Bofo Nuvi's account manager is Puma.",
+   "Bofo Nuvi's discount code is Kadefo.",
+   "Bofo Nuvi's home town is Zupupi."
+  ],
+  "reply": "Bofo Nuvi bought the Pokoza last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Bofo Nuvi's account?",
+  "want": "Puma",
+  "old": "Guna",
+  "update": 1,
+  "id": 11,
+  "recalled": [
+   "Bofo Nuvi's account manager is Puma.",
+   "Bofo Nuvi bought the Pokoza last spring.",
+   "Bofo Nuvi's discount code is Kadefo.",
+   "Bofo Nuvi's home town is Zupupi."
+  ],
+  "reply": "Bofo Nuvi's account is managed by Puma, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Hime Nuzobe buy?",
+  "want": "Rameno",
+  "id": 12,
+  "recalled": [
+   "Hime Nuzobe bought the Rameno last spring.",
+   "Hime Nuzobe's account manager is Munosi.",
+   "Hime Nuzobe's discount code is Bipa.",
+   "Hime Nuzobe's home town is Pefido."
+  ],
+  "reply": "Hime Nuzobe bought the Rameno, purchased last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Hime Nuzobe use?",
+  "want": "Bipa",
+  "id": 13,
+  "recalled": [
+   "Hime Nuzobe's discount code is Bipa.",
+   "Hime Nuzobe bought the Rameno last spring.",
+   "Hime Nuzobe's account manager is Munosi.",
+   "Hime Nuzobe's home town is Pefido."
+  ],
+  "reply": "Hime Nuzobe can use the discount code **Bipa**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Hime Nuzobe?",
+  "want": "Munosi",
+  "old": "Nurube",
+  "update": 0,
+  "id": 14,
+  "recalled": [
+   "Hime Nuzobe's account manager is Munosi.",
+   "Hime Nuzobe bought the Rameno last spring.",
+   "Hime Nuzobe's discount code is Bipa.",
+   "Hime Nuzobe's home town is Pefido."
+  ],
+  "reply": "Hime Nuzobe's account manager is Munosi."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Rapi Gaso use?",
+  "want": "Navu",
+  "id": 15,
+  "recalled": [
+   "Rapi Gaso's discount code is Navu.",
+   "Rapi Gaso bought the Miba last spring.",
+   "Rapi Gaso's account manager is Robubu.",
+   "Rapi Gaso's home town is Kako."
+  ],
+  "reply": "Rapi Gaso can use the discount code **Navu**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Rapi Gaso live in?",
+  "want": "Kako",
+  "id": 16,
+  "recalled": [
+   "Rapi Gaso's home town is Kako.",
+   "Rapi Gaso bought the Miba last spring.",
+   "Rapi Gaso's account manager is Robubu.",
+   "Rapi Gaso's discount code is Navu."
+  ],
+  "reply": "According to your glyphh memory, Rapi Gaso's home town is Kako, so that's the town they live in (assuming \"home town\" reflects their current residence)."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Rapi Gaso's account?",
+  "want": "Robubu",
+  "old": "Zehu",
+  "update": 1,
+  "id": 17,
+  "recalled": [
+   "Rapi Gaso's account manager is Robubu.",
+   "Rapi Gaso bought the Miba last spring.",
+   "Rapi Gaso's discount code is Navu.",
+   "Rapi Gaso's home town is Kako."
+  ],
+  "reply": "Rapi Gaso's account is managed by Robubu, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Satuto Nive live in?",
+  "want": "Nofi",
+  "id": 18,
+  "recalled": [
+   "Satuto Nive's home town is Nofi.",
+   "Satuto Nive bought the Doluke last spring.",
+   "Satuto Nive's account manager is Lupaha.",
+   "Satuto Nive's discount code is Vadaki."
+  ],
+  "reply": "According to your glyphh memory, Satuto Nive's home town is Nofi, so that's the town they live in (assuming \"home town\" means current residence)."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Satuto Nive purchase last spring?",
+  "want": "Doluke",
+  "id": 19,
+  "recalled": [
+   "Satuto Nive bought the Doluke last spring.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Satuto Nive's account manager is Lupaha.",
+   "Satuto Nive's home town is Nofi."
+  ],
+  "reply": "Satuto Nive bought the Doluke last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Satuto Nive?",
+  "want": "Lupaha",
+  "old": "Gini",
+  "update": 0,
+  "id": 20,
+  "recalled": [
+   "Satuto Nive's account manager is Lupaha.",
+   "Satuto Nive bought the Doluke last spring.",
+   "Satuto Nive's discount code is Vadaki.",
+   "Satuto Nive's home town is Nofi."
+  ],
+  "reply": "Satuto Nive's account manager is Lupaha."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Tule Faheke purchase last spring?",
+  "want": "Vubapi",
+  "id": 21,
+  "recalled": [
+   "Tule Faheke bought the Vubapi last spring.",
+   "Tule Faheke's discount code is Vebu.",
+   "Tule Faheke's account manager is Bavovu.",
+   "Tule Faheke's home town is Dolura."
+  ],
+  "reply": "Tule Faheke bought the Vubapi last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Tule Faheke get?",
+  "want": "Vebu",
+  "id": 22,
+  "recalled": [
+   "Tule Faheke's discount code is Vebu.",
+   "Tule Faheke bought the Vubapi last spring.",
+   "Tule Faheke's account manager is Bavovu.",
+   "Tule Faheke's home town is Dolura."
+  ],
+  "reply": "Tule Faheke's discount code is **Vebu**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Tule Faheke's account?",
+  "want": "Bavovu",
+  "old": "Pipu",
+  "update": 1,
+  "id": 23,
+  "recalled": [
+   "Tule Faheke's account manager is Bavovu.",
+   "Tule Faheke bought the Vubapi last spring.",
+   "Tule Faheke's discount code is Vebu.",
+   "Tule Faheke's home town is Dolura."
+  ],
+  "reply": "Tule Faheke's account is managed by Bavovu, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Nebe Divu get?",
+  "want": "Hinagi",
+  "id": 24,
+  "recalled": [
+   "Nebe Divu's discount code is Hinagi.",
+   "Nebe Divu bought the Kisima last spring.",
+   "Nebe Divu's account manager is Vena.",
+   "Nebe Divu's home town is Zone."
+  ],
+  "reply": "Nebe Divu's discount code is **Hinagi**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Nebe Divu's home town?",
+  "want": "Zone",
+  "id": 25,
+  "recalled": [
+   "Nebe Divu's home town is Zone.",
+   "Nebe Divu bought the Kisima last spring.",
+   "Nebe Divu's account manager is Vena.",
+   "Nebe Divu's discount code is Hinagi."
+  ],
+  "reply": "Nebe Divu's home town is Zone, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Nebe Divu?",
+  "want": "Vena",
+  "old": "Garola",
+  "update": 0,
+  "id": 26,
+  "recalled": [
+   "Nebe Divu's account manager is Vena.",
+   "Nebe Divu bought the Kisima last spring.",
+   "Nebe Divu's discount code is Hinagi.",
+   "Nebe Divu's home town is Zone."
+  ],
+  "reply": "Nebe Divu's account manager is Vena."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Makego Ranipu's home town?",
+  "want": "Pihira",
+  "id": 27,
+  "recalled": [
+   "Makego Ranipu's home town is Pihira.",
+   "Makego Ranipu bought the Koniba last spring.",
+   "Makego Ranipu's account manager is Kodefe.",
+   "Makego Ranipu's discount code is Nita."
+  ],
+  "reply": "Makego Ranipu's home town is Pihira."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Makego Ranipu buy?",
+  "want": "Koniba",
+  "id": 28,
+  "recalled": [
+   "Makego Ranipu bought the Koniba last spring.",
+   "Makego Ranipu's account manager is Kodefe.",
+   "Makego Ranipu's discount code is Nita.",
+   "Makego Ranipu's home town is Pihira."
+  ],
+  "reply": "Makego Ranipu bought the Koniba last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Makego Ranipu's account?",
+  "want": "Kodefe",
+  "old": "Tolifi",
+  "update": 1,
+  "id": 29,
+  "recalled": [
+   "Makego Ranipu's account manager is Kodefe.",
+   "Makego Ranipu bought the Koniba last spring.",
+   "Makego Ranipu's discount code is Nita.",
+   "Makego Ranipu's home town is Pihira."
+  ],
+  "reply": "Makego Ranipu's account is managed by Kodefe, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Rode Vudula buy?",
+  "want": "Fimi",
+  "id": 30,
+  "recalled": [
+   "Rode Vudula bought the Fimi last spring.",
+   "Rode Vudula's account manager is Lili.",
+   "Rode Vudula's discount code is Donaru.",
+   "Rode Vudula's home town is Heso."
+  ],
+  "reply": "Rode Vudula bought the Fimi last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Rode Vudula use?",
+  "want": "Donaru",
+  "id": 31,
+  "recalled": [
+   "Rode Vudula's discount code is Donaru.",
+   "Rode Vudula bought the Fimi last spring.",
+   "Rode Vudula's account manager is Lili.",
+   "Rode Vudula's home town is Heso."
+  ],
+  "reply": "Rode Vudula can use the discount code **Donaru**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Rode Vudula?",
+  "want": "Lili",
+  "old": "Davalu",
+  "update": 0,
+  "id": 32,
+  "recalled": [
+   "Rode Vudula's account manager is Lili.",
+   "Rode Vudula bought the Fimi last spring.",
+   "Rode Vudula's discount code is Donaru.",
+   "Rode Vudula's home town is Heso."
+  ],
+  "reply": "Rode Vudula's account manager is Lili."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Nedule Nefapo use?",
+  "want": "Lape",
+  "id": 33,
+  "recalled": [
+   "Nedule Nefapo's discount code is Lape.",
+   "Nedule Nefapo bought the Nomo last spring.",
+   "Nedule Nefapo's account manager is Zesosi.",
+   "Nedule Nefapo's home town is Vugo."
+  ],
+  "reply": "Nedule Nefapo can use the discount code **Lape**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Nedule Nefapo live in?",
+  "want": "Vugo",
+  "id": 34,
+  "recalled": [
+   "Nedule Nefapo's home town is Vugo.",
+   "Nedule Nefapo bought the Nomo last spring.",
+   "Nedule Nefapo's account manager is Zesosi.",
+   "Nedule Nefapo's discount code is Lape."
+  ],
+  "reply": "According to your glyphh memory, Nedule Nefapo's home town is Vugo."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Nedule Nefapo's account?",
+  "want": "Zesosi",
+  "old": "Zubano",
+  "update": 1,
+  "id": 35,
+  "recalled": [
+   "Nedule Nefapo's account manager is Zesosi.",
+   "Nedule Nefapo bought the Nomo last spring.",
+   "Nedule Nefapo's discount code is Lape.",
+   "Nedule Nefapo's home town is Vugo."
+  ],
+  "reply": "Nedule Nefapo's account is managed by Zesosi, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Remi Migu live in?",
+  "want": "Gutebe",
+  "id": 36,
+  "recalled": [
+   "Remi Migu's home town is Gutebe.",
+   "Remi Migu bought the Fopo last spring.",
+   "Remi Migu's account manager is Viloto.",
+   "Remi Migu's discount code is Nune."
+  ],
+  "reply": "According to your glyphh memory, Remi Migu's home town is Gutebe, so that's the town they live in."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Remi Migu purchase last spring?",
+  "want": "Fopo",
+  "id": 37,
+  "recalled": [
+   "Remi Migu bought the Fopo last spring.",
+   "Remi Migu's discount code is Nune.",
+   "Remi Migu's account manager is Viloto.",
+   "Remi Migu's home town is Gutebe."
+  ],
+  "reply": "Remi Migu bought the Fopo last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Remi Migu?",
+  "want": "Viloto",
+  "old": "Fefabe",
+  "update": 0,
+  "id": 38,
+  "recalled": [
+   "Remi Migu's account manager is Viloto.",
+   "Remi Migu bought the Fopo last spring.",
+   "Remi Migu's discount code is Nune.",
+   "Remi Migu's home town is Gutebe."
+  ],
+  "reply": "Remi Migu's account manager is Viloto."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Hubilo Nafime purchase last spring?",
+  "want": "Lobu",
+  "id": 39,
+  "recalled": [
+   "Hubilo Nafime bought the Lobu last spring.",
+   "Hubilo Nafime's discount code is Mokoma.",
+   "Hubilo Nafime's account manager is Torade.",
+   "Hubilo Nafime's home town is Hufu."
+  ],
+  "reply": "Hubilo Nafime purchased the Lobu last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Hubilo Nafime get?",
+  "want": "Mokoma",
+  "id": 40,
+  "recalled": [
+   "Hubilo Nafime's discount code is Mokoma.",
+   "Hubilo Nafime bought the Lobu last spring.",
+   "Hubilo Nafime's account manager is Torade.",
+   "Hubilo Nafime's home town is Hufu."
+  ],
+  "reply": "Hubilo Nafime's discount code is **Mokoma**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Hubilo Nafime's account?",
+  "want": "Torade",
+  "old": "Fupako",
+  "update": 1,
+  "id": 41,
+  "recalled": [
+   "Hubilo Nafime's account manager is Torade.",
+   "Hubilo Nafime bought the Lobu last spring.",
+   "Hubilo Nafime's discount code is Mokoma.",
+   "Hubilo Nafime's home town is Hufu."
+  ],
+  "reply": "Hubilo Nafime's account manager is Torade."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Vamu Sokodo get?",
+  "want": "Refe",
+  "id": 42,
+  "recalled": [
+   "Vamu Sokodo's discount code is Refe.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Vamu Sokodo's account manager is Lolaza.",
+   "Vamu Sokodo's home town is Rura."
+  ],
+  "reply": "Vamu Sokodo's discount code is **Refe**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Vamu Sokodo's home town?",
+  "want": "Rura",
+  "id": 43,
+  "recalled": [
+   "Vamu Sokodo's home town is Rura.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Vamu Sokodo's account manager is Lolaza.",
+   "Vamu Sokodo's discount code is Refe."
+  ],
+  "reply": "Vamu Sokodo's home town is Rura."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Vamu Sokodo?",
+  "want": "Lolaza",
+  "old": "Nogu",
+  "update": 0,
+  "id": 44,
+  "recalled": [
+   "Vamu Sokodo's account manager is Lolaza.",
+   "Vamu Sokodo bought the Ravugo last spring.",
+   "Vamu Sokodo's discount code is Refe.",
+   "Vamu Sokodo's home town is Rura."
+  ],
+  "reply": "Vamu Sokodo's account manager is Lolaza."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Luma Zihara's home town?",
+  "want": "Pete",
+  "id": 45,
+  "recalled": [
+   "Luma Zihara's home town is Pete.",
+   "Luma Zihara bought the Lipo last spring.",
+   "Luma Zihara's account manager is Reke.",
+   "Luma Zihara's discount code is Bito."
+  ],
+  "reply": "Luma Zihara's home town is Pete."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Luma Zihara buy?",
+  "want": "Lipo",
+  "id": 46,
+  "recalled": [
+   "Luma Zihara bought the Lipo last spring.",
+   "Luma Zihara's account manager is Reke.",
+   "Luma Zihara's discount code is Bito.",
+   "Luma Zihara's home town is Pete."
+  ],
+  "reply": "Luma Zihara bought the **Lipo** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Luma Zihara's account?",
+  "want": "Reke",
+  "old": "Ziko",
+  "update": 1,
+  "id": 47,
+  "recalled": [
+   "Luma Zihara's account manager is Reke.",
+   "Luma Zihara bought the Lipo last spring.",
+   "Luma Zihara's discount code is Bito.",
+   "Luma Zihara's home town is Pete."
+  ],
+  "reply": "Luma Zihara's account is managed by Reke, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Pabo Kege buy?",
+  "want": "Diga",
+  "id": 48,
+  "recalled": [
+   "Pabo Kege bought the Diga last spring.",
+   "Pabo Kege's account manager is Tazu.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Pabo Kege's home town is Nozele."
+  ],
+  "reply": "Pabo Kege bought the **Diga** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Pabo Kege use?",
+  "want": "Nohepe",
+  "id": 49,
+  "recalled": [
+   "Pabo Kege's discount code is Nohepe.",
+   "Pabo Kege bought the Diga last spring.",
+   "Pabo Kege's account manager is Tazu.",
+   "Pabo Kege's home town is Nozele."
+  ],
+  "reply": "Pabo Kege can use the discount code **Nohepe**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Pabo Kege?",
+  "want": "Tazu",
+  "old": "Rini",
+  "update": 0,
+  "id": 50,
+  "recalled": [
+   "Pabo Kege's account manager is Tazu.",
+   "Pabo Kege bought the Diga last spring.",
+   "Pabo Kege's discount code is Nohepe.",
+   "Pabo Kege's home town is Nozele."
+  ],
+  "reply": "Pabo Kege's account manager is Tazu."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Salo Mali use?",
+  "want": "Fugaru",
+  "id": 51,
+  "recalled": [
+   "Salo Mali's discount code is Fugaru.",
+   "Salo Mali's account manager is Dugoro.",
+   "Salo Mali's home town is Zolomu.",
+   "Salo Mali bought the Lise last spring."
+  ],
+  "reply": "Salo Mali can use the discount code **Fugaru**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Salo Mali live in?",
+  "want": "Zolomu",
+  "id": 52,
+  "recalled": [
+   "Salo Mali's home town is Zolomu.",
+   "Salo Mali's account manager is Dugoro.",
+   "Salo Mali's discount code is Fugaru.",
+   "Salo Mali bought the Lise last spring."
+  ],
+  "reply": "Salo Mali's home town is Zolomu, according to your glyphh memory. It doesn't say explicitly where Salo lives now, so Zolomu is the closest answer I have."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Salo Mali's account?",
+  "want": "Dugoro",
+  "old": "Nomatu",
+  "update": 1,
+  "id": 53,
+  "recalled": [
+   "Salo Mali's account manager is Dugoro.",
+   "Salo Mali's discount code is Fugaru.",
+   "Salo Mali's home town is Zolomu.",
+   "Salo Mali bought the Lise last spring."
+  ],
+  "reply": "Salo Mali's account is managed by Dugoro, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Kasa Sabe live in?",
+  "want": "Kofavu",
+  "id": 54,
+  "recalled": [
+   "Kasa Sabe's home town is Kofavu.",
+   "Kasa Sabe bought the Fovibi last spring.",
+   "Kasa Sabe's account manager is Zizo.",
+   "Kasa Sabe's discount code is Zomadi."
+  ],
+  "reply": "Kasa Sabe's home town is Kofavu, according to your glyphh memory. It doesn't explicitly say where they currently live, so Kofavu is the closest answer available."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Kasa Sabe purchase last spring?",
+  "want": "Fovibi",
+  "id": 55,
+  "recalled": [
+   "Kasa Sabe bought the Fovibi last spring.",
+   "Kasa Sabe's discount code is Zomadi.",
+   "Kasa Sabe's account manager is Zizo.",
+   "Kasa Sabe's home town is Kofavu."
+  ],
+  "reply": "Kasa Sabe purchased the Fovibi last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Kasa Sabe?",
+  "want": "Zizo",
+  "old": "Zuzo",
+  "update": 0,
+  "id": 56,
+  "recalled": [
+   "Kasa Sabe's account manager is Zizo.",
+   "Kasa Sabe bought the Fovibi last spring.",
+   "Kasa Sabe's discount code is Zomadi.",
+   "Kasa Sabe's home town is Kofavu."
+  ],
+  "reply": "Kasa Sabe's account manager is Zizo."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Pese Neme purchase last spring?",
+  "want": "Keka",
+  "id": 57,
+  "recalled": [
+   "Pese Neme bought the Keka last spring.",
+   "Pese Neme's discount code is Puvega.",
+   "Pese Neme's account manager is Muni.",
+   "Pese Neme's home town is Keso."
+  ],
+  "reply": "Pese Neme bought the **Keka** last spring, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Pese Neme get?",
+  "want": "Puvega",
+  "id": 58,
+  "recalled": [
+   "Pese Neme's discount code is Puvega.",
+   "Pese Neme bought the Keka last spring.",
+   "Pese Neme's account manager is Muni.",
+   "Pese Neme's home town is Keso."
+  ],
+  "reply": "Pese Neme's discount code is **Puvega**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Pese Neme's account?",
+  "want": "Muni",
+  "old": "Kagate",
+  "update": 1,
+  "id": 59,
+  "recalled": [
+   "Pese Neme's account manager is Muni.",
+   "Pese Neme bought the Keka last spring.",
+   "Pese Neme's discount code is Puvega.",
+   "Pese Neme's home town is Keso."
+  ],
+  "reply": "Muni manages Pese Neme's account, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Tilo Tigepu get?",
+  "want": "Goba",
+  "id": 60,
+  "recalled": [
+   "Tilo Tigepu's discount code is Goba.",
+   "Tilo Tigepu's account manager is Suse.",
+   "Tilo Tigepu's home town is Dasi.",
+   "Tilo Tigepu bought the Riki last spring."
+  ],
+  "reply": "Tilo Tigepu's discount code is **Goba**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Tilo Tigepu's home town?",
+  "want": "Dasi",
+  "id": 61,
+  "recalled": [
+   "Tilo Tigepu's home town is Dasi.",
+   "Tilo Tigepu's account manager is Suse.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Tilo Tigepu bought the Riki last spring."
+  ],
+  "reply": "Tilo Tigepu's home town is Dasi."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Tilo Tigepu?",
+  "want": "Suse",
+  "old": "Tana",
+  "update": 0,
+  "id": 62,
+  "recalled": [
+   "Tilo Tigepu's account manager is Suse.",
+   "Tilo Tigepu's discount code is Goba.",
+   "Tilo Tigepu's home town is Dasi.",
+   "Tilo Tigepu bought the Riki last spring."
+  ],
+  "reply": "Tilo Tigepu's account manager is Suse."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Lagasu Zefine's home town?",
+  "want": "Vumare",
+  "id": 63,
+  "recalled": [
+   "Lagasu Zefine's home town is Vumare.",
+   "Lagasu Zefine bought the Baka last spring.",
+   "Lagasu Zefine's account manager is Tupa.",
+   "Lagasu Zefine's discount code is Bomima."
+  ],
+  "reply": "Lagasu Zefine's home town is Vumare."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Lagasu Zefine buy?",
+  "want": "Baka",
+  "id": 64,
+  "recalled": [
+   "Lagasu Zefine bought the Baka last spring.",
+   "Lagasu Zefine's account manager is Tupa.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Lagasu Zefine's home town is Vumare."
+  ],
+  "reply": "Lagasu Zefine bought the **Baka** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Lagasu Zefine's account?",
+  "want": "Tupa",
+  "old": "Nonuno",
+  "update": 1,
+  "id": 65,
+  "recalled": [
+   "Lagasu Zefine's account manager is Tupa.",
+   "Lagasu Zefine bought the Baka last spring.",
+   "Lagasu Zefine's discount code is Bomima.",
+   "Lagasu Zefine's home town is Vumare."
+  ],
+  "reply": "According to your glyphh memory, Lagasu Zefine's account is managed by Tupa."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Noda Fisubu buy?",
+  "want": "Done",
+  "id": 66,
+  "recalled": [
+   "Noda Fisubu's account manager is Guha.",
+   "Noda Fisubu bought the Done last spring.",
+   "Noda Fisubu's discount code is Fibo.",
+   "Noda Fisubu's home town is Nobu."
+  ],
+  "reply": "Noda Fisubu bought the Done last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Noda Fisubu use?",
+  "want": "Fibo",
+  "id": 67,
+  "recalled": [
+   "Noda Fisubu's discount code is Fibo.",
+   "Noda Fisubu's account manager is Guha.",
+   "Noda Fisubu's home town is Nobu.",
+   "Noda Fisubu bought the Done last spring."
+  ],
+  "reply": "Noda Fisubu can use the discount code **Fibo**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Noda Fisubu?",
+  "want": "Guha",
+  "old": "Bido",
+  "update": 0,
+  "id": 68,
+  "recalled": [
+   "Noda Fisubu's account manager is Guha.",
+   "Noda Fisubu's discount code is Fibo.",
+   "Noda Fisubu's home town is Nobu.",
+   "Noda Fisubu bought the Done last spring."
+  ],
+  "reply": "Noda Fisubu's account manager is Guha."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Nuvara Loka use?",
+  "want": "Nafato",
+  "id": 69,
+  "recalled": [
+   "Nuvara Loka's discount code is Nafato.",
+   "Nuvara Loka bought the Sezeko last spring.",
+   "Nuvara Loka's account manager is Bupa.",
+   "Nuvara Loka's home town is Kusode."
+  ],
+  "reply": "Nuvara Loka can use the discount code **Nafato**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Nuvara Loka live in?",
+  "want": "Kusode",
+  "id": 70,
+  "recalled": [
+   "Nuvara Loka's home town is Kusode.",
+   "Nuvara Loka bought the Sezeko last spring.",
+   "Nuvara Loka's account manager is Bupa.",
+   "Nuvara Loka's discount code is Nafato."
+  ],
+  "reply": "According to your glyphh, Nuvara Loka's home town is Kusode. Note that it lists \"home town\" specifically, so it may not necessarily be where they currently live."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Nuvara Loka's account?",
+  "want": "Bupa",
+  "old": "Migo",
+  "update": 1,
+  "id": 71,
+  "recalled": [
+   "Nuvara Loka's account manager is Bupa.",
+   "Nuvara Loka bought the Sezeko last spring.",
+   "Nuvara Loka's discount code is Nafato.",
+   "Nuvara Loka's home town is Kusode."
+  ],
+  "reply": "According to your glyphh memory, Nuvara Loka's account is managed by Bupa."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Horo Zaki live in?",
+  "want": "Sidehi",
+  "id": 72,
+  "recalled": [
+   "Horo Zaki's home town is Sidehi.",
+   "Horo Zaki bought the Peko last spring.",
+   "Horo Zaki's account manager is Pugi.",
+   "Horo Zaki's discount code is Zezido."
+  ],
+  "reply": "According to your glyphh memory, Horo Zaki's home town is Sidehi."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Horo Zaki purchase last spring?",
+  "want": "Peko",
+  "id": 73,
+  "recalled": [
+   "Horo Zaki bought the Peko last spring.",
+   "Horo Zaki's discount code is Zezido.",
+   "Horo Zaki's account manager is Pugi.",
+   "Horo Zaki's home town is Sidehi."
+  ],
+  "reply": "Horo Zaki bought the Peko last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Horo Zaki?",
+  "want": "Pugi",
+  "old": "Heno",
+  "update": 0,
+  "id": 74,
+  "recalled": [
+   "Horo Zaki's account manager is Pugi.",
+   "Horo Zaki bought the Peko last spring.",
+   "Horo Zaki's discount code is Zezido.",
+   "Horo Zaki's home town is Sidehi."
+  ],
+  "reply": "Horo Zaki's account manager is Pugi."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Kasiti Rira purchase last spring?",
+  "want": "Fipi",
+  "id": 75,
+  "recalled": [
+   "Kasiti Rira bought the Fipi last spring.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Kasiti Rira's account manager is Fudemo.",
+   "Kasiti Rira's home town is Lune."
+  ],
+  "reply": "Kasiti Rira bought the Fipi last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Kasiti Rira get?",
+  "want": "Dabu",
+  "id": 76,
+  "recalled": [
+   "Kasiti Rira's discount code is Dabu.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Kasiti Rira's account manager is Fudemo.",
+   "Kasiti Rira's home town is Lune."
+  ],
+  "reply": "Kasiti Rira's discount code is **Dabu**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Kasiti Rira's account?",
+  "want": "Fudemo",
+  "old": "Fume",
+  "update": 1,
+  "id": 77,
+  "recalled": [
+   "Kasiti Rira's account manager is Fudemo.",
+   "Kasiti Rira bought the Fipi last spring.",
+   "Kasiti Rira's discount code is Dabu.",
+   "Kasiti Rira's home town is Lune."
+  ],
+  "reply": "Fudemo manages Kasiti Rira's account, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Kora Bizema get?",
+  "want": "Supuzu",
+  "id": 78,
+  "recalled": [
+   "Kora Bizema's discount code is Supuzu.",
+   "Kora Bizema bought the Pepomi last spring.",
+   "Kora Bizema's account manager is Mufu.",
+   "Kora Bizema's home town is Pubiba."
+  ],
+  "reply": "Kora Bizema's discount code is **Supuzu**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Kora Bizema's home town?",
+  "want": "Pubiba",
+  "id": 79,
+  "recalled": [
+   "Kora Bizema's home town is Pubiba.",
+   "Kora Bizema bought the Pepomi last spring.",
+   "Kora Bizema's account manager is Mufu.",
+   "Kora Bizema's discount code is Supuzu."
+  ],
+  "reply": "Kora Bizema's home town is Pubiba."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Kora Bizema?",
+  "want": "Mufu",
+  "old": "Lusona",
+  "update": 0,
+  "id": 80,
+  "recalled": [
+   "Kora Bizema's account manager is Mufu.",
+   "Kora Bizema bought the Pepomi last spring.",
+   "Kora Bizema's discount code is Supuzu.",
+   "Kora Bizema's home town is Pubiba."
+  ],
+  "reply": "Kora Bizema's account manager is Mufu."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Numa Roba's home town?",
+  "want": "Dalu",
+  "id": 81,
+  "recalled": [
+   "Numa Roba's home town is Dalu.",
+   "Numa Roba bought the Vate last spring.",
+   "Numa Roba's account manager is Mira.",
+   "Numa Roba's discount code is Lodadu."
+  ],
+  "reply": "Numa Roba's home town is Dalu."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Numa Roba buy?",
+  "want": "Vate",
+  "id": 82,
+  "recalled": [
+   "Numa Roba bought the Vate last spring.",
+   "Numa Roba's account manager is Mira.",
+   "Numa Roba's discount code is Lodadu.",
+   "Numa Roba's home town is Dalu."
+  ],
+  "reply": "Numa Roba bought the Vate last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Numa Roba's account?",
+  "want": "Mira",
+  "old": "Lepuhi",
+  "update": 1,
+  "id": 83,
+  "recalled": [
+   "Numa Roba's account manager is Mira.",
+   "Numa Roba bought the Vate last spring.",
+   "Numa Roba's discount code is Lodadu.",
+   "Numa Roba's home town is Dalu."
+  ],
+  "reply": "Mira manages Numa Roba's account, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Boka Zari buy?",
+  "want": "Gali",
+  "id": 84,
+  "recalled": [
+   "Boka Zari bought the Gali last spring.",
+   "Boka Zari's account manager is Dotiza.",
+   "Boka Zari's discount code is Bibaho.",
+   "Boka Zari's home town is Dihi."
+  ],
+  "reply": "Boka Zari bought the Gali last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Boka Zari use?",
+  "want": "Bibaho",
+  "id": 85,
+  "recalled": [
+   "Boka Zari's discount code is Bibaho.",
+   "Boka Zari bought the Gali last spring.",
+   "Boka Zari's account manager is Dotiza.",
+   "Boka Zari's home town is Dihi."
+  ],
+  "reply": "Boka Zari can use the discount code **Bibaho**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Boka Zari?",
+  "want": "Dotiza",
+  "old": "Fobefi",
+  "update": 0,
+  "id": 86,
+  "recalled": [
+   "Boka Zari's account manager is Dotiza.",
+   "Boka Zari bought the Gali last spring.",
+   "Boka Zari's discount code is Bibaho.",
+   "Boka Zari's home town is Dihi."
+  ],
+  "reply": "Boka Zari's account manager is Dotiza, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Luhizu Titiha use?",
+  "want": "Lalani",
+  "id": 87,
+  "recalled": [
+   "Luhizu Titiha's discount code is Lalani.",
+   "Luhizu Titiha's account manager is Kile.",
+   "Luhizu Titiha's home town is Bemifi.",
+   "Luhizu Titiha bought the Papa last spring."
+  ],
+  "reply": "Luhizu Titiha can use the discount code **Lalani**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Luhizu Titiha live in?",
+  "want": "Bemifi",
+  "id": 88,
+  "recalled": [
+   "Luhizu Titiha's home town is Bemifi.",
+   "Luhizu Titiha's account manager is Kile.",
+   "Luhizu Titiha's discount code is Lalani.",
+   "Luhizu Titiha bought the Papa last spring."
+  ],
+  "reply": "According to your glyphh memory, Luhizu Titiha's home town is Bemifi, so that's the town they live in."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Luhizu Titiha's account?",
+  "want": "Kile",
+  "old": "Taki",
+  "update": 1,
+  "id": 89,
+  "recalled": [
+   "Luhizu Titiha's account manager is Kile.",
+   "Luhizu Titiha's discount code is Lalani.",
+   "Luhizu Titiha's home town is Bemifi.",
+   "Luhizu Titiha bought the Papa last spring."
+  ],
+  "reply": "Luhizu Titiha's account manager is **Kile**, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Dalera Bozo live in?",
+  "want": "Nedi",
+  "id": 90,
+  "recalled": [
+   "Dalera Bozo's home town is Nedi.",
+   "Dalera Bozo bought the Zalo last spring.",
+   "Dalera Bozo's account manager is Kadame.",
+   "Dalera Bozo's discount code is Rehe."
+  ],
+  "reply": "Based on your glyphh memory, Dalera Bozo's home town is Nedi. It doesn't say explicitly where she currently lives, so Nedi is the closest answer available."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Dalera Bozo purchase last spring?",
+  "want": "Zalo",
+  "id": 91,
+  "recalled": [
+   "Dalera Bozo bought the Zalo last spring.",
+   "Dalera Bozo's discount code is Rehe.",
+   "Dalera Bozo's account manager is Kadame.",
+   "Dalera Bozo's home town is Nedi."
+  ],
+  "reply": "Dalera Bozo purchased the Zalo last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Dalera Bozo?",
+  "want": "Kadame",
+  "old": "Bogi",
+  "update": 0,
+  "id": 92,
+  "recalled": [
+   "Dalera Bozo's account manager is Kadame.",
+   "Dalera Bozo bought the Zalo last spring.",
+   "Dalera Bozo's discount code is Rehe.",
+   "Dalera Bozo's home town is Nedi."
+  ],
+  "reply": "Dalera Bozo's account manager is Kadame, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Rizo Hamida purchase last spring?",
+  "want": "Vufa",
+  "id": 93,
+  "recalled": [
+   "Rizo Hamida bought the Vufa last spring.",
+   "Rizo Hamida's discount code is Guzega.",
+   "Rizo Hamida's account manager is Filugo.",
+   "Rizo Hamida's home town is Safu."
+  ],
+  "reply": "Rizo Hamida purchased the Vufa last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Rizo Hamida get?",
+  "want": "Guzega",
+  "id": 94,
+  "recalled": [
+   "Rizo Hamida's discount code is Guzega.",
+   "Rizo Hamida bought the Vufa last spring.",
+   "Rizo Hamida's account manager is Filugo.",
+   "Rizo Hamida's home town is Safu."
+  ],
+  "reply": "Rizo Hamida's discount code is **Guzega**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Rizo Hamida's account?",
+  "want": "Filugo",
+  "old": "Tehi",
+  "update": 1,
+  "id": 95,
+  "recalled": [
+   "Rizo Hamida's account manager is Filugo.",
+   "Rizo Hamida bought the Vufa last spring.",
+   "Rizo Hamida's home town is Safu.",
+   "Rizo Hamida's discount code is Guzega."
+  ],
+  "reply": "Rizo Hamida's account manager is **Filugo**, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Nemu Bavo get?",
+  "want": "Damotu",
+  "id": 96,
+  "recalled": [
+   "Nemu Bavo's discount code is Damotu.",
+   "Nemu Bavo bought the Ditete last spring.",
+   "Nemu Bavo's account manager is Hibufu.",
+   "Nemu Bavo's home town is Zofigu."
+  ],
+  "reply": "Nemu Bavo's discount code is **Damotu**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Nemu Bavo's home town?",
+  "want": "Zofigu",
+  "id": 97,
+  "recalled": [
+   "Nemu Bavo's home town is Zofigu.",
+   "Nemu Bavo bought the Ditete last spring.",
+   "Nemu Bavo's account manager is Hibufu.",
+   "Nemu Bavo's discount code is Damotu."
+  ],
+  "reply": "Nemu Bavo's home town is Zofigu."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Nemu Bavo?",
+  "want": "Hibufu",
+  "old": "Dozi",
+  "update": 0,
+  "id": 98,
+  "recalled": [
+   "Nemu Bavo's account manager is Hibufu.",
+   "Nemu Bavo bought the Ditete last spring.",
+   "Nemu Bavo's discount code is Damotu.",
+   "Nemu Bavo's home town is Zofigu."
+  ],
+  "reply": "Nemu Bavo's account manager is Hibufu."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Hedeti Torudi's home town?",
+  "want": "Falara",
+  "id": 99,
+  "recalled": [
+   "Hedeti Torudi's home town is Falara.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Hedeti Torudi's account manager is Medodo.",
+   "Hedeti Torudi's discount code is Zopoto."
+  ],
+  "reply": "Hedeti Torudi's home town is Falara."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Hedeti Torudi buy?",
+  "want": "Mopumu",
+  "id": 100,
+  "recalled": [
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Hedeti Torudi's account manager is Medodo.",
+   "Hedeti Torudi's discount code is Zopoto.",
+   "Hedeti Torudi's home town is Falara."
+  ],
+  "reply": "Hedeti Torudi bought the Mopumu last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Hedeti Torudi's account?",
+  "want": "Medodo",
+  "old": "Medeku",
+  "update": 1,
+  "id": 101,
+  "recalled": [
+   "Hedeti Torudi's account manager is Medodo.",
+   "Hedeti Torudi bought the Mopumu last spring.",
+   "Hedeti Torudi's discount code is Zopoto.",
+   "Hedeti Torudi's home town is Falara."
+  ],
+  "reply": "Hedeti Torudi's account is managed by Medodo, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Hemiro Nago buy?",
+  "want": "Vapo",
+  "id": 102,
+  "recalled": [
+   "Hemiro Nago bought the Vapo last spring.",
+   "Hemiro Nago's account manager is Rogo.",
+   "Hemiro Nago's discount code is Hivo.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "Hemiro Nago bought the Vapo, which was purchased last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Hemiro Nago use?",
+  "want": "Hivo",
+  "id": 103,
+  "recalled": [
+   "Hemiro Nago's discount code is Hivo.",
+   "Hemiro Nago bought the Vapo last spring.",
+   "Hemiro Nago's account manager is Rogo.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "Hemiro Nago can use the discount code **Hivo**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Hemiro Nago?",
+  "want": "Rogo",
+  "old": "Rano",
+  "update": 0,
+  "id": 104,
+  "recalled": [
+   "Hemiro Nago's account manager is Rogo.",
+   "Hemiro Nago bought the Vapo last spring.",
+   "Hemiro Nago's discount code is Hivo.",
+   "Hemiro Nago's home town is Rado."
+  ],
+  "reply": "Hemiro Nago's account manager is Rogo, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Zare Zipare use?",
+  "want": "Foze",
+  "id": 105,
+  "recalled": [
+   "Zare Zipare's discount code is Foze.",
+   "Zare Zipare bought the Zode last spring.",
+   "Zare Zipare's account manager is Lekido.",
+   "Zare Zipare's home town is Vote."
+  ],
+  "reply": "Zare Zipare can use the discount code **Foze**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Zare Zipare live in?",
+  "want": "Vote",
+  "id": 106,
+  "recalled": [
+   "Zare Zipare's home town is Vote.",
+   "Zare Zipare bought the Zode last spring.",
+   "Zare Zipare's account manager is Lekido.",
+   "Zare Zipare's discount code is Foze."
+  ],
+  "reply": "According to your glyphh memory, Zare Zipare's home town is Vote."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Zare Zipare's account?",
+  "want": "Lekido",
+  "old": "Sokapi",
+  "update": 1,
+  "id": 107,
+  "recalled": [
+   "Zare Zipare's account manager is Lekido.",
+   "Zare Zipare bought the Zode last spring.",
+   "Zare Zipare's discount code is Foze.",
+   "Zare Zipare's home town is Vote."
+  ],
+  "reply": "Lekido manages Zare Zipare's account, according to the information in your glyphh."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Zumo Haru live in?",
+  "want": "Zahu",
+  "id": 108,
+  "recalled": [
+   "Zumo Haru's home town is Zahu.",
+   "Zumo Haru bought the Voduga last spring.",
+   "Zumo Haru's account manager is Masuvi.",
+   "Zumo Haru's discount code is Zuvoge."
+  ],
+  "reply": "According to your glyphh memory, Zumo Haru's home town is Zahu."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Zumo Haru purchase last spring?",
+  "want": "Voduga",
+  "id": 109,
+  "recalled": [
+   "Zumo Haru bought the Voduga last spring.",
+   "Zumo Haru's discount code is Zuvoge.",
+   "Zumo Haru's account manager is Masuvi.",
+   "Zumo Haru's home town is Zahu."
+  ],
+  "reply": "Zumo Haru purchased the Voduga last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Zumo Haru?",
+  "want": "Masuvi",
+  "old": "Lozaha",
+  "update": 0,
+  "id": 110,
+  "recalled": [
+   "Zumo Haru's account manager is Masuvi.",
+   "Zumo Haru bought the Voduga last spring.",
+   "Zumo Haru's discount code is Zuvoge.",
+   "Zumo Haru's home town is Zahu."
+  ],
+  "reply": "Zumo Haru's account manager is Masuvi."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Soso Vuga purchase last spring?",
+  "want": "Zeko",
+  "id": 111,
+  "recalled": [
+   "Soso Vuga bought the Zeko last spring.",
+   "Soso Vuga's discount code is Biko.",
+   "Soso Vuga's account manager is Vonole.",
+   "Soso Vuga's home town is Vahoko."
+  ],
+  "reply": "Soso Vuga bought the Zeko last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Soso Vuga get?",
+  "want": "Biko",
+  "id": 112,
+  "recalled": [
+   "Soso Vuga's discount code is Biko.",
+   "Soso Vuga bought the Zeko last spring.",
+   "Soso Vuga's account manager is Vonole.",
+   "Soso Vuga's home town is Vahoko."
+  ],
+  "reply": "Soso Vuga's discount code is **Biko**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Soso Vuga's account?",
+  "want": "Vonole",
+  "old": "Fulagu",
+  "update": 1,
+  "id": 113,
+  "recalled": [
+   "Soso Vuga's account manager is Vonole.",
+   "Soso Vuga bought the Zeko last spring.",
+   "Soso Vuga's discount code is Biko.",
+   "Soso Vuga's home town is Vahoko."
+  ],
+  "reply": "Vonole is the account manager for Soso Vuga, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Mofo Diha get?",
+  "want": "Lukizu",
+  "id": 114,
+  "recalled": [
+   "Mofo Diha's discount code is Lukizu.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Mofo Diha's account manager is Pamemu.",
+   "Mofo Diha's home town is Gemuga."
+  ],
+  "reply": "Mofo Diha's discount code is **Lukizu**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Mofo Diha's home town?",
+  "want": "Gemuga",
+  "id": 115,
+  "recalled": [
+   "Mofo Diha's home town is Gemuga.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Mofo Diha's account manager is Pamemu.",
+   "Mofo Diha's discount code is Lukizu."
+  ],
+  "reply": "Mofo Diha's home town is Gemuga."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Mofo Diha?",
+  "want": "Pamemu",
+  "old": "Pihe",
+  "update": 0,
+  "id": 116,
+  "recalled": [
+   "Mofo Diha's account manager is Pamemu.",
+   "Mofo Diha bought the Bereno last spring.",
+   "Mofo Diha's discount code is Lukizu.",
+   "Mofo Diha's home town is Gemuga."
+  ],
+  "reply": "Mofo Diha's account manager is Pamemu."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Netiki Pebope's home town?",
+  "want": "Nonepa",
+  "id": 117,
+  "recalled": [
+   "Netiki Pebope's home town is Nonepa.",
+   "Netiki Pebope bought the Vezo last spring.",
+   "Netiki Pebope's account manager is Gisogu.",
+   "Netiki Pebope's discount code is Latu."
+  ],
+  "reply": "Netiki Pebope's home town is Nonepa."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Netiki Pebope buy?",
+  "want": "Vezo",
+  "id": 118,
+  "recalled": [
+   "Netiki Pebope bought the Vezo last spring.",
+   "Netiki Pebope's account manager is Gisogu.",
+   "Netiki Pebope's home town is Nonepa.",
+   "Netiki Pebope's discount code is Latu."
+  ],
+  "reply": "Netiki Pebope bought the Vezo last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Netiki Pebope's account?",
+  "want": "Gisogu",
+  "old": "Beri",
+  "update": 1,
+  "id": 119,
+  "recalled": [
+   "Netiki Pebope's account manager is Gisogu.",
+   "Netiki Pebope bought the Vezo last spring.",
+   "Netiki Pebope's discount code is Latu.",
+   "Netiki Pebope's home town is Nonepa."
+  ],
+  "reply": "Netiki Pebope's account is managed by Gisogu, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Badadi Lavu buy?",
+  "want": "Luhome",
+  "id": 120,
+  "recalled": [
+   "Badadi Lavu bought the Luhome last spring.",
+   "Badadi Lavu's account manager is Zine.",
+   "Badadi Lavu's discount code is Zafu.",
+   "Badadi Lavu's home town is Pege."
+  ],
+  "reply": "Badadi Lavu bought the **Luhome** last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Badadi Lavu use?",
+  "want": "Zafu",
+  "id": 121,
+  "recalled": [
+   "Badadi Lavu's discount code is Zafu.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Badadi Lavu's account manager is Zine.",
+   "Badadi Lavu's home town is Pege."
+  ],
+  "reply": "Badadi Lavu can use the discount code **Zafu**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Badadi Lavu?",
+  "want": "Zine",
+  "old": "Fomove",
+  "update": 0,
+  "id": 122,
+  "recalled": [
+   "Badadi Lavu's account manager is Zine.",
+   "Badadi Lavu bought the Luhome last spring.",
+   "Badadi Lavu's discount code is Zafu.",
+   "Badadi Lavu's home town is Pege."
+  ],
+  "reply": "Badadi Lavu's account manager is Zine."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Kume Kogi use?",
+  "want": "Guzovi",
+  "id": 123,
+  "recalled": [
+   "Kume Kogi's discount code is Guzovi.",
+   "Kume Kogi bought the Sazubu last spring.",
+   "Kume Kogi's account manager is Rafiho.",
+   "Kume Kogi's home town is Lokere."
+  ],
+  "reply": "Kume Kogi can use the discount code **Guzovi**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Kume Kogi live in?",
+  "want": "Lokere",
+  "id": 124,
+  "recalled": [
+   "Kume Kogi's home town is Lokere.",
+   "Kume Kogi bought the Sazubu last spring.",
+   "Kume Kogi's account manager is Rafiho.",
+   "Kume Kogi's discount code is Guzovi."
+  ],
+  "reply": "Kume Kogi's home town is Lokere, according to your glyphh memory. (Note that this says \"home town,\" which may not necessarily be where they currently live, but it's the only location on record.)"
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Kume Kogi's account?",
+  "want": "Rafiho",
+  "old": "Nohehe",
+  "update": 1,
+  "id": 125,
+  "recalled": [
+   "Kume Kogi's account manager is Rafiho.",
+   "Kume Kogi bought the Sazubu last spring.",
+   "Kume Kogi's discount code is Guzovi.",
+   "Kume Kogi's home town is Lokere."
+  ],
+  "reply": "Kume Kogi's account is managed by Rafiho, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Nebusi Veke live in?",
+  "want": "Gazene",
+  "id": 126,
+  "recalled": [
+   "Nebusi Veke's home town is Gazene.",
+   "Nebusi Veke bought the Lukivo last spring.",
+   "Nebusi Veke's account manager is Zokodo.",
+   "Nebusi Veke's discount code is Puge."
+  ],
+  "reply": "Nebusi Veke's home town is Gazene, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Nebusi Veke purchase last spring?",
+  "want": "Lukivo",
+  "id": 127,
+  "recalled": [
+   "Nebusi Veke bought the Lukivo last spring.",
+   "Nebusi Veke's discount code is Puge.",
+   "Nebusi Veke's account manager is Zokodo.",
+   "Nebusi Veke's home town is Gazene."
+  ],
+  "reply": "Nebusi Veke bought the **Lukivo** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Nebusi Veke?",
+  "want": "Zokodo",
+  "old": "Dekubi",
+  "update": 0,
+  "id": 128,
+  "recalled": [
+   "Nebusi Veke's account manager is Zokodo.",
+   "Nebusi Veke bought the Lukivo last spring.",
+   "Nebusi Veke's discount code is Puge.",
+   "Nebusi Veke's home town is Gazene."
+  ],
+  "reply": "Nebusi Veke's account manager is **Zokodo**."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Tamoku Gahene purchase last spring?",
+  "want": "Bedomo",
+  "id": 129,
+  "recalled": [
+   "Tamoku Gahene bought the Bedomo last spring.",
+   "Tamoku Gahene's discount code is Podibo.",
+   "Tamoku Gahene's account manager is Faki.",
+   "Tamoku Gahene's home town is Tefavo."
+  ],
+  "reply": "Tamoku Gahene purchased the Bedomo last spring."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Tamoku Gahene get?",
+  "want": "Podibo",
+  "id": 130,
+  "recalled": [
+   "Tamoku Gahene's discount code is Podibo.",
+   "Tamoku Gahene bought the Bedomo last spring.",
+   "Tamoku Gahene's account manager is Faki.",
+   "Tamoku Gahene's home town is Tefavo."
+  ],
+  "reply": "Tamoku Gahene's discount code is **Podibo**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Tamoku Gahene's account?",
+  "want": "Faki",
+  "old": "Dufizi",
+  "update": 1,
+  "id": 131,
+  "recalled": [
+   "Tamoku Gahene's account manager is Faki.",
+   "Tamoku Gahene bought the Bedomo last spring.",
+   "Tamoku Gahene's discount code is Podibo.",
+   "Tamoku Gahene's home town is Tefavo."
+  ],
+  "reply": "Tamoku Gahene's account is managed by Faki, according to your Glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Sano Silira get?",
+  "want": "Podesa",
+  "id": 132,
+  "recalled": [
+   "Sano Silira's discount code is Podesa.",
+   "Sano Silira bought the Mesibe last spring.",
+   "Sano Silira's account manager is Rubeki.",
+   "Sano Silira's home town is Kufazo."
+  ],
+  "reply": "Sano Silira's discount code is **Podesa**."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Sano Silira's home town?",
+  "want": "Kufazo",
+  "id": 133,
+  "recalled": [
+   "Sano Silira's home town is Kufazo.",
+   "Sano Silira bought the Mesibe last spring.",
+   "Sano Silira's account manager is Rubeki.",
+   "Sano Silira's discount code is Podesa."
+  ],
+  "reply": "Sano Silira's home town is Kufazo."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Sano Silira?",
+  "want": "Rubeki",
+  "old": "Ziri",
+  "update": 0,
+  "id": 134,
+  "recalled": [
+   "Sano Silira's account manager is Rubeki.",
+   "Sano Silira bought the Mesibe last spring.",
+   "Sano Silira's discount code is Podesa.",
+   "Sano Silira's home town is Kufazo."
+  ],
+  "reply": "Sano Silira's account manager is Rubeki."
+ },
+ {
+  "kind": "recall",
+  "q": "What is Vele Pore's home town?",
+  "want": "Nasu",
+  "id": 135,
+  "recalled": [
+   "Vele Pore's home town is Nasu.",
+   "Vele Pore bought the Silugo last spring.",
+   "Vele Pore's account manager is Pume.",
+   "Vele Pore's discount code is Kimapu."
+  ],
+  "reply": "Vele Pore's home town is Nasu."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Vele Pore buy?",
+  "want": "Silugo",
+  "id": 136,
+  "recalled": [
+   "Vele Pore bought the Silugo last spring.",
+   "Vele Pore's account manager is Pume.",
+   "Vele Pore's discount code is Kimapu.",
+   "Vele Pore's home town is Nasu."
+  ],
+  "reply": "Vele Pore bought the **Silugo** last spring."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Vele Pore's account?",
+  "want": "Pume",
+  "old": "Fivofo",
+  "update": 1,
+  "id": 137,
+  "recalled": [
+   "Vele Pore's account manager is Pume.",
+   "Vele Pore bought the Silugo last spring.",
+   "Vele Pore's discount code is Kimapu.",
+   "Vele Pore's home town is Nasu."
+  ],
+  "reply": "Vele Pore's account is managed by Pume, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which product did Poteta Lobofi buy?",
+  "want": "Desuvu",
+  "id": 138,
+  "recalled": [
+   "Poteta Lobofi bought the Desuvu last spring.",
+   "Poteta Lobofi's account manager is Nemo.",
+   "Poteta Lobofi's discount code is Disena.",
+   "Poteta Lobofi's home town is Zimevu."
+  ],
+  "reply": "Poteta Lobofi bought the Desuvu last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Poteta Lobofi use?",
+  "want": "Disena",
+  "id": 139,
+  "recalled": [
+   "Poteta Lobofi's discount code is Disena.",
+   "Poteta Lobofi bought the Desuvu last spring.",
+   "Poteta Lobofi's account manager is Nemo.",
+   "Poteta Lobofi's home town is Zimevu."
+  ],
+  "reply": "Poteta Lobofi can use the discount code **Disena**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Poteta Lobofi?",
+  "want": "Nemo",
+  "old": "Lovufe",
+  "update": 0,
+  "id": 140,
+  "recalled": [
+   "Poteta Lobofi's account manager is Nemo.",
+   "Poteta Lobofi bought the Desuvu last spring.",
+   "Poteta Lobofi's discount code is Disena.",
+   "Poteta Lobofi's home town is Zimevu."
+  ],
+  "reply": "Poteta Lobofi's account manager is Nemo."
+ },
+ {
+  "kind": "recall",
+  "q": "Which discount code can Fapa Giratu use?",
+  "want": "Dine",
+  "id": 141,
+  "recalled": [
+   "Fapa Giratu's discount code is Dine.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Fapa Giratu's account manager is Zohavo.",
+   "Fapa Giratu's home town is Fone."
+  ],
+  "reply": "Fapa Giratu can use the discount code **Dine**."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Fapa Giratu live in?",
+  "want": "Fone",
+  "id": 142,
+  "recalled": [
+   "Fapa Giratu's home town is Fone.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Fapa Giratu's account manager is Zohavo.",
+   "Fapa Giratu's discount code is Dine."
+  ],
+  "reply": "Fapa Giratu's home town is Fone, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Fapa Giratu's account?",
+  "want": "Zohavo",
+  "old": "Nirupu",
+  "update": 1,
+  "id": 143,
+  "recalled": [
+   "Fapa Giratu's account manager is Zohavo.",
+   "Fapa Giratu bought the Voli last spring.",
+   "Fapa Giratu's discount code is Dine.",
+   "Fapa Giratu's home town is Fone."
+  ],
+  "reply": "Zohavo manages Fapa Giratu's account, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "Which town does Tane Supula live in?",
+  "want": "Sekari",
+  "id": 144,
+  "recalled": [
+   "Tane Supula's home town is Sekari.",
+   "Tane Supula bought the Fibabe last spring.",
+   "Tane Supula's account manager is Menunu.",
+   "Tane Supula's discount code is Godale."
+  ],
+  "reply": "According to your glyphh memory, Tane Supula's home town is Sekari. Note that it lists this as a \"home town,\" so it may not necessarily be where they currently live."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Tane Supula purchase last spring?",
+  "want": "Fibabe",
+  "id": 145,
+  "recalled": [
+   "Tane Supula bought the Fibabe last spring.",
+   "Tane Supula's discount code is Godale.",
+   "Tane Supula's account manager is Menunu.",
+   "Tane Supula's home town is Sekari."
+  ],
+  "reply": "Tane Supula purchased the Fibabe last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "corrected",
+  "q": "Who is the account manager for Tane Supula?",
+  "want": "Menunu",
+  "old": "Vule",
+  "update": 0,
+  "id": 146,
+  "recalled": [
+   "Tane Supula's account manager is Menunu.",
+   "Tane Supula bought the Fibabe last spring.",
+   "Tane Supula's discount code is Godale.",
+   "Tane Supula's home town is Sekari."
+  ],
+  "reply": "Tane Supula's account manager is Menunu."
+ },
+ {
+  "kind": "recall",
+  "q": "What item did Susuhe Dahaga purchase last spring?",
+  "want": "Tine",
+  "id": 147,
+  "recalled": [
+   "Susuhe Dahaga bought the Tine last spring.",
+   "Susuhe Dahaga's discount code is Bami.",
+   "Susuhe Dahaga's account manager is Tatipa.",
+   "Susuhe Dahaga's home town is Hedi."
+  ],
+  "reply": "Susuhe Dahaga purchased the Tine last spring, according to your glyphh memory."
+ },
+ {
+  "kind": "recall",
+  "q": "What discount code did Susuhe Dahaga get?",
+  "want": "Bami",
+  "id": 148,
+  "recalled": [
+   "Susuhe Dahaga's discount code is Bami.",
+   "Susuhe Dahaga's account manager is Tatipa.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Susuhe Dahaga bought the Tine last spring."
+  ],
+  "reply": "Susuhe Dahaga's discount code is **Bami**."
+ },
+ {
+  "kind": "corrected",
+  "q": "Which person manages Susuhe Dahaga's account?",
+  "want": "Tatipa",
+  "old": "Hero",
+  "update": 1,
+  "id": 149,
+  "recalled": [
+   "Susuhe Dahaga's account manager is Tatipa.",
+   "Susuhe Dahaga's discount code is Bami.",
+   "Susuhe Dahaga's home town is Hedi.",
+   "Susuhe Dahaga bought the Tine last spring."
+  ],
+  "reply": "Susuhe Dahaga's account is managed by Tatipa, according to your glyphh memory."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Monamu Zohipe?",
+  "id": 150,
+  "recalled": [],
+  "reply": "I don't have any information about an account manager for Monamu Zohipe. Nothing in this conversation includes a CRM, customer records, or account data. If you can point me to a file or system with that data (or paste the relevant record), I can look it up for you."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Subi Puni's home town?",
+  "id": 151,
+  "recalled": [],
+  "reply": "I don't have reliable information about someone named Subi Puni, so I can't say what their home town is. If you tell me who they are (a athlete, author, or someone else) or share a source, I can help further."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Nese Mevumi buy?",
+  "id": 152,
+  "recalled": [],
+  "reply": "I don't have any information about a person named Nese Mevumi or what they purchased. I have no access to purchase records, customer data, or a database here, and nothing in our conversation mentions this person.\n\nIf you can point me to a file, spreadsheet, or other data source in your working directory (/private/tmp), I can look through it for you."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Geke Rigana use?",
+  "id": 153,
+  "recalled": [],
+  "reply": "I don't have any information about Geke Rigana or available discount codes, and nothing in this conversation includes that data. If you point me to a file, customer record, or promo list (for example in `/private/tmp`), I can check which code applies to them."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Teli Busase?",
+  "id": 154,
+  "recalled": [],
+  "reply": "I don't have access to a CRM or account data for Teli Busase, so I can't say who the account manager is. If you can point me to a file or export in your working directory (or paste the relevant record), I can look it up for you."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Kome Rido's home town?",
+  "id": 155,
+  "recalled": [],
+  "reply": "I don't have reliable information about anyone named Kome Rido, so I can't tell you their hometown. If you can tell me who they are (for example, an athlete, author, or character) or share a source, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Hipa Vani buy?",
+  "id": 156,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Hipa Vani or what product they may have bought. I don't have access to purchase records or personal data here, and nothing in our conversation mentions it. If you can share the relevant file, order data, or more context, I'm happy to help look into it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Karutu Vufi use?",
+  "id": 157,
+  "recalled": [],
+  "reply": "I don't have any information about Karutu Vufi or a list of discount codes, so I can't say which one applies. If you point me to a file or data source in the working directory (/private/tmp) that has the customer and discount details, I can look it up."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Pama Tole?",
+  "id": 158,
+  "recalled": [],
+  "reply": "I don't have any information about who manages the \"Pama Tole\" account. I have no CRM or customer data available in this session, and nothing in the context you've shared mentions it. If you can point me to a file or export that lists accounts (for example, in `/private/tmp`), I can look through it, or you can check your CRM directly."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Tifa Vesolo's home town?",
+  "id": 159,
+  "recalled": [],
+  "reply": "I don't have any reliable information about someone named Tifa Vesolo, so I can't say where their home town is. If you can tell me who they are or share a source, I can help from that. Otherwise, a quick web search or their official bio would be the best place to check."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Hivefo Kaneho buy?",
+  "id": 160,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Hivefo Kaneho or a product they bought. This name isn't something I recognize, and I don't have files or records in this context that mention it. If you can share where it came from (a document, email, or dataset), I can help look into it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Komupa Dinite use?",
+  "id": 161,
+  "recalled": [],
+  "reply": "I don't have any information about Komupa Dinite or which discount codes apply to them, and nothing in this conversation includes a customer list or discount code data. If you can point me to a file in the working directory (/private/tmp) or paste the relevant details, I can look into it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Viseza Rudo?",
+  "id": 162,
+  "recalled": [],
+  "reply": "I don't have any information about who the account manager for Viseza Rudo is. I don't have access to a CRM or account database in this conversation, and nothing in the context you've shared mentions that name.\n\nIf you can point me to a file, export, or system where account data is stored (for example a CSV in the working directory), I can look it up for you."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Retoka Porovi's home town?",
+  "id": 163,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Retoka Porovi, so I can't say what their home town is. They may not be a widely documented public figure, or the name might be spelled differently. If you tell me who they are or share a source, I can help from there."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Nafime Hevosi buy?",
+  "id": 164,
+  "recalled": [
+   "Hubilo Nafime bought the Lobu last spring."
+  ],
+  "reply": "Your memory says \"Hubilo Nafime\" bought the Lobu last spring, but it has nothing about a \"Nafime Hevosi.\" If they're the same person, the answer is the Lobu, though the names don't match, so I can't confirm that."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Galeni Nelari use?",
+  "id": 165,
+  "recalled": [],
+  "reply": "I don't have any information about Galeni Nelari or which discount codes apply to them, and nothing in this conversation includes a customer list or discount code data. If you can point me to a file in `/private/tmp` or paste the relevant details, I can look into it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Meguse Gutohi?",
+  "id": 166,
+  "recalled": [],
+  "reply": "I don't have any information about who the account manager for Meguse Gutohi is. I have no access to a CRM or account records here, and nothing in this conversation mentions them. If you can point me to a file or export with that data, or tell me which system holds it, I can help look it up."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Ralini Nofemu's home town?",
+  "id": 167,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Ralini Nofemu, so I can't say what their home town is. If you tell me who they are or share a file or document with details about them, I can help look through it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Dorami Feni buy?",
+  "id": 168,
+  "recalled": [],
+  "reply": "I don't have any information about a person named Dorami Feni or what they bought, and nothing in my current context mentions it. If you can share the relevant records, such as an order file, a CRM export, or an email, I can look through them and find the answer."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Husaha Vusele use?",
+  "id": 169,
+  "recalled": [],
+  "reply": "I don't have any information about Husaha Vusele or which discount codes apply to them, and nothing in this conversation includes a customer list or code database. If you point me to a file or data source (for example in /private/tmp), I can look it up."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Kiki Ruha?",
+  "id": 170,
+  "recalled": [],
+  "reply": "I don't have any information about who the account manager for Kiki Ruha is. I don't have access to a CRM or customer database here, and nothing in this conversation mentions that name. If you can share a file or export with account data, or tell me which system holds it, I can help look it up."
+ },
+ {
+  "kind": "unknown",
+  "q": "What is Gufoze Fezita's home town?",
+  "id": 171,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Gufoze Fezita, so I can't say what their home town is. That name doesn't match anyone I know of, and I don't want to guess. If you can share some context, such as who they are or where you came across the name, I can try to help further."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which product did Fimafu Dutabi buy?",
+  "id": 172,
+  "recalled": [],
+  "reply": "I don't have any information about someone named Fimafu Dutabi or a product they bought. This name doesn't match anything I know, and I don't have a source here (like a file or record) that mentions it. If you can share the document or context where this comes from, I'm happy to help look through it."
+ },
+ {
+  "kind": "unknown",
+  "q": "Which discount code can Kase Tipo use?",
+  "id": 173,
+  "recalled": [],
+  "reply": "I don't have any information about Kase Tipo or available discount codes, so I can't say which one applies. If you can share the relevant file, such as a customer list or promo code sheet, or tell me where it is in /private/tmp, I can look it up."
+ },
+ {
+  "kind": "unknown",
+  "q": "Who is the account manager for Gone Dilu?",
+  "id": 174,
+  "recalled": [],
+  "reply": "I don't have any information about an account manager for Gone Dilu, and nothing in my context mentions that account. If you have a CRM export or files with account data, point me to them (or I can search /private/tmp) and I'll look it up."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How long should I boil an egg?",
+  "id": 175,
+  "recalled": [],
+  "reply": "Place the egg in already boiling water and cook it for about 6\u20137 minutes for a soft, jammy yolk, or 10\u201312 minutes for a fully hard-boiled egg. Then move it to an ice bath right away to stop the cooking and make peeling easier."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What causes the seasons?",
+  "id": 176,
+  "recalled": [],
+  "reply": "The seasons are caused by Earth's axial tilt of about 23.5\u00b0 relative to its orbit around the Sun. As Earth orbits, different hemispheres tilt toward or away from the Sun, changing the angle and duration of sunlight they receive, which makes it warmer in summer and cooler in winter. It's not caused by Earth's distance from the Sun."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is the capital of Australia?",
+  "id": 177,
+  "recalled": [],
+  "reply": "The capital of Australia is Canberra. It was purpose-built as the capital and sits between Sydney and Melbourne."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I remove a coffee stain?",
+  "id": 178,
+  "recalled": [],
+  "reply": "Blot up as much of the coffee as you can right away, then rinse the stain from the back with cold water. Work in a small amount of liquid dish soap mixed with water (or a 1:1 white vinegar and water mix for stubborn spots), dab until it lifts, and launder as usual, avoiding the dryer until the stain is fully gone."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why is the ocean salty?",
+  "id": 179,
+  "recalled": [],
+  "reply": "The ocean is salty mainly because rain slowly erodes rocks on land, releasing mineral salts (like sodium and chloride ions) that rivers carry to the sea. Underwater volcanic vents and seafloor processes add more, and because evaporation removes only water, the salts accumulate over millions of years."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is compound interest?",
+  "id": 180,
+  "recalled": [],
+  "reply": "Compound interest is interest calculated on both the original principal and the interest that has already accumulated, so your money grows faster over time than with simple interest. For example, $1,000 at 5% compounded annually becomes $1,050 after year one, then $1,102.50 after year two, since the second year's interest is earned on $1,050."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I fix a squeaky door?",
+  "id": 181,
+  "recalled": [],
+  "reply": "Apply a lubricant to the hinges: pop out the hinge pins one at a time (tap them up from the bottom with a nail and hammer), wipe off any rust or grime, coat them with white lithium grease, silicone spray, or petroleum jelly, then reinsert them. If it's still squeaking, open and close the door to find which hinge is the culprit and repeat there. A bar of soap or a little WD-40 also works in a pinch."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why do cats purr?",
+  "id": 182,
+  "recalled": [],
+  "reply": "Cats purr mainly to communicate contentment, but also to self-soothe when stressed, hurt, or nursing. The vibrations (about 25\u2013150 Hz) are produced by rapid twitching of the laryngeal muscles, and may even help promote healing and pain relief."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I start running?",
+  "id": 183,
+  "recalled": [],
+  "reply": "Start with a run/walk mix: 3 times a week, alternate 1 minute of easy jogging with 1\u20132 minutes of walking for about 20\u201330 minutes, and gradually increase the jogging time as it feels comfortable. Wear proper running shoes, keep the pace slow enough that you could hold a conversation, and take rest days between runs to avoid injury."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is a black hole?",
+  "id": 184,
+  "recalled": [],
+  "reply": "A black hole is a region of space where gravity is so intense that nothing, not even light, can escape once it crosses a boundary called the event horizon. They typically form when massive stars collapse at the end of their lives, packing enormous mass into an extremely small volume."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I sharpen a kitchen knife?",
+  "id": 185,
+  "recalled": [],
+  "reply": "Use a whetstone: soak it if needed, hold the knife at about 15\u201320\u00b0 to the stone, and push or pull the edge across it in smooth strokes, working a coarse grit (~1000) first and then a finer one (~3000\u20136000) for polish. Do the same number of strokes on each side, remove the burr by lightly stropping on leather or cardboard, and test by slicing paper or a tomato. For quick touch-ups between sharpenings, use a honing rod."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What makes a good password?",
+  "id": 186,
+  "recalled": [],
+  "reply": "A good password is long (ideally 14+ characters), unique to each account, and hard to guess, such as a random string or a passphrase of several unrelated words. Use a password manager to generate and store them, avoid personal info or common patterns, and turn on multi-factor authentication wherever possible."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why do leaves change color?",
+  "id": 187,
+  "recalled": [],
+  "reply": "Leaves change color in fall because shorter days and cooler temperatures cause trees to stop producing chlorophyll, the green pigment used for photosynthesis. As the green fades, yellow and orange pigments (carotenoids) that were there all along become visible, while some trees also produce new red and purple pigments (anthocyanins) from sugars trapped in the leaves."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I make cold brew coffee?",
+  "id": 188,
+  "recalled": [],
+  "reply": "Combine 1 cup of coarsely ground coffee with 4 cups of cold water in a jar, stir, and steep covered in the fridge or at room temperature for 12\u201318 hours. Strain through a fine mesh sieve or coffee filter, then dilute with water or milk to taste (the result is a concentrate) and serve over ice."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is inflation?",
+  "id": 189,
+  "recalled": [],
+  "reply": "Inflation is the rate at which the general level of prices for goods and services rises over time, which reduces the purchasing power of money. It's usually measured by indexes like the Consumer Price Index (CPI), and moderate inflation (around 2% annually) is typically considered normal in a healthy economy."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How often should I water a cactus?",
+  "id": 190,
+  "recalled": [],
+  "reply": "Water a cactus about every 2\u20134 weeks during spring and summer, letting the soil dry out completely between waterings, and cut back to once every 1\u20132 months (or less) in fall and winter when it's dormant. Soak the soil thoroughly when you do water, and make sure the pot drains well to avoid root rot."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why does bread go stale?",
+  "id": 191,
+  "recalled": [],
+  "reply": "Bread goes stale mainly because of **starch retrogradation**: after baking, the starch molecules (amylose and amylopectin) gradually recrystallize and push out water, turning the soft crumb firm and dry-feeling. Moisture also migrates from the crumb to the crust and evaporates, which adds to the effect. (Stale isn't the same as mold, which is microbial spoilage.)\n\nRefrigerating bread actually speeds up staling, while freezing it halts the process."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How can I sleep better?",
+  "id": 192,
+  "recalled": [],
+  "reply": "Keep a consistent sleep and wake time (even on weekends), and build a wind-down routine: dim lights and avoid screens for 30\u201360 minutes before bed. Keep your bedroom cool, dark, and quiet, and limit caffeine after midday and alcohol close to bedtime. If trouble persists for weeks, it's worth talking to a doctor."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is a neutron star?",
+  "id": 193,
+  "recalled": [],
+  "reply": "A neutron star is the extremely dense remnant core of a massive star that collapsed in a supernova, packing roughly 1.4 to 2 times the Sun's mass into a sphere only about 20 km across. It's made almost entirely of tightly packed neutrons, so a teaspoon of its material would weigh billions of tons."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I iron a shirt?",
+  "id": 194,
+  "recalled": [],
+  "reply": "Set your iron to the right heat for the fabric (cotton can take high, synthetics need low), and iron the shirt while it's slightly damp or use steam. Work in this order: collar (underside first), cuffs, sleeves, yoke (shoulders), then the body, pressing each section flat and moving the iron smoothly rather than letting it sit. Hang it up right away so it stays smooth."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why do we yawn?",
+  "id": 195,
+  "recalled": [],
+  "reply": "Scientists aren't certain, but the leading theory is that yawning helps cool and regulate the brain: the deep inhale and jaw stretch increase blood flow and bring in cooler air. It's also linked to shifts in alertness (tiredness, boredom) and is socially contagious, possibly as a form of empathy or group synchronization."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I descale a kettle?",
+  "id": 196,
+  "recalled": [],
+  "reply": "Fill the kettle halfway with equal parts white vinegar and water (or water with a few tablespoons of citric acid), bring it to a boil, then let it sit for 20\u201330 minutes. Pour it out, scrub any remaining scale with a soft brush, and boil and discard a kettle of plain water once or twice to rinse away the taste."
+ },
+ {
+  "kind": "unrelated",
+  "q": "What is a mortgage?",
+  "id": 197,
+  "recalled": [],
+  "reply": "A mortgage is a loan used to buy real estate, where the property itself serves as collateral. The borrower repays the loan, plus interest, in regular installments over a set term (often 15 to 30 years), and if they fail to pay, the lender can foreclose and take the property."
+ },
+ {
+  "kind": "unrelated",
+  "q": "Why does ice float?",
+  "id": 198,
+  "recalled": [],
+  "reply": "Ice floats because it's less dense than liquid water. As water freezes, its molecules form a rigid hexagonal lattice held together by hydrogen bonds, which spaces them farther apart than in liquid water, so ice takes up about 9% more volume for the same mass."
+ },
+ {
+  "kind": "unrelated",
+  "q": "How do I get better at chess?",
+  "id": 199,
+  "recalled": [],
+  "reply": "Focus on three things: solve tactics puzzles daily (to sharpen pattern recognition), and review your own games to understand your mistakes. Also learn core opening principles and basic endgames rather than memorizing lots of theory. Playing longer time controls (like 15+10) gives you time to think and makes your practice more valuable."
+ }
+]
