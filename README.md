@@ -59,3 +59,8 @@ The model tests are the loop this is developed in: invented customers, facts tol
 told, corrected, forgotten, restarted, ingested from free text. Measured on Qwen3-14B (4-bit, M2 Max),
 2026-11-10: recall 80/80, corrections 10/10 with the old value never said, another tenant sees nothing, memory
 survives a restart, ingest 20/20.
+
+
+## License
+
+Apache-2.0. See LICENSE and NOTICE. Copyright 2026 Chris Timmerman / Glyphh AI LLC. More about it: https://glyphh.ai/projects/adal-v0

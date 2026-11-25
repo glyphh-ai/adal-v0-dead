@@ -1,4 +1,5 @@
 [project]
+license = "Apache-2.0"
 name = "adal"
 version = "0.1.0"
 description = "adaL: a language model with Glyphh's memory in it. Tell it a fact once; it remembers, takes the correction and forgets nothing else."
